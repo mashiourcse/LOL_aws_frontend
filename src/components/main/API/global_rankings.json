@@ -1,0 +1,405 @@
+{
+    "message": "Successfully retrieved 20 teams",
+    "data": [
+        {
+            "_id": "65042b98e7610143429c9c4b",
+            "team_id": "4615552b-f387-4292-a608-a16b5fa8c732",
+            "team_code": "lricson0",
+            "team_name": "Ricson",
+            "rank": 1,
+            "__v": 0
+        },
+        {
+            "_id": "65042b99e7610143429c9c4e",
+            "team_id": "0e510833-2f6b-4d69-9118-3b3ae0ff7b06",
+            "team_code": "ithickens1",
+            "team_name": "Thickens",
+            "rank": 2,
+            "__v": 0
+        },
+        {
+            "_id": "65042b9ae7610143429c9c50",
+            "team_id": "c68ce498-b296-4117-8230-8a313b1b0aab",
+            "team_code": "bstoneman2",
+            "team_name": "Stoneman",
+            "rank": 3,
+            "__v": 0
+        },
+        {
+            "_id": "65042b9ae7610143429c9c52",
+            "team_id": "1208499d-6b1e-44fe-b6e0-2e25e7230810",
+            "team_code": "wdamato3",
+            "team_name": "Damato",
+            "rank": 4,
+            "__v": 0
+        },
+        {
+            "_id": "65042b9ae7610143429c9c54",
+            "team_id": "b9b29531-b198-4f05-9612-1594f135e310",
+            "team_code": "ccostall4",
+            "team_name": "Costall",
+            "rank": 5,
+            "__v": 0
+        },
+        {
+            "_id": "65042b9be7610143429c9c56",
+            "team_id": "493e44fe-8ecf-46eb-bedd-eae4f2655d04",
+            "team_code": "wgonnel5",
+            "team_name": "Gonnel",
+            "rank": 6,
+            "__v": 0
+        },
+        {
+            "_id": "65042b9be7610143429c9c58",
+            "team_id": "a649d7aa-eb63-46e0-ac9a-93aaa424f9dc",
+            "team_code": "mpiris6",
+            "team_name": "Piris",
+            "rank": 7,
+            "__v": 0
+        },
+        {
+            "_id": "65042b9be7610143429c9c5a",
+            "team_id": "711d63c8-1aea-44d4-912d-55e6bde9d873",
+            "team_code": "raldhous7",
+            "team_name": "Aldhous",
+            "rank": 8,
+            "__v": 0
+        },
+        {
+            "_id": "65042b9ce7610143429c9c5c",
+            "team_id": "3b974a22-1670-4404-af01-fca7685f4765",
+            "team_code": "mtapson8",
+            "team_name": "Tapson",
+            "rank": 9,
+            "__v": 0
+        },
+        {
+            "_id": "65042b9ce7610143429c9c5e",
+            "team_id": "41957cfa-5a65-47ef-991a-36c60a41352c",
+            "team_code": "lelvidge9",
+            "team_name": "Elvidge",
+            "rank": 10,
+            "__v": 0
+        },
+        {
+            "_id": "65042b9ce7610143429c9c60",
+            "team_id": "7ac76f79-ce3f-4e0d-967e-75edfb58d9ad",
+            "team_code": "ppluma",
+            "team_name": "Plum",
+            "rank": 11,
+            "__v": 0
+        },
+        {
+            "_id": "65042b9de7610143429c9c62",
+            "team_id": "41ac7db7-c53b-4019-a94e-0966fad32c32",
+            "team_code": "dpanchinb",
+            "team_name": "Panchin",
+            "rank": 12,
+            "__v": 0
+        },
+        {
+            "_id": "65042b9de7610143429c9c64",
+            "team_id": "c8dd0b39-bfb8-40a2-8cc9-44b970a6b9d4",
+            "team_code": "lpikettc",
+            "team_name": "Pikett",
+            "rank": 13,
+            "__v": 0
+        },
+        {
+            "_id": "65042b9de7610143429c9c66",
+            "team_id": "db3903d8-56c6-44bb-bcc4-20dbf10bdbef",
+            "team_code": "lvautierd",
+            "team_name": "Vautier",
+            "rank": 14,
+            "__v": 0
+        },
+        {
+            "_id": "65042b9de7610143429c9c68",
+            "team_id": "70df5a14-e732-4a7e-b238-3b27a63c3f82",
+            "team_code": "nvigurse",
+            "team_name": "Vigurs",
+            "rank": 15,
+            "__v": 0
+        },
+        {
+            "_id": "65042b9ee7610143429c9c6a",
+            "team_id": "8c502b48-b472-4f63-b3f2-9681e6b97670",
+            "team_code": "sbrodheadf",
+            "team_name": "Brodhead",
+            "rank": 16,
+            "__v": 0
+        },
+        {
+            "_id": "65042b9ee7610143429c9c6c",
+            "team_id": "65d50e86-ae3c-44e1-ab01-a6c04878ebdd",
+            "team_code": "fforsythg",
+            "team_name": "Forsyth",
+            "rank": 17,
+            "__v": 0
+        },
+        {
+            "_id": "65042b9ee7610143429c9c6e",
+            "team_id": "7dc71978-8f3e-4ae0-8e16-13291388d362",
+            "team_code": "cdallisonh",
+            "team_name": "Dallison",
+            "rank": 18,
+            "__v": 0
+        },
+        {
+            "_id": "65042b9fe7610143429c9c70",
+            "team_id": "f3a5261c-379a-49a2-9790-cff7022f369f",
+            "team_code": "aboulleni",
+            "team_name": "Boullen",
+            "rank": 19,
+            "__v": 0
+        },
+        {
+            "_id": "65042b9fe7610143429c9c72",
+            "team_id": "09d7dea5-0483-44c4-85c4-5b3ac937ae19",
+            "team_code": "dklainmanj",
+            "team_name": "Klainman",
+            "rank": 20,
+            "__v": 0
+        },
+        {
+            "_id": "65042b9fe7610143429c9c74",
+            "team_id": "7f7750c6-ab87-4894-aa6c-c3b15c74c87b",
+            "team_code": "sgreenhalghk",
+            "team_name": "Greenhalgh",
+            "rank": 21,
+            "__v": 0
+        },
+        {
+            "_id": "65042ba0e7610143429c9c76",
+            "team_id": "ddf347d2-26c1-44ae-9ab5-86a7e1d1ebc0",
+            "team_code": "amctrustraml",
+            "team_name": "McTrustram",
+            "rank": 22,
+            "__v": 0
+        },
+        {
+            "_id": "65042ba0e7610143429c9c78",
+            "team_id": "d9097e91-c116-4add-81c7-52dd0576f11f",
+            "team_code": "ostaddenm",
+            "team_name": "Stadden",
+            "rank": 23,
+            "__v": 0
+        },
+        {
+            "_id": "65042ba0e7610143429c9c7a",
+            "team_id": "a90a01fd-b9bf-473e-a5e4-952f8519c31a",
+            "team_code": "avanninin",
+            "team_name": "Vannini",
+            "rank": 24,
+            "__v": 0
+        },
+        {
+            "_id": "65042ba0e7610143429c9c7c",
+            "team_id": "9b2714a2-41bf-469a-ac84-a3a135804d8c",
+            "team_code": "jfransemaio",
+            "team_name": "Fransemai",
+            "rank": 25,
+            "__v": 0
+        },
+        {
+            "_id": "65042ba1e7610143429c9c7e",
+            "team_id": "93a15370-4017-43fa-a4d9-230c81e646de",
+            "team_code": "estrewthersp",
+            "team_name": "Strewthers",
+            "rank": 26,
+            "__v": 0
+        },
+        {
+            "_id": "65042ba1e7610143429c9c80",
+            "team_id": "0dbbbfdd-fda9-48ef-9164-c2014c31e042",
+            "team_code": "wipwellq",
+            "team_name": "Ipwell",
+            "rank": 27,
+            "__v": 0
+        },
+        {
+            "_id": "65042ba1e7610143429c9c82",
+            "team_id": "c9b1ca8d-bb62-4a7c-993a-a27c9cf2a247",
+            "team_code": "dstickneyr",
+            "team_name": "Stickney",
+            "rank": 28,
+            "__v": 0
+        },
+        {
+            "_id": "65042ba2e7610143429c9c84",
+            "team_id": "af863f25-3b1e-4915-af52-d7bbb3505840",
+            "team_code": "bnovellis",
+            "team_name": "Novelli",
+            "rank": 29,
+            "__v": 0
+        },
+        {
+            "_id": "65042ba2e7610143429c9c86",
+            "team_id": "7c7941bb-81e6-4038-abb7-30ea9a3697f9",
+            "team_code": "tgaythwaitet",
+            "team_name": "Gaythwaite",
+            "rank": 30,
+            "__v": 0
+        },
+        {
+            "_id": "65042ba2e7610143429c9c88",
+            "team_id": "6cd4e550-90e8-4932-90f3-08122d3576cd",
+            "team_code": "fbernhardssonu",
+            "team_name": "Bernhardsson",
+            "rank": 31,
+            "__v": 0
+        },
+        {
+            "_id": "65042ba3e7610143429c9c8a",
+            "team_id": "56995b25-097f-47ad-93e6-b964c58a360c",
+            "team_code": "ahateleyv",
+            "team_name": "Hateley",
+            "rank": 32,
+            "__v": 0
+        },
+        {
+            "_id": "65042ba3e7610143429c9c8c",
+            "team_id": "27c83bfc-9aed-45ec-94e0-14d628bce678",
+            "team_code": "dcyphusw",
+            "team_name": "Cyphus",
+            "rank": 33,
+            "__v": 0
+        },
+        {
+            "_id": "65042ba4e7610143429c9c8e",
+            "team_id": "54a76dab-99e3-41de-9172-2173b39a443b",
+            "team_code": "bnovkovicx",
+            "team_name": "Novkovic",
+            "rank": 34,
+            "__v": 0
+        },
+        {
+            "_id": "65042ba4e7610143429c9c90",
+            "team_id": "67da65a2-d3de-41c9-a9b6-7de93b1dc589",
+            "team_code": "ctryy",
+            "team_name": "Try",
+            "rank": 35,
+            "__v": 0
+        },
+        {
+            "_id": "65042ba4e7610143429c9c92",
+            "team_id": "64949d48-80bd-486d-8839-0bf879179ac4",
+            "team_code": "nmckernonz",
+            "team_name": "McKernon",
+            "rank": 36,
+            "__v": 0
+        },
+        {
+            "_id": "65042ba4e7610143429c9c94",
+            "team_id": "5fcb18be-7205-43f8-a6d6-01818958a684",
+            "team_code": "rcawsy10",
+            "team_name": "Cawsy",
+            "rank": 37,
+            "__v": 0
+        },
+        {
+            "_id": "65042ba5e7610143429c9c96",
+            "team_id": "5b9f2013-e4c8-4b2a-a22b-1791c4b8785f",
+            "team_code": "mbygate11",
+            "team_name": "Bygate",
+            "rank": 38,
+            "__v": 0
+        },
+        {
+            "_id": "65042ba5e7610143429c9c98",
+            "team_id": "84686470-7fc0-4f81-8c55-5439a68c0c9d",
+            "team_code": "ejovanovic12",
+            "team_name": "Jovanovic",
+            "rank": 39,
+            "__v": 0
+        },
+        {
+            "_id": "65042ba5e7610143429c9c9a",
+            "team_id": "014c2a97-5598-41d4-a5fb-e874b62fa6b2",
+            "team_code": "jcarryer13",
+            "team_name": "Carryer",
+            "rank": 40,
+            "__v": 0
+        },
+        {
+            "_id": "65042ba6e7610143429c9c9c",
+            "team_id": "a3ef7243-8009-4de2-a509-eab9e2798e40",
+            "team_code": "criccardi14",
+            "team_name": "Riccardi",
+            "rank": 41,
+            "__v": 0
+        },
+        {
+            "_id": "65042ba6e7610143429c9c9e",
+            "team_id": "991b9274-cd23-4b3f-9cf3-2366b4ab3c7f",
+            "team_code": "edebill15",
+            "team_name": "Debill",
+            "rank": 42,
+            "__v": 0
+        },
+        {
+            "_id": "65042ba6e7610143429c9ca0",
+            "team_id": "c1914f90-c900-4740-b27a-066a51dae11f",
+            "team_code": "fboick16",
+            "team_name": "Boick",
+            "rank": 43,
+            "__v": 0
+        },
+        {
+            "_id": "65042ba7e7610143429c9ca2",
+            "team_id": "6da15f6e-d5da-4005-83a3-7397e1479fb2",
+            "team_code": "cborder17",
+            "team_name": "Border",
+            "rank": 44,
+            "__v": 0
+        },
+        {
+            "_id": "65042ba7e7610143429c9ca4",
+            "team_id": "0195d1fc-8586-46a3-a260-7bae23845818",
+            "team_code": "ddraycott18",
+            "team_name": "Draycott",
+            "rank": 45,
+            "__v": 0
+        },
+        {
+            "_id": "65042ba7e7610143429c9ca6",
+            "team_id": "6f8eeb0c-0462-44d6-94aa-e1baf342f13b",
+            "team_code": "esmooth19",
+            "team_name": "Smooth",
+            "rank": 46,
+            "__v": 0
+        },
+        {
+            "_id": "65042ba8e7610143429c9ca8",
+            "team_id": "b1e564d8-9943-4990-ae0f-13a869cf9af6",
+            "team_code": "rearengey1a",
+            "team_name": "Earengey",
+            "rank": 47,
+            "__v": 0
+        },
+        {
+            "_id": "65042ba8e7610143429c9caa",
+            "team_id": "c3ad9a46-5126-4dec-a607-b78aee2182f8",
+            "team_code": "dcircuitt1b",
+            "team_name": "Circuitt",
+            "rank": 48,
+            "__v": 0
+        },
+        {
+            "_id": "65042ba8e7610143429c9cac",
+            "team_id": "d0b3f1ca-2d1d-4a16-9422-0dc55d028bda",
+            "team_code": "lroundtree1c",
+            "team_name": "Roundtree",
+            "rank": 49,
+            "__v": 0
+        },
+        {
+            "_id": "65042ba8e7610143429c9cae",
+            "team_id": "fec31a0d-197d-4d5c-8838-d6e3b8238d5d",
+            "team_code": "adadds1d",
+            "team_name": "Dadds",
+            "rank": 50,
+            "__v": 0
+        }
+    ]
+}

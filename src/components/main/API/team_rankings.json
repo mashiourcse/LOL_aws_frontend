@@ -1,0 +1,75 @@
+{
+    "message": "get all tournaments",
+    "data": [
+        {
+            "_id": "6505322854588f7ca793ad56",
+            "tournament_id": 123,
+            "tournament_name": "Sample Tournament",
+            "rankings": [
+                {
+                    "id": 1,
+                    "team_id": "team1",
+                    "team_code": "T1",
+                    "team_name": "Team A",
+                    "rank": 1,
+                    "rating_score": 1000,
+                    "_id": "6505322854588f7ca793ad57"
+                },
+                {
+                    "id": 2,
+                    "team_id": "team2",
+                    "team_code": "T2",
+                    "team_name": "Team B",
+                    "rank": 2,
+                    "rating_score": 950,
+                    "_id": "6505322854588f7ca793ad58"
+                },
+                {
+                    "id": 3,
+                    "team_id": "team3",
+                    "team_code": "T3",
+                    "team_name": "Team C",
+                    "rank": 3,
+                    "rating_score": 900,
+                    "_id": "6505322854588f7ca793ad59"
+                }
+            ],
+            "__v": 0
+        },
+        {
+            "_id": "650532df54588f7ca793ad5b",
+            "tournament_id": 123,
+            "tournament_name": "LCK Challengers",
+            "rankings": [
+                {
+                    "id": 1,
+                    "team_id": "T1",
+                    "team_code": "T1",
+                    "team_name": "Team A",
+                    "rank": 1,
+                    "rating_score": 1000,
+                    "_id": "650532df54588f7ca793ad5c"
+                },
+                {
+                    "id": 2,
+                    "team_id": "Geng",
+                    "team_code": "T2",
+                    "team_name": "Team B",
+                    "rank": 2,
+                    "rating_score": 950,
+                    "_id": "650532df54588f7ca793ad5d"
+                },
+                {
+                    "id": 3,
+                    "team_id": "DWG",
+                    "team_code": "T3",
+                    "team_name": "Team C",
+                    "rank": 3,
+                    "rating_score": 900,
+                    "_id": "650532df54588f7ca793ad5e"
+                }
+            ],
+            "__v": 0
+        }
+    ]
+}
