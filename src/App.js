@@ -31,7 +31,9 @@ const StaticPages = ()=>{
 export default function App() {
 
   const containerStyle = {
-    marginLeft: '300px',
+    marginLeft: '220px',
+    
+    
     
 };
 

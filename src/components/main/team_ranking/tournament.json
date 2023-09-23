@@ -111,6 +111,155 @@
                 }
             ],
             "__v": 0
+        },
+        {
+            "_id": "6506b34fb603213ca2250eca",
+            "tournament_id": 12345678,
+            "tournament_name": "LPL Winter 2022",
+            "stage": "semifinal",
+            "rankings": [
+                {
+                    "_id": 1,
+                    "team_id": "12312312334",
+                    "team_code": "BLG",
+                    "team_name": "BILLI BILLI GAMING",
+                    "rank": 1
+                },
+                {
+                    "_id": 2,
+                    "team_id": "98767991877340524",
+                    "team_code": "JDG",
+                    "team_name": "JD GAMING INTEL",
+                    "rank": 2
+                },
+                {
+                    "_id": 3,
+                    "team_id": "98767991877340524",
+                    "team_code": "WBG",
+                    "team_name": "Weibo Gaming",
+                    "rank": 3
+                },
+                {
+                    "_id": 4,
+                    "team_id": "98767991877340524",
+                    "team_code": "LGD",
+                    "team_name": "LGD Gaming",
+                    "rank": 4
+                },
+                {
+                    "_id": 1,
+                    "team_id": "12312312334",
+                    "team_code": "BLG",
+                    "team_name": "BILLI BILLI GAMING",
+                    "rank": 1
+                },
+                {
+                    "_id": 2,
+                    "team_id": "98767991877340524",
+                    "team_code": "JDG",
+                    "team_name": "JD GAMING INTEL",
+                    "rank": 2
+                },
+                {
+                    "_id": 3,
+                    "team_id": "98767991877340524",
+                    "team_code": "WBG",
+                    "team_name": "Weibo Gaming",
+                    "rank": 3
+                },
+                {
+                    "_id": 4,
+                    "team_id": "98767991877340524",
+                    "team_code": "LGD",
+                    "team_name": "LGD Gaming",
+                    "rank": 4
+                },
+                {
+                    "_id": 1,
+                    "team_id": "12312312334",
+                    "team_code": "BLG",
+                    "team_name": "BILLI BILLI GAMING",
+                    "rank": 1
+                },
+                {
+                    "_id": 2,
+                    "team_id": "98767991877340524",
+                    "team_code": "JDG",
+                    "team_name": "JD GAMING INTEL",
+                    "rank": 2
+                },
+                {
+                    "_id": 3,
+                    "team_id": "98767991877340524",
+                    "team_code": "WBG",
+                    "team_name": "Weibo Gaming",
+                    "rank": 3
+                },
+                {
+                    "_id": 4,
+                    "team_id": "98767991877340524",
+                    "team_code": "LGD",
+                    "team_name": "LGD Gaming",
+                    "rank": 4
+                },
+                {
+                    "_id": 1,
+                    "team_id": "12312312334",
+                    "team_code": "BLG",
+                    "team_name": "BILLI BILLI GAMING",
+                    "rank": 1
+                },
+                {
+                    "_id": 2,
+                    "team_id": "98767991877340524",
+                    "team_code": "JDG",
+                    "team_name": "JD GAMING INTEL",
+                    "rank": 2
+                },
+                {
+                    "_id": 3,
+                    "team_id": "98767991877340524",
+                    "team_code": "WBG",
+                    "team_name": "Weibo Gaming",
+                    "rank": 3
+                },
+                {
+                    "_id": 4,
+                    "team_id": "98767991877340524",
+                    "team_code": "LGD",
+                    "team_name": "LGD Gaming",
+                    "rank": 4
+                },
+                {
+                    "_id": 1,
+                    "team_id": "12312312334",
+                    "team_code": "BLG",
+                    "team_name": "BILLI BILLI GAMING",
+                    "rank": 1
+                },
+                {
+                    "_id": 2,
+                    "team_id": "98767991877340524",
+                    "team_code": "JDG",
+                    "team_name": "JD GAMING INTEL",
+                    "rank": 2
+                },
+                {
+                    "_id": 3,
+                    "team_id": "98767991877340524",
+                    "team_code": "WBG",
+                    "team_name": "Weibo Gaming",
+                    "rank": 3
+                },
+                {
+                    "_id": 4,
+                    "team_id": "98767991877340524",
+                    "team_code": "LGD",
+                    "team_name": "LGD Gaming",
+                    "rank": 4
+                }
+            ],
+            "__v": 0
         }
     ]
 }

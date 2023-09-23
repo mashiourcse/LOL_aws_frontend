@@ -1,23 +1,37 @@
-import React from 'react';
-import AwesomeSlider from 'react-awesome-slider';
-import 'react-awesome-slider/dist/styles.css';
-
+import React, { Component } from 'react';
+import ReactDOM from 'react-dom';
+import "react-responsive-carousel/lib/styles/carousel.min.css"; // requires a loader
+import { Carousel } from '@trendyol-js/react-carousel';
 
 import { Leaderboard } from 'flywheel-leaderboard';
 import tournamentData from './tournament.json';
 
 const data = tournamentData.data;
 
-export const Slider = () => {
-  return (
-    <div className="h-[50%] w-[50%] bg-white">
-      <AwesomeSlider>
+const boardStyle = {
+    display: 'flex',
+    marginLeft: '150px',
+    
+}
 
-        {data.map((tournament, index) => (
-          <div key={index}>
+const carouselDiv = {
+    // background: 'red',
+    width: '100%',
+    marginLeft: '150px',
+    
+}
+
+export class DemoCarousel2 extends Component {
+    render() {
+        return (
+            <div style={carouselDiv}>
+            <Carousel   >
+                {data.map((tournament, index) => (
+          <div  key={index}>
             
             <p>Tournament Name: {tournament.tournament_name}</p>
             <br/>
+            <div style={boardStyle}>
             <Leaderboard 
         className='max-w-4xl' //tailwind class (optional)
         theme='amber' //leaderboard theme. see docs for accepted values (optional)
@@ -30,10 +44,11 @@ export const Slider = () => {
         items={tournament.rankings} //the data you wanna use for your board. e.g. db response. (required)
         > 
       </Leaderboard>
+      </div>
           </div>
         ))}
-        
-      </AwesomeSlider>
-    </div>
-  );
+            </Carousel>
+            </div>
+        );
+    }
 };
