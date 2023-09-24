@@ -2,8 +2,9 @@ import React from 'react'
 import { Leaderboard } from 'flywheel-leaderboard'
 export const Flywheel_Board = ({data}) => {
   return (
-    <div>
+    <div >
         <Leaderboard 
+        
         className='max-w-4xl' //tailwind class (optional)
         theme='amber' //leaderboard theme. see docs for accepted values (optional)
       //  scoringMetric="rank" //the property you wanna rank your data by (required)

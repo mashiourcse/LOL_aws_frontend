@@ -24,6 +24,14 @@ const GlobalRankingsComponent = () => {
     console.log(data);
   };
 
+  const boardStyle = {
+    display: 'flex',
+    flexDirection: 'column',
+    maxHeight: '400px',  // Adjust the height as needed
+    overflowY: 'auto',
+    marginRight: '500px' 
+  };
+  
   return (
     <div>
         
@@ -35,10 +43,10 @@ const GlobalRankingsComponent = () => {
       <div>
       
         <br/>
-        <input className="shadow appearance-none border rounded w-50% py-2 px-3 mb-4 text-gray-700 leading-tight focus:outline-none focus:shadow-outline" type="number" value={num} onChange={handleNumChange} />
+        <input className="shadow appearance-none border rounded w-50% py-2 px-3 mb-4 ml-10 text-gray-700 leading-tight focus:outline-none focus:shadow-outline" type="number" value={num} onChange={handleNumChange} />
       
       {/* <button onClick={fetchData}>Fetch Data</button> */}
-      <div className='mb-4'>
+      <div className='mb-4' style={boardStyle}>
       {data && (
         
         <Flywheel_Board data={data} />

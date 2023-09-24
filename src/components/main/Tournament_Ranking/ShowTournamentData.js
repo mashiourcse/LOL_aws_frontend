@@ -7,9 +7,9 @@ const ShowTournamentData = ({ tournament_name, stage, rankings }) => {
 
   return (
     <div className="p-4">
-      <p className="text-lg font-bold mb-2">{tournament_name}</p>
-      <p className="mb-2">Stage: {stage}</p>
-      <h2 className="text-xl font-bold mb-2">Rankings:</h2>
+      <p className="text-lg font-bold mb-2 inline mr-3">{tournament_name}</p>
+      <p className="mb-2 inline">Stage: {stage}</p>
+      
 
       <div className="mt-4">
         {x ? (
