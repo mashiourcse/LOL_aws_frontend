@@ -1,0 +1,369 @@
+
+     [
+      {
+        "team_id": 1,
+        "team_name": "G2 Esports"
+      },
+      {
+        "team_id": 2,
+        "team_name": "Fnatic"
+      },
+      {
+        "team_id": 3,
+        "team_name": "MAD Lions"
+      },
+      {
+        "team_id": 4,
+        "team_name": "Team BDS"
+      },
+      {
+        "team_id": 5,
+        "team_name": "Excel Esports"
+      },
+      {
+        "team_id": 6,
+        "team_name": "SK Gaming"
+      },
+      {
+        "team_id": 7,
+        "team_name": "Team Heretics"
+      },
+      {
+        "team_id": 8,
+        "team_name": "KOI"
+      },
+      {
+        "team_id": 9,
+        "team_name": "Astralis"
+      },
+      {
+        "team_id": 10,
+        "team_name": "Team Vitality"
+      },
+      {
+        "team_id": 11,
+        "team_name": "Gen.G eSports"
+      },
+      {
+        "team_id": 12,
+        "team_name": "KT Rolster"
+      },
+      {
+        "team_id": 13,
+        "team_name": "T1"
+      },
+      {
+        "team_id": 14,
+        "team_name": "Hanwha Life eSports"
+      },
+      {
+        "team_id": 15,
+        "team_name": "Dplus KIA"
+      },
+      {
+        "team_id": 16,
+        "team_name": "DRX"
+      },
+      {
+        "team_id": 17,
+        "team_name": "BRION"
+      },
+      {
+        "team_id": 18,
+        "team_name": "Liiv SANDBOX"
+      },
+      {
+        "team_id": 19,
+        "team_name": "Nongshim RedForce"
+      },
+      {
+        "team_id": 20,
+        "team_name": "Kwangdong Freecs"
+      },
+      {
+        "team_id": 21,
+        "team_name": "Cloud9"
+      },
+      {
+        "team_id": 22,
+        "team_name": "FlyQuest"
+      },
+      {
+        "team_id": 23,
+        "team_name": "100 Thieves"
+      },
+      {
+        "team_id": 24,
+        "team_name": "Evil Geniuses"
+      },
+      {
+        "team_id": 25,
+        "team_name": "CLG"
+      },
+      {
+        "team_id": 26,
+        "team_name": "Golden Guardians"
+      },
+      {
+        "team_id": 27,
+        "team_name": "Team Liquid"
+      },
+      {
+        "team_id": 28,
+        "team_name": "TSM"
+      },
+      {
+        "team_id": 29,
+        "team_name": "Immortals"
+      },
+      {
+        "team_id": 30,
+        "team_name": "Dignitas"
+      },
+      {
+        "team_id": 31,
+        "team_name": "JD Gaming"
+      },
+      {
+        "team_id": 32,
+        "team_name": "LNG Esports"
+      },
+      {
+        "team_id": 33,
+        "team_name": "Edward Gaming"
+      },
+      {
+        "team_id": 34,
+        "team_name": "Weibo Gaming"
+      },
+      {
+        "team_id": 35,
+        "team_name": "Bilibili Gaming"
+      },
+      {
+        "team_id": 36,
+        "team_name": "OMG"
+      },
+      {
+        "team_id": 37,
+        "team_name": "Top Esports"
+      },
+      {
+        "team_id": 38,
+        "team_name": "Invictus Gaming"
+      },
+      {
+        "team_id": 39,
+        "team_name": "TT"
+      },
+      {
+        "team_id": 40,
+        "team_name": "Royal Never Give Up"
+      },
+      {
+        "team_id": 41,
+        "team_name": "Team WE"
+      },
+      {
+        "team_id": 42,
+        "team_name": "Rare Atom"
+      },
+      {
+        "team_id": 43,
+        "team_name": "Ninjas in Pyjamas"
+      },
+      {
+        "team_id": 44,
+        "team_name": "LGD Gaming"
+      },
+      {
+        "team_id": 45,
+        "team_name": "Funplus Phoenix"
+      },
+      {
+        "team_id": 46,
+        "team_name": "Anyones Legend"
+      },
+      {
+        "team_id": 47,
+        "team_name": "Ultra Prime"
+      },
+      {
+        "team_id": 48,
+        "team_name": "PSG Talon"
+      },
+      {
+        "team_id": 49,
+        "team_name": "LOUD"
+      },
+      {
+        "team_id": 50,
+        "team_name": "Movistar R7"
+      },
+      {
+        "team_id": 51,
+        "team_name": "GAM Esports"
+      },
+      {
+        "team_id": 52,
+        "team_name": "Detonation FocusMe"
+      },
+      {
+        "team_id": 53,
+        "team_name": "Team Whales"
+      },
+      {
+        "team_id": 54,
+        "team_name": "Cerberus Esports"
+      },
+      {
+        "team_id": 55,
+        "team_name": "SBTC Esports"
+      },
+      {
+        "team_id": 56,
+        "team_name": "Saigon Buffalo"
+      },
+      {
+        "team_id": 57,
+        "team_name": "Team Flash"
+      },
+      {
+        "team_id": 58,
+        "team_name": "Team Secret"
+      },
+      {
+        "team_id": 59,
+        "team_name": "MGN Box Esports"
+      },
+      {
+        "team_id": 60,
+        "team_name": "Los Grandes"
+      },
+      {
+        "team_id": 61,
+        "team_name": "paiN Gaming"
+      },
+      {
+        "team_id": 62,
+        "team_name": "RED Canids"
+      },
+      {
+        "team_id": 63,
+        "team_name": "Fluxo"
+      },
+      {
+        "team_id": 64,
+        "team_name": "FURIA Esports"
+      },
+      {
+        "team_id": 65,
+        "team_name": "KaBuM! e-Sports"
+      },
+      {
+        "team_id": 66,
+        "team_name": "INTZ e-Sports"
+      },
+      {
+        "team_id": 67,
+        "team_name": "Liberty"
+      },
+      {
+        "team_id": 68,
+        "team_name": "Vivo Keyd Stars"
+      },
+      {
+        "team_id": 69,
+        "team_name": "Frank Esports"
+      },
+      {
+        "team_id": 70,
+        "team_name": "CTBC Flying Oyster"
+      },
+      {
+        "team_id": 71,
+        "team_name": "Impunity"
+      },
+      {
+        "team_id": 72,
+        "team_name": "Beyond Gaming"
+      },
+      {
+        "team_id": 73,
+        "team_name": "Deep Cross Gaming"
+      },
+      {
+        "team_id": 74,
+        "team_name": "J Team"
+      },
+      {
+        "team_id": 75,
+        "team_name": "HELL PIGS"
+      },
+      {
+        "team_id": 76,
+        "team_name": "Dewish Team"
+      },
+      {
+        "team_id": 77,
+        "team_name": "SEM9 WPE"
+      },
+      {
+        "team_id": 78,
+        "team_name": "Sengoku Gaming"
+      },
+      {
+        "team_id": 79,
+        "team_name": "SoftBank Hawks Gaming"
+      },
+      {
+        "team_id": 80,
+        "team_name": "FENNEL"
+      },
+      {
+        "team_id": 81,
+        "team_name": "Burning Core"
+      },
+      {
+        "team_id": 82,
+        "team_name": "AXIZ"
+      },
+      {
+        "team_id": 83,
+        "team_name": "Crest Gaming Act"
+      },
+      {
+        "team_id": 84,
+        "team_name": "V3 Esports"
+      },
+      {
+        "team_id": 85,
+        "team_name": "Estral Esports"
+      },
+      {
+        "team_id": 86,
+        "team_name": "Isurus"
+      },
+      {
+        "team_id": 87,
+        "team_name": "Six Karma"
+      },
+      {
+        "team_id": 88,
+        "team_name": "Infinity eSports"
+      },
+      {
+        "team_id": 89,
+        "team_name": "All Knights"
+      },
+      {
+        "team_id": 90,
+        "team_name": "The Kings"
+      },
+      {
+        "team_id": 91,
+        "team_name": "Team Aze"
+      }
+    ]
+  
+  
