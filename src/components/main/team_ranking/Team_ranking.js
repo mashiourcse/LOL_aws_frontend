@@ -11,10 +11,15 @@ const Team_ranking = () => {
 
         <div>
         <MyProvider>
+          <div className="mb-6" style={{ display: 'flex', flexDirection: 'row', }}>
+            <div style={{ flex: '1', marginRight: '10px', maxWidth: '700px',  }}>
             <SelectTeams />
-            <p></p>
+            </div>
+            <div style={{ flex: '1',maxWidth: '700px' }}>
             <SelectTournament />
-            <p></p>
+            </div>
+            </div>
+            
             <Test />
             <p></p>
             
