@@ -11,7 +11,7 @@ const Team_ranking = () => {
 
         <div>
         <MyProvider>
-          <div className="mb-6" style={{ display: 'flex', flexDirection: 'row', }}>
+          <div className="mb-6" style={{ display: 'flex', flexDirection: 'col', marginLeft: '154px' }}>
             <div style={{ flex: '1', marginRight: '10px', maxWidth: '700px',  }}>
             <SelectTeams />
             </div>

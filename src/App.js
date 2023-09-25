@@ -7,6 +7,8 @@ import Team_ranking from './components/main/team_ranking/Team_ranking';
 import Navbar from "./components/common/Navbar";
 import {Home} from "./Home";
 import {About} from "./About";
+import Footer from "./components/common/Footer";
+
 const APICall = ()=>{
 
   return <Routes>
@@ -25,6 +27,7 @@ const StaticPages = ()=>{
   return <Routes>
     <Route exact path="/" element={<Home />} />
     <Route exact path="/about" element={<About />} />
+    
   </Routes>
 }
 
@@ -39,7 +42,7 @@ export default function App() {
 
   return (
     <>
-      <div className="container" style={containerStyle}>
+      <div className="container" >
       <h1 className="text-3xl font-bold underline">
       
     </h1>
@@ -49,6 +52,7 @@ export default function App() {
     <Router>
     <APICall/>
     <StaticPages/>
+    <Footer/>
     </Router>
       
       </div>

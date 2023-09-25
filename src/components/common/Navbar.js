@@ -14,12 +14,17 @@ function classNames(...classes) {
   return classes.filter(Boolean).join(' ')
 }
 
+const styles = {
+  marginLeft: '0px',
+  marginRight: '-384px',
+  paddingLeft: '7rem'
+};
 export default function Navbar() {
   return (
-    <Disclosure as="nav" className="bg-gray-800" style={{ marginRight: '140px' }}>
+    <Disclosure as="nav" className="bg-gray-800 pl-8 " style={styles}>
       {({ open }) => (
         <>
-          <div className="mx-auto max-w-7xl px-2 sm:px-6 lg:px-8">
+          <div className="ml-8 mx-auto max-w-full px-2 sm:px-6 lg:px-8" >
             <div className="relative flex h-16 items-center justify-between">
               <div className="absolute inset-y-0 left-0 flex items-center sm:hidden">
                 {/* Mobile menu button*/}

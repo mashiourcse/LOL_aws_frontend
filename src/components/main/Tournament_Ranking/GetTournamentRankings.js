@@ -32,7 +32,7 @@ const GetTournamentRankings = () => {
   };
 
   return (
-    <div className="p-4 " >
+    <div className="p-4 " style={{marginLeft: '167px'}}>
       <div style={{ display: 'flex', flexDirection: 'row' }}>
       <div className="mb-4 mr-4">
         <label htmlFor="tournamentSelect" className="inline mr-2 mb-1 font-bold">
