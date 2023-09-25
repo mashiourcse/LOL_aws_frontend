@@ -14,10 +14,13 @@ const GlobalRankingsComponent = () => {
       .catch(error => console.error('Error fetching data:', error));
   };
 
-  useEffect(() => {
-    fetchData(); // Fetch data when the component mounts or when num changes
-  }, [num]);
+  // useEffect(() => {
+  //   fetchData(); // Fetch data when the component mounts or when num changes
+  // }, [num]);
 
+  const handleButtonClick = ()=>{
+    fetchData();
+  }
   const handleNumChange = (event) => {
     const inputValue = event.target.value;
     setNum(inputValue);
@@ -45,7 +48,10 @@ const GlobalRankingsComponent = () => {
       
         <br/>
         <input className="shadow appearance-none border rounded w-50% py-2 px-3 mb-4 ml-40 text-gray-700 leading-tight focus:outline-none focus:shadow-outline" type="number" value={num} onChange={handleNumChange} />
-      
+        <button
+         onClick={handleButtonClick}
+        className="bg-blue-500 ml-2 hover:bg-blue-700 text-white font-bold py-2 px-4 rounded focus:outline-none focus:shadow-outline"
+      >Get Results</button>
       {/* <button onClick={fetchData}>Fetch Data</button> */}
       <div className='mb-4' style={boardStyle}>
       {data && (

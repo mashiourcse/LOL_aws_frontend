@@ -32,19 +32,20 @@ const GetTournamentRankings = () => {
   };
 
   return (
-    <div className="p-4 " style={{marginLeft: '167px'}}>
+    <div className="p-4 " style={{marginLeft: '167px', paddingBottom: '160px'}}>
       <div style={{ display: 'flex', flexDirection: 'row' }}>
       <div className="mb-4 mr-4">
-        <label htmlFor="tournamentSelect" className="inline mr-2 mb-1 font-bold">
-          Select Tournament:
-        </label>
         <select
           id="tournamentSelect"
           value={tournament_id}
           onChange={(e) => setTournamentId(e.target.value)}
           className="w-30 px-4 py-2 border border-gray-300 rounded focus:outline-none focus:border-blue-500"
         >
+          <option value="" disabled selected>
+          Select Tournament
+          </option>
           <option value="123456789">LPL Summer 2022</option>
+          <option value="12345678">LPL Winter 2022</option>
           <option value="12345678">LPL Winter 2022</option>
           {/* Add more options as needed */}
         </select>
@@ -52,17 +53,19 @@ const GetTournamentRankings = () => {
 
 
       <div className="mb-4 mr-4">
-        <label htmlFor="stageSelect" className="inline mb-1 mr-2 font-bold">
-          Select Stage:
-        </label>
+        
         <select
           id="stageSelect"
           value={stage}
           onChange={(e) => setStage(e.target.value)}
           className="w-50 px-4 py-2 border border-gray-300 rounded focus:outline-none focus:border-blue-500"
         >
+          <option value="" disabled selected>
+          Select Stage
+          </option>
           <option value="final">Final</option>
           <option value="semifinal">Semifinal</option>
+          <option value="Regular">Regular</option>
           {/* Add more options as needed */}
         </select>
       </div>

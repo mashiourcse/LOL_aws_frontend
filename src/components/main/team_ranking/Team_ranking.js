@@ -1,11 +1,13 @@
 import React from 'react'
 import {MultiSelectComponent as SelectTeams} from './SelectTeams';
 import {MultiSelectComponent as SelectTournament} from './SelectTournaments';
-import { MyProvider } from './context/MyContext';
+import { MyContext, MyProvider } from './context/MyContext';
 import { Test } from './Test';
 import SimpleSlider from '../../common/SimpleSlider';
+import { useContext } from 'react';
 
 const Team_ranking = () => {
+  const {filteredTeams,filteredTournaments} = useContext(MyContext);
   return (
     <div>
 

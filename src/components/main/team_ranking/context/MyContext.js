@@ -7,6 +7,7 @@ const MyProvider = ( {children}) => {
 
     const [teams, setTeams] = useState([]);
     const [tournaments, setTournaments] = useState([]);
+    const [hideInput, setHideInput] = useState(false);
 
     //  const teamSuggestion = [{team_id: 1, team_name: "T1"}, {team_id: 2, team_name: "DRX"}, {team_id: 3, team_name: "JDG"}, {team_id: 4, team_name: "LNG"}];
     const teamSuggestion = allTeams;
@@ -16,9 +17,9 @@ const MyProvider = ( {children}) => {
     
     const filteredTeams = teamSuggestion.filter(team => teams.includes(team.team_name));
     const filteredTournaments = tournamentSuggestion.filter(tournament => tournaments.includes(tournament.tournament_name));
-
+    
     return (
-        <MyContext.Provider value={{ teamSuggestion, tournamentSuggestion, teams, setTeams, tournaments, setTournaments, filteredTeams, filteredTournaments}}>
+        <MyContext.Provider value={{ teamSuggestion, tournamentSuggestion, teams, setTeams, tournaments, setTournaments, filteredTeams, filteredTournaments, hideInput}}>
             {children}
         </MyContext.Provider>
     );

@@ -3,16 +3,18 @@ import { MyContext } from './context/MyContext'
 import {Slider} from './Slider';
 import { EmblaCarousel } from './Slider2';
 import CarouselComponent from './ComponentCarousel';
-import {DemoCarousel} from './Slider3';
+// import {DemoCarousel} from './Slider3';
+import DemoCarousel from './Slider3';
 import { DemoCarousel2 } from './Slider4';
 const containerStyle = {
+  paddingLeft: '200px',
   marginRight: '350px',
 //  background: 'black'
   
 };
 export const Test = () => {
     
-    const {teams,tournaments,filteredTeams,filteredTournaments} = useContext(MyContext);
+    const {teams,tournaments,filteredTeams,filteredTournaments, setHideInput } = useContext(MyContext);
     
     return (
     <div style={containerStyle}>
@@ -38,7 +40,7 @@ export const Test = () => {
        <div>
         {/* <Slider/> */}
         {/* <EmblaCarousel/> */}
-        <DemoCarousel />
+    <DemoCarousel />
         {/* <DemoCarousel2/> */}
        </div>
     </div>

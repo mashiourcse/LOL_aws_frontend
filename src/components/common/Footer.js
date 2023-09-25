@@ -5,6 +5,7 @@ const Footer = () => {
         position: 'fixed',
         bottom: 0,
         width: '100%',
+        backgroundColor: '#1f2937'
       };
   return (
     <footer style={footerStyles} className="flex flex-col items-center bg-neutral-900 text-center text-white">
@@ -13,7 +14,7 @@ const Footer = () => {
           {/* Social Icons */}
           {/* You can create a separate component for social icons for better organization */}
           {/* I'm providing the content directly here for simplicity */}
-          {Array.from(Array(6).keys()).map(index => (
+          {Array.from(Array(7).keys()).map(index => (
             <a
               key={index}
               href="#!"
@@ -38,7 +39,7 @@ const Footer = () => {
       </div>
 
       {/* Copyright section */}
-      <div className="w-full p-4 text-center" style={{ backgroundColor: 'rgba(0, 0, 0, 0.2)' }}>
+      <div className="w-full p-4 text-center" style={{ backgroundColor: '#1f2937' }}>
         © 2023 Copyrighted by 
         <a className="text-white ml-2" href="#">
            Mashiour
