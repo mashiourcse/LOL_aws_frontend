@@ -5,7 +5,8 @@ const Footer = () => {
         position: 'fixed',
         bottom: 0,
         width: '100%',
-        backgroundColor: '#1f2937'
+        backgroundColor: '#1f2937',
+        zIndex: 1,
       };
   return (
     <footer style={footerStyles} className="flex flex-col items-center bg-neutral-900 text-center text-white">

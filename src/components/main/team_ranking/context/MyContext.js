@@ -19,7 +19,7 @@ const MyProvider = ( {children}) => {
     const filteredTournaments = tournamentSuggestion.filter(tournament => tournaments.includes(tournament.tournament_name));
     
     return (
-        <MyContext.Provider value={{ teamSuggestion, tournamentSuggestion, teams, setTeams, tournaments, setTournaments, filteredTeams, filteredTournaments, hideInput}}>
+        <MyContext.Provider value={{ teamSuggestion, tournamentSuggestion, teams, setTeams, tournaments, setTournaments, filteredTeams, filteredTournaments, hideInput,setHideInput}}>
             {children}
         </MyContext.Provider>
     );
