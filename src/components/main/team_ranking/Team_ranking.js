@@ -1,7 +1,6 @@
 import React from 'react'
 import { MyContext, MyProvider } from './context/MyContext';
 import { Test } from './Test';
-import SimpleSlider from '../../common/SimpleSlider';
 import { useContext } from 'react';
 import { Select } from './Select';
 const Team_ranking = () => {

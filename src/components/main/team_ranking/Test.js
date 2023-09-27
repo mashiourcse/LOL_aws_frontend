@@ -1,8 +1,6 @@
 import React, { useContext } from 'react'
 import { MyContext } from './context/MyContext'
 import {Slider} from './Slider';
-import { EmblaCarousel } from './Slider2';
-import CarouselComponent from './ComponentCarousel';
  import {DemoCarousel} from './Slider3';
 //import DemoCarousel from './Slider3';
 import { DemoCarousel2 } from './Slider4';
