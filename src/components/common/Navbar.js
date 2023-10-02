@@ -3,7 +3,7 @@ import { Disclosure, Menu, Transition } from '@headlessui/react'
 import { Bars3Icon, BellIcon, XMarkIcon } from '@heroicons/react/24/outline'
 
 const navigation = [
-  { name: 'Introduction', href: '/', current: false },
+  { name: 'Project Bio', href: '/', current: false },
   { name: 'Tournament Ranking', href: '/tournament_rankings', current: false },
   { name: 'Global Ranking', href: '/global_rankings', current: false },
   { name: 'Team Ranking', href: '/team_rankings', current: false },
@@ -17,11 +17,12 @@ function classNames(...classes) {
 const styles = {
   marginLeft: '0px',
   marginRight: '-384px',
-  paddingLeft: '7rem'
+  paddingLeft: '7rem',
+  background: '#1f2937'
 };
 export default function Navbar() {
   return (
-    <Disclosure as="nav" className="bg-gray-800 pl-8 " style={styles}>
+    <Disclosure as="nav" className=" pl-8 " style={styles}>
       {({ open }) => (
         <>
           <div className="ml-8 mx-auto max-w-full px-2 sm:px-6 lg:px-8" >

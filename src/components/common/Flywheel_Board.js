@@ -6,7 +6,7 @@ export const Flywheel_Board = ({data}) => {
         <Leaderboard 
         
         className='max-w-4xl' //tailwind class (optional)
-        theme='amber' //leaderboard theme. see docs for accepted values (optional)
+        theme='stone' //leaderboard theme. see docs for accepted values (optional)
       //  scoringMetric="rank" //the property you wanna rank your data by (required)
         //id="_id" //the property you wanna id each item in your data by (required)
         cell1="team_id" //the first cell for your board (optional)

@@ -3,6 +3,7 @@ import { MyContext } from './context/MyContext'
 import {Slider} from './Slider';
  import {DemoCarousel} from './Slider3';
 //import DemoCarousel from './Slider3';
+import { ShowRanking } from './showRanking';
 import { DemoCarousel2 } from './Slider4';
 const containerStyle = {
   paddingLeft: '200px',
@@ -46,7 +47,7 @@ export const Test = () => {
         {/* <Slider/> */}
         {/* <EmblaCarousel/> */}
         {
-          hideInput && <DemoCarousel />
+          hideInput && <ShowRanking />
         }
         
             {/* <DemoCarousel2/> */}
