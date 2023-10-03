@@ -12,28 +12,36 @@
                     "team_id": "12312312334",
                     "team_code": "BLG",
                     "team_name": "BILLI BILLI GAMING",
-                    "rank": 1
+                    "rank": 1,
+                    "win" : 43,
+                    "loss" : 5
                 },
                 {
                     "_id": 2,
                     "team_id": "98767991877340524",
                     "team_code": "JDG",
                     "team_name": "JD GAMING INTEL",
-                    "rank": 2
+                    "rank": 2,
+                    "win" : 33,
+                    "loss" : 4
                 },
                 {
                     "_id": 3,
                     "team_id": "98767991877340524",
                     "team_code": "DRX",
                     "team_name": "Dragon X",
-                    "rank": 3
+                    "rank": 3,
+                    "win" : 23,
+                    "loss" : 15
                 },
                 {
                     "_id": 4,
                     "team_id": "98767991877340524",
                     "team_code": "T1",
                     "team_name": "SK Telecom T1",
-                    "rank": 4
+                    "rank": 4,
+                    "win" : 13,
+                    "loss" : 25
                 }
             ],
             "__v": 0
@@ -49,28 +57,36 @@
                     "team_id": "12312312334",
                     "team_code": "BLG",
                     "team_name": "BILLI BILLI GAMING",
-                    "rank": 1
+                    "rank": 1,
+                    "win" : 43,
+                    "loss" : 5
                 },
                 {
                     "_id": 2,
                     "team_id": "98767991877340524",
                     "team_code": "JDG",
                     "team_name": "JD GAMING INTEL",
-                    "rank": 2
+                    "rank": 2,
+                    "win" : 43,
+                    "loss" : 5
                 },
                 {
                     "_id": 3,
                     "team_id": "98767991877340524",
                     "team_code": "DRX",
                     "team_name": "Dragon X",
-                    "rank": 3
+                    "rank": 3,
+                    "win" : 43,
+                    "loss" : 5
                 },
                 {
                     "_id": 4,
                     "team_id": "98767991877340524",
                     "team_code": "T1",
                     "team_name": "SK Telecom T1",
-                    "rank": 4
+                    "rank": 4,
+                    "win" : 43,
+                    "loss" : 5
                 }
             ],
             "__v": 0
@@ -86,7 +102,9 @@
                     "team_id": "12312312334",
                     "team_code": "BLG",
                     "team_name": "BILLI BILLI GAMING",
-                    "rank": 1
+                    "rank": 1,
+                    "win" : 43,
+                    "loss" : 5
                 },
                 {
                     "_id": 2,
@@ -100,14 +118,18 @@
                     "team_id": "98767991877340524",
                     "team_code": "WBG",
                     "team_name": "Weibo Gaming",
-                    "rank": 3
+                    "rank": 3,
+                    "win" : 43,
+                    "loss" : 5
                 },
                 {
                     "_id": 4,
                     "team_id": "98767991877340524",
                     "team_code": "LGD",
                     "team_name": "LGD Gaming",
-                    "rank": 4
+                    "rank": 4,
+                    "win" : 43,
+                    "loss" : 5
                 }
             ],
             "__v": 0
@@ -123,140 +145,180 @@
                     "team_id": "12312312334",
                     "team_code": "BLG",
                     "team_name": "BILLI BILLI GAMING",
-                    "rank": 1
+                    "rank": 1,
+                    "win" : 43,
+                    "loss" : 5
                 },
                 {
                     "_id": 2,
                     "team_id": "98767991877340524",
                     "team_code": "JDG",
                     "team_name": "JD GAMING INTEL",
-                    "rank": 2
+                    "rank": 2,
+                    "win" : 43,
+                    "loss" : 5
                 },
                 {
                     "_id": 3,
                     "team_id": "98767991877340524",
                     "team_code": "WBG",
                     "team_name": "Weibo Gaming",
-                    "rank": 3
+                    "rank": 3,
+                    "win" : 43,
+                    "loss" : 5
                 },
                 {
                     "_id": 4,
                     "team_id": "98767991877340524",
                     "team_code": "LGD",
                     "team_name": "LGD Gaming",
-                    "rank": 4
+                    "rank": 4,
+                    "win" : 43,
+                    "loss" : 5
                 },
                 {
                     "_id": 1,
                     "team_id": "12312312334",
                     "team_code": "BLG",
                     "team_name": "BILLI BILLI GAMING",
-                    "rank": 1
+                    "rank": 1,
+                    "win" : 43,
+                    "loss" : 5
                 },
                 {
                     "_id": 2,
                     "team_id": "98767991877340524",
                     "team_code": "JDG",
                     "team_name": "JD GAMING INTEL",
-                    "rank": 2
+                    "rank": 2,
+                    "win" : 43,
+                    "loss" : 5
                 },
                 {
                     "_id": 3,
                     "team_id": "98767991877340524",
                     "team_code": "WBG",
                     "team_name": "Weibo Gaming",
-                    "rank": 3
+                    "rank": 3,
+                    "win" : 43,
+                    "loss" : 5
                 },
                 {
                     "_id": 4,
                     "team_id": "98767991877340524",
                     "team_code": "LGD",
                     "team_name": "LGD Gaming",
-                    "rank": 4
+                    "rank": 4,
+                    "win" : 43,
+                    "loss" : 5
                 },
                 {
                     "_id": 1,
                     "team_id": "12312312334",
                     "team_code": "BLG",
                     "team_name": "BILLI BILLI GAMING",
-                    "rank": 1
+                    "rank": 1,
+                    "win" : 43,
+                    "loss" : 5
                 },
                 {
                     "_id": 2,
                     "team_id": "98767991877340524",
                     "team_code": "JDG",
                     "team_name": "JD GAMING INTEL",
-                    "rank": 2
+                    "rank": 2,
+                    "win" : 43,
+                    "loss" : 5
                 },
                 {
                     "_id": 3,
                     "team_id": "98767991877340524",
                     "team_code": "WBG",
                     "team_name": "Weibo Gaming",
-                    "rank": 3
+                    "rank": 3,
+                    "win" : 43,
+                    "loss" : 5
                 },
                 {
                     "_id": 4,
                     "team_id": "98767991877340524",
                     "team_code": "LGD",
                     "team_name": "LGD Gaming",
-                    "rank": 4
+                    "rank": 4,
+                    "win" : 43,
+                    "loss" : 5
                 },
                 {
                     "_id": 1,
                     "team_id": "12312312334",
                     "team_code": "BLG",
                     "team_name": "BILLI BILLI GAMING",
-                    "rank": 1
+                    "rank": 1,
+                    "win" : 43,
+                    "loss" : 5
                 },
                 {
                     "_id": 2,
                     "team_id": "98767991877340524",
                     "team_code": "JDG",
                     "team_name": "JD GAMING INTEL",
-                    "rank": 2
+                    "rank": 2,
+                    "win" : 43,
+                    "loss" : 5
                 },
                 {
                     "_id": 3,
                     "team_id": "98767991877340524",
                     "team_code": "WBG",
                     "team_name": "Weibo Gaming",
-                    "rank": 3
+                    "rank": 3,
+                    "win" : 43,
+                    "loss" : 5
                 },
                 {
                     "_id": 4,
                     "team_id": "98767991877340524",
                     "team_code": "LGD",
                     "team_name": "LGD Gaming",
-                    "rank": 4
+                    "rank": 4,
+                    "win" : 43,
+                    "loss" : 5
                 },
                 {
                     "_id": 1,
                     "team_id": "12312312334",
                     "team_code": "BLG",
                     "team_name": "BILLI BILLI GAMING",
-                    "rank": 1
+                    "rank": 1,
+                    "win" : 43,
+                    "loss" : 5
                 },
                 {
                     "_id": 2,
                     "team_id": "98767991877340524",
                     "team_code": "JDG",
                     "team_name": "JD GAMING INTEL",
-                    "rank": 2
+                    "rank": 2,
+                    "win" : 43,
+                    "loss" : 5
                 },
                 {
                     "_id": 3,
                     "team_id": "98767991877340524",
                     "team_code": "WBG",
                     "team_name": "Weibo Gaming",
-                    "rank": 3
+                    "rank": 3,
+                    "win" : 43,
+                    "loss" : 5
                 },
                 {
                     "_id": 4,
                     "team_id": "98767991877340524",
                     "team_code": "LGD",
                     "team_name": "LGD Gaming",
-                    "rank": 4
+                    "rank": 4,
+                    "win" : 43,
+                    "loss" : 5
                 }
             ],
             "__v": 0
