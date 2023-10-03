@@ -62,16 +62,13 @@ export const MultiSelectComponent = () => {
       <ul>
         {selectedOptions.map((option, index) => (
           <div key={index} className="option-item">
-            <button
-              className="bg-blue-500 hover:bg-blue-700 text-white font-bold py-2 px-4 rounded inline-flex items-center"
-              onClick={() => handleButtonClick(index)}
-            >
-              {option}
-              <span className="ml-2 hover:bg-red-500" onClick={() => handleButtonClick(index)}>
-                &#x2715; {/* Cross icon */}
-              </span>
-            </button>
-          </div>
+          <button className="option-button" onClick={() => handleButtonClick(index)}>
+            {option}
+            <span className="remove-icon" onClick={() => handleButtonClick(index)}>
+              &#x2715; {/* Cross icon */}
+            </span>
+          </button>
+        </div>
         ))}
       </ul>
     </div>
