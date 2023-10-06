@@ -38,6 +38,7 @@ export const MultiSelectComponent = () => {
         onChange={handleInputChange}
         onKeyPress={handleInputKeyPress}
         className="border border-gray-300 rounded px-3 py-2 w-[50%] mb-4 focus:outline-none focus:border-blue-500"
+        style={{paddingRight: '16.75rem'}}
       >
         <option value="" disabled selected>
           Select Tournament And Press Enter

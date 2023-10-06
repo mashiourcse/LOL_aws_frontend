@@ -1,7 +1,9 @@
 import React, { useState, useEffect } from 'react';
-
 import { Flywheel_Board } from '../../common/Flywheel_Board';
 import { api } from '../API/api';
+import tdata from './tournament.json';
+
+const data1 = tdata.data;
 
 const GlobalRankingsComponent = () => {
   const [num, setNum] = useState(20);  // Initial value for num
@@ -19,7 +21,9 @@ const GlobalRankingsComponent = () => {
   // }, [num]);
 
   const handleButtonClick = ()=>{
-    fetchData();
+   // fetchData();
+    setData(data1)
+   
   }
   const handleNumChange = (event) => {
     const inputValue = event.target.value;
@@ -32,28 +36,24 @@ const GlobalRankingsComponent = () => {
     flexDirection: 'column',
     maxHeight: '600px',  // Adjust the height as needed
     overflowY: 'auto',
-    marginRight: '500px', 
-    marginLeft: '141px'
+    marginRight: '400px', 
+    marginLeft: '120px'
   };
   
   return (
     <div>
         
-    <div>
 
-
-    </div>
-
-      <div>
+      <div id='board_div' style={{marginLeft: '381px'}}>
       
         <br/>
         <input className="shadow appearance-none border rounded w-50% py-2 px-3 mb-4 ml-40 text-gray-700 leading-tight focus:outline-none focus:shadow-outline" type="number" value={num} onChange={handleNumChange} />
         <button
          onClick={handleButtonClick}
-        className="bg-blue-500 ml-2 hover:bg-blue-700 text-white font-bold py-2 px-4 rounded focus:outline-none focus:shadow-outline"
+         className="bg-black hover:bg-blue-700 ml-2 text-white font-bold py-2 px-4 rounded inline-flex items-center"
       >Get Results</button>
       {/* <button onClick={fetchData}>Fetch Data</button> */}
-      <div className='mb-4' style={boardStyle}>
+      <div className='mb-4' id='primary' style={{height: '800px'}}>
       {data && (
         
         <Flywheel_Board data={data} />

@@ -10,13 +10,7 @@ import tournamentData from './tournament.json';
 const data = tournamentData.data;
 
 
-const boardStyle = {
-    display: 'flex',
-    flexDirection: 'column',
-    maxHeight: '400px',  // Adjust the height as needed
-    overflowY: 'auto',
-    marginLeft: '150px',
-  };
+
   
 const buttonStyle = {
   marginLeft: '42.5rem'
@@ -53,11 +47,9 @@ export const ShowRanking = ()=>{
           
           if(index==num){
             return <div  key={index}>
-    
-            <p> {tournament.tournament_name} </p>
-            <br/>
             <div >
-            <Flywheel_Board data={tournament.rankings}/>
+              
+            <Flywheel_Board data={tournament.rankings} name={tournament.tournament_name} />
         </div>
           </div>
           }

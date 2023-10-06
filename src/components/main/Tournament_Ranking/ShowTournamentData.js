@@ -21,7 +21,7 @@ const ShowTournamentData = ({ tournament_name, stage, rankings }) => {
       <p className="mb-2 inline">Stage: {stage}</p>
       
 
-      <div className="mt-4" style={boardStyle}>
+      <div id="tournament_fly" className="mt-4" >
         {x ? (
           <Flywheel_Board data={rankings} />
         ) : (

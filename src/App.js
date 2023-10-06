@@ -8,6 +8,7 @@ import Navbar from "./components/common/Navbar";
 import {Home} from "./Home";
 import {About} from "./About";
 import Footer from "./components/common/Footer";
+import SideBar from "./components/common/Sidenav"
 
 const APICall = ()=>{
 
@@ -42,16 +43,19 @@ export default function App() {
 
   return (
     <>
-      <div className="container" >
+      <div className="container flex" >
       <h1 className="text-3xl font-bold underline">
       
     </h1>
     {/* <GetTournamentRankings /> */}
-    
+    <div style={{width: '150px'}}>
     <Navbar/>
+    </div>
     <Router>
+      <div>
     <APICall/>
     <StaticPages/>
+    </div>
     <Footer/>
     </Router>
       
