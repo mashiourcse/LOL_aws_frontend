@@ -51,7 +51,7 @@ export const Select = () => {
             </div>
             <div className="mt-4" style={{ flex: '1',maxWidth: '150px', }}>
 
-                <button className="bg-black hover:bg-blue-700 ml-2 text-white font-bold py-2 px-4 rounded inline-flex items-center" onClick={ handleButtonClick}>Get Results</button>
+                <button className="bg-black hover:bg-blue-700 ml-2 text-white font-bold py-2 px-4 rounded inline-flex items-center" onClick={ handleButtonClick}>Get Data</button>
             </div>
             </div>
     
