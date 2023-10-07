@@ -1,6 +1,5 @@
 import { Fragment } from 'react'
 import { Disclosure, Menu, Transition } from '@headlessui/react'
-import { Bars3Icon, BellIcon, XMarkIcon } from '@heroicons/react/24/outline'
 
 const navigation = [
   { name: 'Project Bio', href: '/', current: false },
@@ -36,14 +35,14 @@ export default function Navbar() {
             </div>
             
           </div>
-
+          <hr/>
           <div className="flex-1 overflow-y-auto p-4">
             <div className="space-y-2">
-              {navigation.map((item) => (
+              {navigation.map((item, index) => (
                 
                 <p>
                   <a
-                  key={item.name}
+                  key={index}
                   href={item.href}
                   className={classNames(
                     item.current ? 'bg-gray-800 text-white' : 'text-gray-300 hover:bg-gray-800 hover:text-white',
@@ -53,10 +52,13 @@ export default function Navbar() {
                 >
                   {item.name}
                 </a>
+                
                 </p>
               ))}
             </div>
+            
           </div>
+                      
         </>
       )}
     </Disclosure>

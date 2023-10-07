@@ -21,6 +21,13 @@ export const MultiSelectComponent = () => {
     
   };
 
+  const handleAddTeam = () =>{
+    if (inputValue) {
+      setSelectedOptions([...selectedOptions, inputValue]);
+      setInputValue('');
+    }
+  }
+
   const handleButtonClick = (index) => {
     const newOptions = selectedOptions.filter((_, i) => i !== index);
     setSelectedOptions(newOptions);
@@ -43,7 +50,7 @@ export const MultiSelectComponent = () => {
         style={{paddingRight: '11.75rem'}}
       >
         <option value="" disabled selected>
-          Select Team And Press Enter
+          Select Team
         </option>
         {
           teamSuggestion.map( (team)=>{
@@ -54,6 +61,11 @@ export const MultiSelectComponent = () => {
         
         {/* Add more options as needed */}
       </select>
+      <button
+      className="bg-black hover:bg-blue-700 ml-2 text-white font-bold py-2 px-4 rounded inline-flex items-center"
+      onClick={() => handleAddTeam()}
+    >ADD</button>
+
       <button
       className="bg-black hover:bg-blue-700 ml-2 text-white font-bold py-2 px-4 rounded inline-flex items-center"
       onClick={() => addTeams()}

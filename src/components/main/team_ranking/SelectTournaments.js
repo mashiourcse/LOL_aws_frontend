@@ -25,6 +25,13 @@ export const MultiSelectComponent = () => {
     console.log(newOptions);
   };
 
+  const handleAddTournament = () =>{
+    if (inputValue) {
+      setSelectedOptions([...selectedOptions, inputValue]);
+      setInputValue('');
+    }
+  }
+
   const addTournaments = ()=>{
     setTournaments(selectedOptions);
     setInputShow(false);
@@ -41,7 +48,7 @@ export const MultiSelectComponent = () => {
         style={{paddingRight: '16.75rem'}}
       >
         <option value="" disabled selected>
-          Select Tournament And Press Enter
+          Select Tournament
         </option>
         {
           tournamentSuggestion.map( (tournament)=>{
@@ -51,7 +58,12 @@ export const MultiSelectComponent = () => {
         {/* <option value="option1">Option 1</option> */}
        
         {/* Add more options as needed */}
-      </select><button
+      </select>
+      <button
+      className="bg-black hover:bg-blue-700 ml-2 text-white font-bold py-2 px-4 rounded inline-flex items-center"
+      onClick={() => handleAddTournament()}
+    >ADD</button>
+      <button
       className="bg-black hover:bg-blue-700 ml-2 text-white font-bold py-2 px-4 rounded inline-flex items-center"
       onClick={() => addTournaments()}
     >Confirm</button></> : ''
