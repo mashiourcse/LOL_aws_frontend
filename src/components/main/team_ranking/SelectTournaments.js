@@ -1,6 +1,8 @@
 import React, { useContext, useState } from 'react';
 import { MyContext } from './context/MyContext';
 import './MultiSelectComponent.css';  // Import a CSS file for styling (see note below)
+import {  Button} from "@material-tailwind/react";
+
 
 export const MultiSelectComponent = () => {
   const [inputValue, setInputValue] = useState('');
@@ -59,24 +61,24 @@ export const MultiSelectComponent = () => {
        
         {/* Add more options as needed */}
       </select>
-      <button
+      <Button
       className="bg-black hover:bg-blue-700 ml-2 text-white font-bold py-2 px-4 rounded inline-flex items-center"
       onClick={() => handleAddTournament()}
-    >ADD</button>
-      <button
+    >ADD</Button>
+      <Button
       className="bg-black hover:bg-blue-700 ml-2 text-white font-bold py-2 px-4 rounded inline-flex items-center"
       onClick={() => addTournaments()}
-    >Confirm</button></> : ''
+    >Confirm</Button></> : ''
       }
       <ul>
         {selectedOptions.map((option, index) => (
           <div key={index} className="option-item">
-            <button className="option-button" onClick={() => handleButtonClick(index)}>
+            <Button className="option-button" onClick={() => handleButtonClick(index)}>
               {option}
               <span className="remove-icon" onClick={() => handleButtonClick(index)}>
                 &#x2715; {/* Cross icon */}
               </span>
-            </button>
+            </Button>
           </div>
         ))}
       </ul>

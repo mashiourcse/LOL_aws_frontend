@@ -6,7 +6,19 @@ import mash from './images/Mash.jpg'
 import rishab from './images/Rishab.jpg'
 import sakshi from './images/sakshi.jpg'
 
+export const leader = {
+    name: 'Adel Choudria',
+    role: 'Data Scientist',
+    pic: adel,
+    education: '',
+    github: '',
+    linkdin: 'https://www.linkedin.com/in/adel-chouadria/',
+    devpost: 'https://devpost.com/adelchouadria'
+};
+
 export const profileData = [
+    
+   
     {
         name: 'Sarah Armstrong',
         role: 'Technical Analyst',
@@ -16,24 +28,15 @@ export const profileData = [
         linkdin: 'https://www.linkedin.com/in/saraharmstrong314/',
         devpost: 'https://devpost.com/saraharmstrong314'
     },
-    {
-        name: 'Tianyi HE',
-        role: 'Data Analyst',
-        pic: tony,
-        education: '',
-        github: '',
-        linkdin: '',
-        devpost: 'https://devpost.com/tony1223010910'
-    },
-    {
-        name: 'Mark Artyukh',
-        role: 'Machine Learning',
-        pic: mark,
-        education: '',
-        github: 'https://github.com/kramiusmaximus',
-        linkdin: 'https://www.linkedin.com/in/markartyukh/',
-        devpost: 'https://devpost.com/kramiusmaximus'
-    },
+    // {
+    //     name: 'Mark Artyukh',
+    //     role: 'Machine Learning',
+    //     pic: mark,
+    //     education: '',
+    //     github: 'https://github.com/kramiusmaximus',
+    //     linkdin: 'https://www.linkedin.com/in/markartyukh/',
+    //     devpost: 'https://devpost.com/kramiusmaximus'
+    // },
     {
         name: 'Mashiour Rahman',
         role: 'UI Architect',
@@ -45,13 +48,34 @@ export const profileData = [
     },
     {
         name: 'Adel Choudria',
-        role: 'Data Scientist',
+        role: `Data Scientist`,
         pic: adel,
         education: '',
         github: '',
         linkdin: 'https://www.linkedin.com/in/adel-chouadria/',
         devpost: 'https://devpost.com/adelchouadria'
     },
+    {
+        name: 'Tianyi HE',
+        role: 'Data Analyst',
+        pic: tony,
+        education: '',
+        github: '',
+        linkdin: '',
+        devpost: 'https://devpost.com/tony1223010910'
+    },
+    
+    
+    {
+        name: 'Sakshi Agarwal',
+        role: 'AWS Expert',
+        pic: sakshi,
+        education: '',
+        github: 'https://github.com/sakshi360',
+        linkdin: 'https://www.linkedin.com/in/sakshi-agarwal-27404913a/',
+        devpost: 'https://devpost.com/agarwal-sakshi360'
+    },
+    
     {
         name: 'Rishab Saxena',
         role: 'Generative AI',
@@ -61,13 +85,4 @@ export const profileData = [
         linkdin: 'https://www.linkedin.com/in/saxena-rishabh/',
         devpost: 'https://devpost.com/saxenarishabh100'
     },
-    {
-        name: 'Sakshi Agarwal',
-        role: 'AWS Expert',
-        pic: sakshi,
-        education: '',
-        github: 'https://github.com/sakshi360',
-        linkdin: 'https://www.linkedin.com/in/sakshi-agarwal-27404913a/',
-        devpost: 'https://devpost.com/agarwal-sakshi360'
-    }
   ]

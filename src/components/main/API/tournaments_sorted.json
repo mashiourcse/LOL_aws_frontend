@@ -1,0 +1,2456 @@
+[
+ {
+  "leagueId": "98767991302996016",
+  "leagueLabel": "LEC",
+  "leagueName": "Season Finals 2023",
+  "stageName": "Regional Finals"
+ },
+ {
+  "leagueId": "100695891328981120",
+  "leagueLabel": "EMEA Masters",
+  "leagueName": "Summer 2023",
+  "stageName": "Play In Groups"
+ },
+ {
+  "leagueId": "100695891328981120",
+  "leagueLabel": "EMEA Masters",
+  "leagueName": "Summer 2023",
+  "stageName": "Play In Knockouts"
+ },
+ {
+  "leagueId": "100695891328981120",
+  "leagueLabel": "EMEA Masters",
+  "leagueName": "Summer 2023",
+  "stageName": "Groups"
+ },
+ {
+  "leagueId": "100695891328981120",
+  "leagueLabel": "EMEA Masters",
+  "leagueName": "Summer 2023",
+  "stageName": "knockouts"
+ },
+ {
+  "leagueId": "104366947889790208",
+  "leagueLabel": "PCS",
+  "leagueName": "Playoffs - Summer 2023",
+  "stageName": "Playoffs"
+ },
+ {
+  "leagueId": "98767991314006704",
+  "leagueLabel": "LPL",
+  "leagueName": "Regional Finals 2023",
+  "stageName": "Regional Finals"
+ },
+ {
+  "leagueId": "109518549825754240",
+  "leagueLabel": "LCS Challengers Qualifiers",
+  "leagueName": "#2 Summer 2023",
+  "stageName": "Groups"
+ },
+ {
+  "leagueId": "109518549825754240",
+  "leagueLabel": "LCS Challengers Qualifiers",
+  "leagueName": "#2 Summer 2023",
+  "stageName": "knockouts"
+ },
+ {
+  "leagueId": "104366947889790208",
+  "leagueLabel": "PCS",
+  "leagueName": "Summer 2023",
+  "stageName": "Regular Season"
+ },
+ {
+  "leagueId": "107213827295848784",
+  "leagueLabel": "VCS",
+  "leagueName": "Summer 2023",
+  "stageName": "Regular Season"
+ },
+ {
+  "leagueId": "107213827295848784",
+  "leagueLabel": "VCS",
+  "leagueName": "Summer 2023",
+  "stageName": "Playoffs"
+ },
+ {
+  "leagueId": "106827757669296912",
+  "leagueLabel": "LJL Academy",
+  "leagueName": "2023",
+  "stageName": "Regular Season"
+ },
+ {
+  "leagueId": "106827757669296912",
+  "leagueLabel": "LJL Academy",
+  "leagueName": "2023",
+  "stageName": "Playoffs"
+ },
+ {
+  "leagueId": "98767991302996016",
+  "leagueLabel": "LEC",
+  "leagueName": "Summer 2023",
+  "stageName": "Regular Season"
+ },
+ {
+  "leagueId": "98767991302996016",
+  "leagueLabel": "LEC",
+  "leagueName": "Summer 2023",
+  "stageName": "Groups"
+ },
+ {
+  "leagueId": "98767991302996016",
+  "leagueLabel": "LEC",
+  "leagueName": "Summer 2023",
+  "stageName": "Playoffs"
+ },
+ {
+  "leagueId": "109518549825754240",
+  "leagueLabel": "LCS Challengers Qualifiers",
+  "leagueName": "#1 Summer 2023",
+  "stageName": "Groups"
+ },
+ {
+  "leagueId": "109518549825754240",
+  "leagueLabel": "LCS Challengers Qualifiers",
+  "leagueName": "#1 Summer 2023",
+  "stageName": "knockouts"
+ },
+ {
+  "leagueId": "109545772895506416",
+  "leagueLabel": "Arabian League",
+  "leagueName": "Summer 2023",
+  "stageName": "Regular Season"
+ },
+ {
+  "leagueId": "109545772895506416",
+  "leagueLabel": "Arabian League",
+  "leagueName": "Summer 2023",
+  "stageName": "Playoffs"
+ },
+ {
+  "leagueId": "105549980953490848",
+  "leagueLabel": "CBLOL Academy",
+  "leagueName": "CBLOL Academy 2023 Split 2",
+  "stageName": "Regular Season"
+ },
+ {
+  "leagueId": "105549980953490848",
+  "leagueLabel": "CBLOL Academy",
+  "leagueName": "CBLOL Academy 2023 Split 2",
+  "stageName": "Playoffs"
+ },
+ {
+  "leagueId": "98767991332355504",
+  "leagueLabel": "CBLOL",
+  "leagueName": "CBLOL 2023 Split 2",
+  "stageName": "Regular Season"
+ },
+ {
+  "leagueId": "98767991332355504",
+  "leagueLabel": "CBLOL",
+  "leagueName": "CBLOL 2023 Split 2",
+  "stageName": "Playoffs"
+ },
+ {
+  "leagueId": "109511549831443328",
+  "leagueLabel": "LCS Challengers",
+  "leagueName": "Summer 2023",
+  "stageName": "Regular Season"
+ },
+ {
+  "leagueId": "109511549831443328",
+  "leagueLabel": "LCS Challengers",
+  "leagueName": "Summer 2023",
+  "stageName": "Playoffs"
+ },
+ {
+  "leagueId": "98767991349978720",
+  "leagueLabel": "LJL",
+  "leagueName": "Summer 2023",
+  "stageName": "Regular Season"
+ },
+ {
+  "leagueId": "98767991349978720",
+  "leagueLabel": "LJL",
+  "leagueName": "Summer 2023",
+  "stageName": "Playoffs"
+ },
+ {
+  "leagueId": "105266094998946944",
+  "leagueLabel": "PG Nationals",
+  "leagueName": "Summer 2023",
+  "stageName": "Regular Season"
+ },
+ {
+  "leagueId": "105266094998946944",
+  "leagueLabel": "PG Nationals",
+  "leagueName": "Summer 2023",
+  "stageName": "Playoffs"
+ },
+ {
+  "leagueId": "98767991310872064",
+  "leagueLabel": "LCK",
+  "leagueName": "Summer 2023",
+  "stageName": "Regular Season"
+ },
+ {
+  "leagueId": "98767991310872064",
+  "leagueLabel": "LCK",
+  "leagueName": "Summer 2023",
+  "stageName": "Playoffs"
+ },
+ {
+  "leagueId": "98767991343597632",
+  "leagueLabel": "TCL",
+  "leagueName": "Summer 2023",
+  "stageName": "Regular Season"
+ },
+ {
+  "leagueId": "98767991343597632",
+  "leagueLabel": "TCL",
+  "leagueName": "Summer 2023",
+  "stageName": "Playoffs"
+ },
+ {
+  "leagueId": "105266111679554384",
+  "leagueLabel": "Esports Balkan League",
+  "leagueName": "Summer 2023",
+  "stageName": "Regular Season"
+ },
+ {
+  "leagueId": "105266111679554384",
+  "leagueLabel": "Esports Balkan League",
+  "leagueName": "Summer 2023",
+  "stageName": "Playoffs"
+ },
+ {
+  "leagueId": "105266106309666624",
+  "leagueLabel": "Hitpoint Masters",
+  "leagueName": "Summer 2023",
+  "stageName": "Regular Season"
+ },
+ {
+  "leagueId": "105266106309666624",
+  "leagueLabel": "Hitpoint Masters",
+  "leagueName": "Summer 2023",
+  "stageName": "Playoffs"
+ },
+ {
+  "leagueId": "105266108767593296",
+  "leagueLabel": "Greek Legends League",
+  "leagueName": "Summer 2023",
+  "stageName": "Regular Season"
+ },
+ {
+  "leagueId": "105266108767593296",
+  "leagueLabel": "Greek Legends League",
+  "leagueName": "Summer 2023",
+  "stageName": "Playoffs"
+ },
+ {
+  "leagueId": "105709090213554608",
+  "leagueLabel": "LCO",
+  "leagueName": "Summer 2023",
+  "stageName": "Regular Season"
+ },
+ {
+  "leagueId": "105709090213554608",
+  "leagueLabel": "LCO",
+  "leagueName": "Summer 2023",
+  "stageName": "Playoffs"
+ },
+ {
+  "leagueId": "105266101075764032",
+  "leagueLabel": "Liga Portuguesa",
+  "leagueName": "Summer 2023",
+  "stageName": "Regular Season"
+ },
+ {
+  "leagueId": "105266101075764032",
+  "leagueLabel": "Liga Portuguesa",
+  "leagueName": "Summer 2023",
+  "stageName": "Playoffs"
+ },
+ {
+  "leagueId": "101382741235120464",
+  "leagueLabel": "LLA",
+  "leagueName": "Closing 2023",
+  "stageName": "Regular Season"
+ },
+ {
+  "leagueId": "101382741235120464",
+  "leagueLabel": "LLA",
+  "leagueName": "Closing 2023",
+  "stageName": "Playoffs"
+ },
+ {
+  "leagueId": "107407335299756368",
+  "leagueLabel": "Elite Series",
+  "leagueName": "Summer 2023",
+  "stageName": "Regular Season"
+ },
+ {
+  "leagueId": "107407335299756368",
+  "leagueLabel": "Elite Series",
+  "leagueName": "Summer 2023",
+  "stageName": "Playoffs"
+ },
+ {
+  "leagueId": "105266098308571968",
+  "leagueLabel": "NLC",
+  "leagueName": "Summer 2023",
+  "stageName": "Regular Season"
+ },
+ {
+  "leagueId": "105266098308571968",
+  "leagueLabel": "NLC",
+  "leagueName": "Summer 2023",
+  "stageName": "Playoffs"
+ },
+ {
+  "leagueId": "98767991335774720",
+  "leagueLabel": "LCK Challengers",
+  "leagueName": "Summer 2023",
+  "stageName": "Regular Season"
+ },
+ {
+  "leagueId": "98767991335774720",
+  "leagueLabel": "LCK Challengers",
+  "leagueName": "Summer 2023",
+  "stageName": "Playoffs"
+ },
+ {
+  "leagueId": "98767991299243168",
+  "leagueLabel": "LCS",
+  "leagueName": "Summer 2023",
+  "stageName": "Regular Season"
+ },
+ {
+  "leagueId": "98767991299243168",
+  "leagueLabel": "LCS",
+  "leagueName": "Summer 2023",
+  "stageName": "Playoffs"
+ },
+ {
+  "leagueId": "110372322609949920",
+  "leagueLabel": "South Regional League",
+  "leagueName": "Closing 2023",
+  "stageName": "Regular Season"
+ },
+ {
+  "leagueId": "110372322609949920",
+  "leagueLabel": "South Regional League",
+  "leagueName": "Closing 2023",
+  "stageName": "Playoffs"
+ },
+ {
+  "leagueId": "105266091639104320",
+  "leagueLabel": "Prime League",
+  "leagueName": "Summer 2023",
+  "stageName": "Regular Season"
+ },
+ {
+  "leagueId": "105266091639104320",
+  "leagueLabel": "Prime League",
+  "leagueName": "Summer 2023",
+  "stageName": "Playoffs"
+ },
+ {
+  "leagueId": "105266103462388560",
+  "leagueLabel": "La Ligue Française",
+  "leagueName": "Summer 2023",
+  "stageName": "Regular Season"
+ },
+ {
+  "leagueId": "105266103462388560",
+  "leagueLabel": "La Ligue Française",
+  "leagueName": "Summer 2023",
+  "stageName": "Playoffs"
+ },
+ {
+  "leagueId": "105266088231437424",
+  "leagueLabel": "Ultraliga",
+  "leagueName": "Summer 2023",
+  "stageName": "Regular Season"
+ },
+ {
+  "leagueId": "105266088231437424",
+  "leagueLabel": "Ultraliga",
+  "leagueName": "Summer 2023",
+  "stageName": "Playoffs"
+ },
+ {
+  "leagueId": "105266074488398656",
+  "leagueLabel": "SuperLiga",
+  "leagueName": "Summer 2023",
+  "stageName": "Regular Season"
+ },
+ {
+  "leagueId": "105266074488398656",
+  "leagueLabel": "SuperLiga",
+  "leagueName": "Summer 2023",
+  "stageName": "Playoffs"
+ },
+ {
+  "leagueId": "98767991314006704",
+  "leagueLabel": "LPL",
+  "leagueName": "Summer 2023",
+  "stageName": "Regular Season"
+ },
+ {
+  "leagueId": "98767991314006704",
+  "leagueLabel": "LPL",
+  "leagueName": "Summer 2023",
+  "stageName": "Playoffs"
+ },
+ {
+  "leagueId": "110371976858004496",
+  "leagueLabel": "North Regional League",
+  "leagueName": "Closing 2023",
+  "stageName": "Regular Season"
+ },
+ {
+  "leagueId": "110371976858004496",
+  "leagueLabel": "North Regional League",
+  "leagueName": "Closing 2023",
+  "stageName": "Playoffs"
+ },
+ {
+  "leagueId": "98767991325878496",
+  "leagueLabel": "MSI",
+  "leagueName": "MSI 2023",
+  "stageName": "Play In Knockouts"
+ },
+ {
+  "leagueId": "98767991325878496",
+  "leagueLabel": "MSI",
+  "leagueName": "MSI 2023",
+  "stageName": "Bracket Stage"
+ },
+ {
+  "leagueId": "109518549825754240",
+  "leagueLabel": "LCS Challengers Qualifiers",
+  "leagueName": "Promotion Spring 2023",
+  "stageName": "knockouts"
+ },
+ {
+  "leagueId": "100695891328981120",
+  "leagueLabel": "EMEA Masters",
+  "leagueName": "Main Stage - Spring 2023",
+  "stageName": "Groups"
+ },
+ {
+  "leagueId": "100695891328981120",
+  "leagueLabel": "EMEA Masters",
+  "leagueName": "Main Stage - Spring 2023",
+  "stageName": "knockouts"
+ },
+ {
+  "leagueId": "100695891328981120",
+  "leagueLabel": "EMEA Masters",
+  "leagueName": "Play Ins - Spring 2023",
+  "stageName": "Play In Groups"
+ },
+ {
+  "leagueId": "100695891328981120",
+  "leagueLabel": "EMEA Masters",
+  "leagueName": "Play Ins - Spring 2023",
+  "stageName": "Play In Knockouts"
+ },
+ {
+  "leagueId": "104366947889790208",
+  "leagueLabel": "PCS",
+  "leagueName": "Playoffs - Spring 2023",
+  "stageName": "Playoffs"
+ },
+ {
+  "leagueId": "109518549825754240",
+  "leagueLabel": "LCS Challengers Qualifiers",
+  "leagueName": "#2 Spring 2023",
+  "stageName": "Groups"
+ },
+ {
+  "leagueId": "109518549825754240",
+  "leagueLabel": "LCS Challengers Qualifiers",
+  "leagueName": "#2 Spring 2023",
+  "stageName": "knockouts"
+ },
+ {
+  "leagueId": "98767991302996016",
+  "leagueLabel": "LEC",
+  "leagueName": "Spring 2023",
+  "stageName": "Regular Season"
+ },
+ {
+  "leagueId": "98767991302996016",
+  "leagueLabel": "LEC",
+  "leagueName": "Spring 2023",
+  "stageName": "Groups"
+ },
+ {
+  "leagueId": "98767991302996016",
+  "leagueLabel": "LEC",
+  "leagueName": "Spring 2023",
+  "stageName": "Playoffs"
+ },
+ {
+  "leagueId": "107213827295848784",
+  "leagueLabel": "VCS",
+  "leagueName": "Spring 2023",
+  "stageName": "Regular Season"
+ },
+ {
+  "leagueId": "107213827295848784",
+  "leagueLabel": "VCS",
+  "leagueName": "Spring 2023",
+  "stageName": "Playoffs"
+ },
+ {
+  "leagueId": "104366947889790208",
+  "leagueLabel": "PCS",
+  "leagueName": "Spring 2023",
+  "stageName": "Regular Season"
+ },
+ {
+  "leagueId": "98767991349978720",
+  "leagueLabel": "LJL",
+  "leagueName": "Spring 2023",
+  "stageName": "Regular Season"
+ },
+ {
+  "leagueId": "98767991349978720",
+  "leagueLabel": "LJL",
+  "leagueName": "Spring 2023",
+  "stageName": "Playoffs"
+ },
+ {
+  "leagueId": "105266094998946944",
+  "leagueLabel": "PG Nationals",
+  "leagueName": "Spring 2023",
+  "stageName": "Regular Season"
+ },
+ {
+  "leagueId": "105266094998946944",
+  "leagueLabel": "PG Nationals",
+  "leagueName": "Spring 2023",
+  "stageName": "Playoffs"
+ },
+ {
+  "leagueId": "98767991299243168",
+  "leagueLabel": "LCS",
+  "leagueName": "Spring 2023",
+  "stageName": "Regular Season"
+ },
+ {
+  "leagueId": "98767991299243168",
+  "leagueLabel": "LCS",
+  "leagueName": "Spring 2023",
+  "stageName": "Playoffs"
+ },
+ {
+  "leagueId": "109545772895506416",
+  "leagueLabel": "Arabian League",
+  "leagueName": "Spring 2023",
+  "stageName": "Regular Season"
+ },
+ {
+  "leagueId": "109545772895506416",
+  "leagueLabel": "Arabian League",
+  "leagueName": "Spring 2023",
+  "stageName": "Playoffs"
+ },
+ {
+  "leagueId": "105266111679554384",
+  "leagueLabel": "Esports Balkan League",
+  "leagueName": "Spring 2023",
+  "stageName": "Regular Season"
+ },
+ {
+  "leagueId": "105266111679554384",
+  "leagueLabel": "Esports Balkan League",
+  "leagueName": "Spring 2023",
+  "stageName": "Playoffs"
+ },
+ {
+  "leagueId": "105266101075764032",
+  "leagueLabel": "Liga Portuguesa",
+  "leagueName": "Spring 2023",
+  "stageName": "Regular Season"
+ },
+ {
+  "leagueId": "105266101075764032",
+  "leagueLabel": "Liga Portuguesa",
+  "leagueName": "Spring 2023",
+  "stageName": "Playoffs"
+ },
+ {
+  "leagueId": "107407335299756368",
+  "leagueLabel": "Elite Series",
+  "leagueName": "Spring 2023",
+  "stageName": "Regular Season"
+ },
+ {
+  "leagueId": "107407335299756368",
+  "leagueLabel": "Elite Series",
+  "leagueName": "Spring 2023",
+  "stageName": "Playoffs"
+ },
+ {
+  "leagueId": "105266106309666624",
+  "leagueLabel": "Hitpoint Masters",
+  "leagueName": "Spring 2023",
+  "stageName": "Regular Season"
+ },
+ {
+  "leagueId": "105266106309666624",
+  "leagueLabel": "Hitpoint Masters",
+  "leagueName": "Spring 2023",
+  "stageName": "Playoffs"
+ },
+ {
+  "leagueId": "101382741235120464",
+  "leagueLabel": "LLA",
+  "leagueName": "Opening 2023",
+  "stageName": "Regular Season"
+ },
+ {
+  "leagueId": "101382741235120464",
+  "leagueLabel": "LLA",
+  "leagueName": "Opening 2023",
+  "stageName": "Playoffs"
+ },
+ {
+  "leagueId": "105549980953490848",
+  "leagueLabel": "CBLOL Academy",
+  "leagueName": "Split 1 2023",
+  "stageName": "Regular Season"
+ },
+ {
+  "leagueId": "105549980953490848",
+  "leagueLabel": "CBLOL Academy",
+  "leagueName": "Split 1 2023",
+  "stageName": "Playoffs"
+ },
+ {
+  "leagueId": "105266108767593296",
+  "leagueLabel": "Greek Legends League",
+  "leagueName": "Spring 2023",
+  "stageName": "Regular Season"
+ },
+ {
+  "leagueId": "105266108767593296",
+  "leagueLabel": "Greek Legends League",
+  "leagueName": "Spring 2023",
+  "stageName": "Playoffs"
+ },
+ {
+  "leagueId": "98767991332355504",
+  "leagueLabel": "CBLOL",
+  "leagueName": "Split 1 2023",
+  "stageName": "Regular Season"
+ },
+ {
+  "leagueId": "98767991332355504",
+  "leagueLabel": "CBLOL",
+  "leagueName": "Split 1 2023",
+  "stageName": "Playoffs"
+ },
+ {
+  "leagueId": "109511549831443328",
+  "leagueLabel": "LCS Challengers",
+  "leagueName": "Spring 2023",
+  "stageName": "Regular Season"
+ },
+ {
+  "leagueId": "109511549831443328",
+  "leagueLabel": "LCS Challengers",
+  "leagueName": "Spring 2023",
+  "stageName": "Playoffs"
+ },
+ {
+  "leagueId": "98767991302996016",
+  "leagueLabel": "LEC",
+  "leagueName": "Winter 2023",
+  "stageName": "Regular Season"
+ },
+ {
+  "leagueId": "98767991302996016",
+  "leagueLabel": "LEC",
+  "leagueName": "Winter 2023",
+  "stageName": "Groups"
+ },
+ {
+  "leagueId": "98767991302996016",
+  "leagueLabel": "LEC",
+  "leagueName": "Winter 2023",
+  "stageName": "Playoffs"
+ },
+ {
+  "leagueId": "105709090213554608",
+  "leagueLabel": "LCO",
+  "leagueName": "Split 1 2023",
+  "stageName": "Regular Season"
+ },
+ {
+  "leagueId": "105709090213554608",
+  "leagueLabel": "LCO",
+  "leagueName": "Split 1 2023",
+  "stageName": "Groups"
+ },
+ {
+  "leagueId": "105709090213554608",
+  "leagueLabel": "LCO",
+  "leagueName": "Split 1 2023",
+  "stageName": "Playoffs"
+ },
+ {
+  "leagueId": "109518549825754240",
+  "leagueLabel": "LCS Challengers Qualifiers",
+  "leagueName": "#1 Spring 2023",
+  "stageName": "Groups"
+ },
+ {
+  "leagueId": "109518549825754240",
+  "leagueLabel": "LCS Challengers Qualifiers",
+  "leagueName": "#1 Spring 2023",
+  "stageName": "knockouts"
+ },
+ {
+  "leagueId": "105266103462388560",
+  "leagueLabel": "La Ligue Française",
+  "leagueName": "Spring 2023",
+  "stageName": "Regular Season"
+ },
+ {
+  "leagueId": "105266103462388560",
+  "leagueLabel": "La Ligue Française",
+  "leagueName": "Spring 2023",
+  "stageName": "Playoffs"
+ },
+ {
+  "leagueId": "105266091639104320",
+  "leagueLabel": "Prime League",
+  "leagueName": "Spring 2023",
+  "stageName": "Regular Season"
+ },
+ {
+  "leagueId": "105266091639104320",
+  "leagueLabel": "Prime League",
+  "leagueName": "Spring 2023",
+  "stageName": "Playoffs"
+ },
+ {
+  "leagueId": "98767991343597632",
+  "leagueLabel": "TCL",
+  "leagueName": "Spring 2023",
+  "stageName": "Regular Season"
+ },
+ {
+  "leagueId": "98767991343597632",
+  "leagueLabel": "TCL",
+  "leagueName": "Spring 2023",
+  "stageName": "Playoffs"
+ },
+ {
+  "leagueId": "98767991310872064",
+  "leagueLabel": "LCK",
+  "leagueName": "Spring 2023",
+  "stageName": "Regular Season"
+ },
+ {
+  "leagueId": "98767991310872064",
+  "leagueLabel": "LCK",
+  "leagueName": "Spring 2023",
+  "stageName": "Playoffs"
+ },
+ {
+  "leagueId": "105266074488398656",
+  "leagueLabel": "SuperLiga",
+  "leagueName": "Spring 2023",
+  "stageName": "Regular Season"
+ },
+ {
+  "leagueId": "105266074488398656",
+  "leagueLabel": "SuperLiga",
+  "leagueName": "Spring 2023",
+  "stageName": "Playoffs"
+ },
+ {
+  "leagueId": "105266098308571968",
+  "leagueLabel": "NLC",
+  "leagueName": "Spring 2023",
+  "stageName": "Regular Season"
+ },
+ {
+  "leagueId": "105266098308571968",
+  "leagueLabel": "NLC",
+  "leagueName": "Spring 2023",
+  "stageName": "Playoffs"
+ },
+ {
+  "leagueId": "105266088231437424",
+  "leagueLabel": "Ultraliga",
+  "leagueName": "Spring 2023",
+  "stageName": "Regular Season"
+ },
+ {
+  "leagueId": "105266088231437424",
+  "leagueLabel": "Ultraliga",
+  "leagueName": "Spring 2023",
+  "stageName": "Playoffs"
+ },
+ {
+  "leagueId": "98767991335774720",
+  "leagueLabel": "LCK Challengers",
+  "leagueName": "Spring 2023",
+  "stageName": "Regular Season"
+ },
+ {
+  "leagueId": "98767991335774720",
+  "leagueLabel": "LCK Challengers",
+  "leagueName": "Spring 2023",
+  "stageName": "Playoffs"
+ },
+ {
+  "leagueId": "98767975604431408",
+  "leagueLabel": "Worlds",
+  "leagueName": "Worlds 2022",
+  "stageName": "Play In Groups"
+ },
+ {
+  "leagueId": "98767975604431408",
+  "leagueLabel": "Worlds",
+  "leagueName": "Worlds 2022",
+  "stageName": "Play In Knockouts"
+ },
+ {
+  "leagueId": "98767975604431408",
+  "leagueLabel": "Worlds",
+  "leagueName": "Worlds 2022",
+  "stageName": "Groups"
+ },
+ {
+  "leagueId": "98767975604431408",
+  "leagueLabel": "Worlds",
+  "leagueName": "Worlds 2022",
+  "stageName": "knockouts"
+ },
+ {
+  "leagueId": "101382741235120464",
+  "leagueLabel": "LLA",
+  "leagueName": "LLA Promotion 2022",
+  "stageName": "knockouts"
+ },
+ {
+  "leagueId": "98767991310872064",
+  "leagueLabel": "LCK",
+  "leagueName": "LCK Regional Finals 2022",
+  "stageName": "regional_qualifier"
+ },
+ {
+  "leagueId": "100695891328981120",
+  "leagueLabel": "EMEA Masters",
+  "leagueName": "Summer 2022 Main Event",
+  "stageName": "Groups"
+ },
+ {
+  "leagueId": "100695891328981120",
+  "leagueLabel": "EMEA Masters",
+  "leagueName": "Summer 2022 Main Event",
+  "stageName": "Playoffs"
+ },
+ {
+  "leagueId": "100695891328981120",
+  "leagueLabel": "EMEA Masters",
+  "leagueName": "Summer 2022 Play Ins",
+  "stageName": "Play In Groups"
+ },
+ {
+  "leagueId": "100695891328981120",
+  "leagueLabel": "EMEA Masters",
+  "leagueName": "Summer 2022 Play Ins",
+  "stageName": "Play In Knockouts"
+ },
+ {
+  "leagueId": "104366947889790208",
+  "leagueLabel": "PCS",
+  "leagueName": "PCS Summer 2022",
+  "stageName": "Regular Season"
+ },
+ {
+  "leagueId": "104366947889790208",
+  "leagueLabel": "PCS",
+  "leagueName": "PCS Summer 2022",
+  "stageName": "Playoffs"
+ },
+ {
+  "leagueId": "98767991299243168",
+  "leagueLabel": "LCS",
+  "leagueName": "LCS Summer 2022",
+  "stageName": "Regular Season"
+ },
+ {
+  "leagueId": "98767991299243168",
+  "leagueLabel": "LCS",
+  "leagueName": "LCS Summer 2022",
+  "stageName": "Playoffs"
+ },
+ {
+  "leagueId": "98767991302996016",
+  "leagueLabel": "LEC",
+  "leagueName": "LEC Summer 2022",
+  "stageName": "Regular Season"
+ },
+ {
+  "leagueId": "98767991302996016",
+  "leagueLabel": "LEC",
+  "leagueName": "LEC Summer 2022",
+  "stageName": "Playoffs"
+ },
+ {
+  "leagueId": "105549980953490848",
+  "leagueLabel": "CBLOL Academy",
+  "leagueName": "CBLOL Academy Split 2 2022",
+  "stageName": "Regular Season"
+ },
+ {
+  "leagueId": "105549980953490848",
+  "leagueLabel": "CBLOL Academy",
+  "leagueName": "CBLOL Academy Split 2 2022",
+  "stageName": "Playoffs"
+ },
+ {
+  "leagueId": "98767991349978720",
+  "leagueLabel": "LJL",
+  "leagueName": "LJL Summer 2022",
+  "stageName": "Regular Season"
+ },
+ {
+  "leagueId": "98767991349978720",
+  "leagueLabel": "LJL",
+  "leagueName": "LJL Summer 2022",
+  "stageName": "Playoffs"
+ },
+ {
+  "leagueId": "101382741235120464",
+  "leagueLabel": "LLA",
+  "leagueName": "LLA Closing 2022",
+  "stageName": "Regular Season"
+ },
+ {
+  "leagueId": "101382741235120464",
+  "leagueLabel": "LLA",
+  "leagueName": "LLA Closing 2022",
+  "stageName": "Playoffs"
+ },
+ {
+  "leagueId": "98767991332355504",
+  "leagueLabel": "CBLOL",
+  "leagueName": "CBLOL Split 2 2022",
+  "stageName": "Regular Season"
+ },
+ {
+  "leagueId": "98767991332355504",
+  "leagueLabel": "CBLOL",
+  "leagueName": "CBLOL Split 2 2022",
+  "stageName": "Playoffs"
+ },
+ {
+  "leagueId": "105266094998946944",
+  "leagueLabel": "PG Nationals",
+  "leagueName": "PG Nationals Summer 2022",
+  "stageName": "Regular Season"
+ },
+ {
+  "leagueId": "105266094998946944",
+  "leagueLabel": "PG Nationals",
+  "leagueName": "PG Nationals Summer 2022",
+  "stageName": "Playoffs"
+ },
+ {
+  "leagueId": "105266101075764032",
+  "leagueLabel": "Liga Portuguesa",
+  "leagueName": "Liga Portuguesa Summer 2022",
+  "stageName": "Regular Season"
+ },
+ {
+  "leagueId": "105266101075764032",
+  "leagueLabel": "Liga Portuguesa",
+  "leagueName": "Liga Portuguesa Summer 2022",
+  "stageName": "Playoffs"
+ },
+ {
+  "leagueId": "105266106309666624",
+  "leagueLabel": "Hitpoint Masters",
+  "leagueName": "Hitpoint Masters Summer 2022",
+  "stageName": "Regular Season"
+ },
+ {
+  "leagueId": "105266106309666624",
+  "leagueLabel": "Hitpoint Masters",
+  "leagueName": "Hitpoint Masters Summer 2022",
+  "stageName": "Playoffs"
+ },
+ {
+  "leagueId": "105266111679554384",
+  "leagueLabel": "Esports Balkan League",
+  "leagueName": "Esports Balkan League Summer 2022",
+  "stageName": "Regular Season"
+ },
+ {
+  "leagueId": "105266111679554384",
+  "leagueLabel": "Esports Balkan League",
+  "leagueName": "Esports Balkan League Summer 2022",
+  "stageName": "Playoffs"
+ },
+ {
+  "leagueId": "107407335299756368",
+  "leagueLabel": "Elite Series",
+  "leagueName": "Elite Series Summer 2022",
+  "stageName": "Regular Season"
+ },
+ {
+  "leagueId": "107407335299756368",
+  "leagueLabel": "Elite Series",
+  "leagueName": "Elite Series Summer 2022",
+  "stageName": "Playoffs"
+ },
+ {
+  "leagueId": "105709090213554608",
+  "leagueLabel": "LCO",
+  "leagueName": "LCO Split 2 2022",
+  "stageName": "Regular Season"
+ },
+ {
+  "leagueId": "105709090213554608",
+  "leagueLabel": "LCO",
+  "leagueName": "LCO Split 2 2022",
+  "stageName": "Playoffs"
+ },
+ {
+  "leagueId": "106827757669296912",
+  "leagueLabel": "LJL Academy",
+  "leagueName": "LJL Academy 2022",
+  "stageName": "Regular Season"
+ },
+ {
+  "leagueId": "106827757669296912",
+  "leagueLabel": "LJL Academy",
+  "leagueName": "LJL Academy 2022",
+  "stageName": "knockouts"
+ },
+ {
+  "leagueId": "105266088231437424",
+  "leagueLabel": "Ultraliga",
+  "leagueName": "Ultraliga Summer 2022",
+  "stageName": "Regular Season"
+ },
+ {
+  "leagueId": "105266088231437424",
+  "leagueLabel": "Ultraliga",
+  "leagueName": "Ultraliga Summer 2022",
+  "stageName": "Playoffs"
+ },
+ {
+  "leagueId": "105266091639104320",
+  "leagueLabel": "Prime League",
+  "leagueName": "Prime League Summer 2022",
+  "stageName": "Regular Season"
+ },
+ {
+  "leagueId": "105266091639104320",
+  "leagueLabel": "Prime League",
+  "leagueName": "Prime League Summer 2022",
+  "stageName": "Playoffs"
+ },
+ {
+  "leagueId": "105266103462388560",
+  "leagueLabel": "La Ligue Française",
+  "leagueName": "LFL Summer 2022",
+  "stageName": "Regular Season"
+ },
+ {
+  "leagueId": "105266103462388560",
+  "leagueLabel": "La Ligue Française",
+  "leagueName": "LFL Summer 2022",
+  "stageName": "Playoffs"
+ },
+ {
+  "leagueId": "105266108767593296",
+  "leagueLabel": "Greek Legends League",
+  "leagueName": "Greek Legends League Summer 2022",
+  "stageName": "Regular Season"
+ },
+ {
+  "leagueId": "105266108767593296",
+  "leagueLabel": "Greek Legends League",
+  "leagueName": "Greek Legends League Summer 2022",
+  "stageName": "Playoffs"
+ },
+ {
+  "leagueId": "105266098308571968",
+  "leagueLabel": "NLC",
+  "leagueName": "NLC Summer 2022",
+  "stageName": "Regular Season"
+ },
+ {
+  "leagueId": "105266098308571968",
+  "leagueLabel": "NLC",
+  "leagueName": "NLC Summer 2022",
+  "stageName": "Playoffs"
+ },
+ {
+  "leagueId": "105266074488398656",
+  "leagueLabel": "SuperLiga",
+  "leagueName": "Superliga Summer 2022",
+  "stageName": "Regular Season"
+ },
+ {
+  "leagueId": "105266074488398656",
+  "leagueLabel": "SuperLiga",
+  "leagueName": "Superliga Summer 2022",
+  "stageName": "Playoffs"
+ },
+ {
+  "leagueId": "98767991325878496",
+  "leagueLabel": "MSI",
+  "leagueName": "MSI 2022",
+  "stageName": "Round 1"
+ },
+ {
+  "leagueId": "98767991325878496",
+  "leagueLabel": "MSI",
+  "leagueName": "MSI 2022",
+  "stageName": "Round 2"
+ },
+ {
+  "leagueId": "98767991325878496",
+  "leagueLabel": "MSI",
+  "leagueName": "MSI 2022",
+  "stageName": "knockouts"
+ },
+ {
+  "leagueId": "98767991335774720",
+  "leagueLabel": "LCK Challengers",
+  "leagueName": "LCK Challengers Summer 2022",
+  "stageName": "Regular Season"
+ },
+ {
+  "leagueId": "98767991335774720",
+  "leagueLabel": "LCK Challengers",
+  "leagueName": "LCK Challengers Summer 2022",
+  "stageName": "Playoffs"
+ },
+ {
+  "leagueId": "98767991310872064",
+  "leagueLabel": "LCK",
+  "leagueName": "LCK Summer 2022",
+  "stageName": "Regular Season"
+ },
+ {
+  "leagueId": "98767991310872064",
+  "leagueLabel": "LCK",
+  "leagueName": "LCK Summer 2022",
+  "stageName": "Playoffs"
+ },
+ {
+  "leagueId": "108203770023880320",
+  "leagueLabel": "LCK Academy",
+  "leagueName": "2022 LCK Academy 1 ",
+  "stageName": "Regular Season"
+ },
+ {
+  "leagueId": "108203770023880320",
+  "leagueLabel": "LCK Academy",
+  "leagueName": "2022 LCK Academy 1 ",
+  "stageName": "Playoffs"
+ },
+ {
+  "leagueId": "107898214974993344",
+  "leagueLabel": "College Championship",
+  "leagueName": "College Championship 2022",
+  "stageName": "knockouts"
+ },
+ {
+  "leagueId": "107898214974993344",
+  "leagueLabel": "College Championship",
+  "leagueName": "College Championship 2022",
+  "stageName": "Playoffs"
+ },
+ {
+  "leagueId": "100695891328981120",
+  "leagueLabel": "EMEA Masters",
+  "leagueName": "Spring 2022 Main Event",
+  "stageName": "Groups"
+ },
+ {
+  "leagueId": "100695891328981120",
+  "leagueLabel": "EMEA Masters",
+  "leagueName": "Spring 2022 Main Event",
+  "stageName": "Playoffs"
+ },
+ {
+  "leagueId": "98767991343597632",
+  "leagueLabel": "TCL",
+  "leagueName": "TCL Summer 2022",
+  "stageName": "Regular Season"
+ },
+ {
+  "leagueId": "98767991343597632",
+  "leagueLabel": "TCL",
+  "leagueName": "TCL Summer 2022",
+  "stageName": "Playoffs"
+ },
+ {
+  "leagueId": "100695891328981120",
+  "leagueLabel": "EMEA Masters",
+  "leagueName": "Spring 2022 Play Ins",
+  "stageName": "Play In Groups"
+ },
+ {
+  "leagueId": "100695891328981120",
+  "leagueLabel": "EMEA Masters",
+  "leagueName": "Spring 2022 Play Ins",
+  "stageName": "Play In Knockouts"
+ },
+ {
+  "leagueId": "104366947889790208",
+  "leagueLabel": "PCS",
+  "leagueName": "PCS Spring 2022",
+  "stageName": "Regular Season"
+ },
+ {
+  "leagueId": "104366947889790208",
+  "leagueLabel": "PCS",
+  "leagueName": "PCS Spring 2022",
+  "stageName": "Playoffs"
+ },
+ {
+  "leagueId": "98767991355908944",
+  "leagueLabel": "LCL",
+  "leagueName": "LCL Spring 2022",
+  "stageName": "Regular Season"
+ },
+ {
+  "leagueId": "98767991349978720",
+  "leagueLabel": "LJL",
+  "leagueName": "LJL Spring 2022",
+  "stageName": "Regular Season"
+ },
+ {
+  "leagueId": "98767991349978720",
+  "leagueLabel": "LJL",
+  "leagueName": "LJL Spring 2022",
+  "stageName": "Playoffs"
+ },
+ {
+  "leagueId": "98767991299243168",
+  "leagueLabel": "LCS",
+  "leagueName": "LCS Spring 2022",
+  "stageName": "Regular Season"
+ },
+ {
+  "leagueId": "98767991299243168",
+  "leagueLabel": "LCS",
+  "leagueName": "LCS Spring 2022",
+  "stageName": "Playoffs"
+ },
+ {
+  "leagueId": "101382741235120464",
+  "leagueLabel": "LLA",
+  "leagueName": "LLA Opening 2022",
+  "stageName": "Regular Season"
+ },
+ {
+  "leagueId": "101382741235120464",
+  "leagueLabel": "LLA",
+  "leagueName": "LLA Opening 2022",
+  "stageName": "Playoffs"
+ },
+ {
+  "leagueId": "105549980953490848",
+  "leagueLabel": "CBLOL Academy",
+  "leagueName": "CBLOL Academy Split 1 2022",
+  "stageName": "Regular Season"
+ },
+ {
+  "leagueId": "105549980953490848",
+  "leagueLabel": "CBLOL Academy",
+  "leagueName": "CBLOL Academy Split 1 2022",
+  "stageName": "Playoffs"
+ },
+ {
+  "leagueId": "105709090213554608",
+  "leagueLabel": "LCO",
+  "leagueName": "LCO Split 1 2022",
+  "stageName": "Regular Season"
+ },
+ {
+  "leagueId": "105709090213554608",
+  "leagueLabel": "LCO",
+  "leagueName": "LCO Split 1 2022",
+  "stageName": "Playoffs"
+ },
+ {
+  "leagueId": "98767991332355504",
+  "leagueLabel": "CBLOL",
+  "leagueName": "CBLOL Split 1 2022",
+  "stageName": "Regular Season"
+ },
+ {
+  "leagueId": "98767991332355504",
+  "leagueLabel": "CBLOL",
+  "leagueName": "CBLOL Split 1 2022",
+  "stageName": "Playoffs"
+ },
+ {
+  "leagueId": "98767991343597632",
+  "leagueLabel": "TCL",
+  "leagueName": "TCL Winter 2022",
+  "stageName": "Regular Season"
+ },
+ {
+  "leagueId": "98767991343597632",
+  "leagueLabel": "TCL",
+  "leagueName": "TCL Winter 2022",
+  "stageName": "Playoffs"
+ },
+ {
+  "leagueId": "105266106309666624",
+  "leagueLabel": "Hitpoint Masters",
+  "leagueName": "Hitpoint Masters Spring 2022",
+  "stageName": "Regular Season"
+ },
+ {
+  "leagueId": "105266106309666624",
+  "leagueLabel": "Hitpoint Masters",
+  "leagueName": "Hitpoint Masters Spring 2022",
+  "stageName": "Playoffs"
+ },
+ {
+  "leagueId": "105266101075764032",
+  "leagueLabel": "Liga Portuguesa",
+  "leagueName": "Liga Portuguesa Spring 2022",
+  "stageName": "Regular Season"
+ },
+ {
+  "leagueId": "105266101075764032",
+  "leagueLabel": "Liga Portuguesa",
+  "leagueName": "Liga Portuguesa Spring 2022",
+  "stageName": "Playoffs"
+ },
+ {
+  "leagueId": "105266108767593296",
+  "leagueLabel": "Greek Legends League",
+  "leagueName": "Greek Legends League Spring 2022",
+  "stageName": "Regular Season"
+ },
+ {
+  "leagueId": "105266108767593296",
+  "leagueLabel": "Greek Legends League",
+  "leagueName": "Greek Legends League Spring 2022",
+  "stageName": "Playoffs"
+ },
+ {
+  "leagueId": "105266094998946944",
+  "leagueLabel": "PG Nationals",
+  "leagueName": "PG Nationals Spring 2022",
+  "stageName": "Regular Season"
+ },
+ {
+  "leagueId": "105266094998946944",
+  "leagueLabel": "PG Nationals",
+  "leagueName": "PG Nationals Spring 2022",
+  "stageName": "Playoffs"
+ },
+ {
+  "leagueId": "105266111679554384",
+  "leagueLabel": "Esports Balkan League",
+  "leagueName": "Esports Balkan League Spring 2022",
+  "stageName": "Regular Season"
+ },
+ {
+  "leagueId": "105266111679554384",
+  "leagueLabel": "Esports Balkan League",
+  "leagueName": "Esports Balkan League Spring 2022",
+  "stageName": "Playoffs"
+ },
+ {
+  "leagueId": "107407335299756368",
+  "leagueLabel": "Elite Series",
+  "leagueName": "Elite Series Spring 2022",
+  "stageName": "Regular Season"
+ },
+ {
+  "leagueId": "107407335299756368",
+  "leagueLabel": "Elite Series",
+  "leagueName": "Elite Series Spring 2022",
+  "stageName": "Playoffs"
+ },
+ {
+  "leagueId": "98767991299243168",
+  "leagueLabel": "LCS",
+  "leagueName": "LCS Lock In 2022",
+  "stageName": "Groups"
+ },
+ {
+  "leagueId": "98767991299243168",
+  "leagueLabel": "LCS",
+  "leagueName": "LCS Lock In 2022",
+  "stageName": "Playoffs"
+ },
+ {
+  "leagueId": "98767991310872064",
+  "leagueLabel": "LCK",
+  "leagueName": "LCK Spring 2022",
+  "stageName": "Regular Season"
+ },
+ {
+  "leagueId": "98767991310872064",
+  "leagueLabel": "LCK",
+  "leagueName": "LCK Spring 2022",
+  "stageName": "Playoffs"
+ },
+ {
+  "leagueId": "105266103462388560",
+  "leagueLabel": "La Ligue Française",
+  "leagueName": "LFL Spring 2022",
+  "stageName": "Regular Season"
+ },
+ {
+  "leagueId": "105266103462388560",
+  "leagueLabel": "La Ligue Française",
+  "leagueName": "LFL Spring 2022",
+  "stageName": "Playoffs"
+ },
+ {
+  "leagueId": "98767991335774720",
+  "leagueLabel": "LCK Challengers",
+  "leagueName": "LCK Challengers Spring 2022",
+  "stageName": "Regular Season"
+ },
+ {
+  "leagueId": "98767991335774720",
+  "leagueLabel": "LCK Challengers",
+  "leagueName": "LCK Challengers Spring 2022",
+  "stageName": "Playoffs"
+ },
+ {
+  "leagueId": "105266074488398656",
+  "leagueLabel": "SuperLiga",
+  "leagueName": "Superliga Spring 2022",
+  "stageName": "Regular Season"
+ },
+ {
+  "leagueId": "105266074488398656",
+  "leagueLabel": "SuperLiga",
+  "leagueName": "Superliga Spring 2022",
+  "stageName": "Playoffs"
+ },
+ {
+  "leagueId": "98767991302996016",
+  "leagueLabel": "LEC",
+  "leagueName": "LEC Spring 2022",
+  "stageName": "Regular Season"
+ },
+ {
+  "leagueId": "98767991302996016",
+  "leagueLabel": "LEC",
+  "leagueName": "LEC Spring 2022",
+  "stageName": "Playoffs"
+ },
+ {
+  "leagueId": "105266088231437424",
+  "leagueLabel": "Ultraliga",
+  "leagueName": "Ultraliga Spring 2022",
+  "stageName": "Regular Season"
+ },
+ {
+  "leagueId": "105266088231437424",
+  "leagueLabel": "Ultraliga",
+  "leagueName": "Ultraliga Spring 2022",
+  "stageName": "Playoffs"
+ },
+ {
+  "leagueId": "105266091639104320",
+  "leagueLabel": "Prime League",
+  "leagueName": "Prime League Spring 2022",
+  "stageName": "Regular Season"
+ },
+ {
+  "leagueId": "105266091639104320",
+  "leagueLabel": "Prime League",
+  "leagueName": "Prime League Spring 2022",
+  "stageName": "Playoffs"
+ },
+ {
+  "leagueId": "105266098308571968",
+  "leagueLabel": "NLC",
+  "leagueName": "NLC Spring 2022",
+  "stageName": "Regular Season"
+ },
+ {
+  "leagueId": "105266098308571968",
+  "leagueLabel": "NLC",
+  "leagueName": "NLC Spring 2022",
+  "stageName": "Playoffs"
+ },
+ {
+  "leagueId": "107213827295848784",
+  "leagueLabel": "VCS",
+  "leagueName": "VCS Winter 2021",
+  "stageName": "Regular Season"
+ },
+ {
+  "leagueId": "107213827295848784",
+  "leagueLabel": "VCS",
+  "leagueName": "VCS Winter 2021",
+  "stageName": "Playoffs"
+ },
+ {
+  "leagueId": "98767975604431408",
+  "leagueLabel": "Worlds",
+  "leagueName": "worlds_2021",
+  "stageName": "Play In Groups"
+ },
+ {
+  "leagueId": "98767975604431408",
+  "leagueLabel": "Worlds",
+  "leagueName": "worlds_2021",
+  "stageName": "Play In Knockouts"
+ },
+ {
+  "leagueId": "98767975604431408",
+  "leagueLabel": "Worlds",
+  "leagueName": "worlds_2021",
+  "stageName": "Groups"
+ },
+ {
+  "leagueId": "98767975604431408",
+  "leagueLabel": "Worlds",
+  "leagueName": "worlds_2021",
+  "stageName": "Playoffs"
+ },
+ {
+  "leagueId": "98767991310872064",
+  "leagueLabel": "LCK",
+  "leagueName": "LCK Regional Finals 2021",
+  "stageName": "Regional Finals"
+ },
+ {
+  "leagueId": "101382741235120464",
+  "leagueLabel": "LLA",
+  "leagueName": "LLA Promotion 2021",
+  "stageName": "Groups"
+ },
+ {
+  "leagueId": "101382741235120464",
+  "leagueLabel": "LLA",
+  "leagueName": "LLA Promotion 2021",
+  "stageName": "knockouts"
+ },
+ {
+  "leagueId": "106827757669296912",
+  "leagueLabel": "LJL Academy",
+  "leagueName": "LJL Academy 2021",
+  "stageName": "Regular Season"
+ },
+ {
+  "leagueId": "106827757669296912",
+  "leagueLabel": "LJL Academy",
+  "leagueName": "LJL Academy 2021",
+  "stageName": "knockouts"
+ },
+ {
+  "leagueId": "100695891328981120",
+  "leagueLabel": "EMEA Masters",
+  "leagueName": "european_masters_summer_2021_main_event",
+  "stageName": "Groups"
+ },
+ {
+  "leagueId": "100695891328981120",
+  "leagueLabel": "EMEA Masters",
+  "leagueName": "european_masters_summer_2021_main_event",
+  "stageName": "Playoffs"
+ },
+ {
+  "leagueId": "100695891328981120",
+  "leagueLabel": "EMEA Masters",
+  "leagueName": "European Masters - Summer 2021 Play Ins",
+  "stageName": "Play In Groups"
+ },
+ {
+  "leagueId": "100695891328981120",
+  "leagueLabel": "EMEA Masters",
+  "leagueName": "European Masters - Summer 2021 Play Ins",
+  "stageName": "Playoffs"
+ },
+ {
+  "leagueId": "104366947889790208",
+  "leagueLabel": "PCS",
+  "leagueName": "PCS Summer 2021",
+  "stageName": "Regular Season"
+ },
+ {
+  "leagueId": "104366947889790208",
+  "leagueLabel": "PCS",
+  "leagueName": "PCS Summer 2021",
+  "stageName": "Playoffs"
+ },
+ {
+  "leagueId": "98767991355908944",
+  "leagueLabel": "LCL",
+  "leagueName": "LCL Summer 2021",
+  "stageName": "Regular Season"
+ },
+ {
+  "leagueId": "98767991355908944",
+  "leagueLabel": "LCL",
+  "leagueName": "LCL Summer 2021",
+  "stageName": "Playoffs"
+ },
+ {
+  "leagueId": "101382741235120464",
+  "leagueLabel": "LLA",
+  "leagueName": "LLA Closing 2021",
+  "stageName": "Round 1"
+ },
+ {
+  "leagueId": "101382741235120464",
+  "leagueLabel": "LLA",
+  "leagueName": "LLA Closing 2021",
+  "stageName": "Round 2"
+ },
+ {
+  "leagueId": "101382741235120464",
+  "leagueLabel": "LLA",
+  "leagueName": "LLA Closing 2021",
+  "stageName": "Playoffs"
+ },
+ {
+  "leagueId": "98767991349978720",
+  "leagueLabel": "LJL",
+  "leagueName": "LJL Summer 2021",
+  "stageName": "Regular Season"
+ },
+ {
+  "leagueId": "98767991349978720",
+  "leagueLabel": "LJL",
+  "leagueName": "LJL Summer 2021",
+  "stageName": "Playoffs"
+ },
+ {
+  "leagueId": "105266106309666624",
+  "leagueLabel": "Hitpoint Masters",
+  "leagueName": "Hitpoint Masters Summer 2021",
+  "stageName": "Regular Season"
+ },
+ {
+  "leagueId": "105266106309666624",
+  "leagueLabel": "Hitpoint Masters",
+  "leagueName": "Hitpoint Masters Summer 2021",
+  "stageName": "Playoffs"
+ },
+ {
+  "leagueId": "105709090213554608",
+  "leagueLabel": "LCO",
+  "leagueName": "LCO Split 2 2021",
+  "stageName": "Regular Season"
+ },
+ {
+  "leagueId": "105709090213554608",
+  "leagueLabel": "LCO",
+  "leagueName": "LCO Split 2 2021",
+  "stageName": "Playoffs"
+ },
+ {
+  "leagueId": "98767991302996016",
+  "leagueLabel": "LEC",
+  "leagueName": "LEC Summer 2021",
+  "stageName": "Regular Season"
+ },
+ {
+  "leagueId": "98767991302996016",
+  "leagueLabel": "LEC",
+  "leagueName": "LEC Summer 2021",
+  "stageName": "Playoffs"
+ },
+ {
+  "leagueId": "105266111679554384",
+  "leagueLabel": "Esports Balkan League",
+  "leagueName": "Esports Balkan League Summer 2021",
+  "stageName": "Regular Season"
+ },
+ {
+  "leagueId": "105266111679554384",
+  "leagueLabel": "Esports Balkan League",
+  "leagueName": "Esports Balkan League Summer 2021",
+  "stageName": "Playoffs"
+ },
+ {
+  "leagueId": "98767991310872064",
+  "leagueLabel": "LCK",
+  "leagueName": "LCK Summer 2021",
+  "stageName": "Regular Season"
+ },
+ {
+  "leagueId": "98767991310872064",
+  "leagueLabel": "LCK",
+  "leagueName": "LCK Summer 2021",
+  "stageName": "Playoffs"
+ },
+ {
+  "leagueId": "98767991335774720",
+  "leagueLabel": "LCK Challengers",
+  "leagueName": "LCK Challengers Summer 2021",
+  "stageName": "Regular Season"
+ },
+ {
+  "leagueId": "98767991335774720",
+  "leagueLabel": "LCK Challengers",
+  "leagueName": "LCK Challengers Summer 2021",
+  "stageName": "Playoffs"
+ },
+ {
+  "leagueId": "98767991343597632",
+  "leagueLabel": "TCL",
+  "leagueName": "TCL Summer 2021",
+  "stageName": "Regular Season"
+ },
+ {
+  "leagueId": "98767991343597632",
+  "leagueLabel": "TCL",
+  "leagueName": "TCL Summer 2021",
+  "stageName": "Playoffs"
+ },
+ {
+  "leagueId": "98767991332355504",
+  "leagueLabel": "CBLOL",
+  "leagueName": "CBLOL Split 2 2021",
+  "stageName": "Regular Season"
+ },
+ {
+  "leagueId": "98767991332355504",
+  "leagueLabel": "CBLOL",
+  "leagueName": "CBLOL Split 2 2021",
+  "stageName": "Playoffs"
+ },
+ {
+  "leagueId": "98767991299243168",
+  "leagueLabel": "LCS",
+  "leagueName": "LCS Summer 2021",
+  "stageName": "Regular Season"
+ },
+ {
+  "leagueId": "98767991299243168",
+  "leagueLabel": "LCS",
+  "leagueName": "LCS Summer 2021",
+  "stageName": "Playoffs"
+ },
+ {
+  "leagueId": "105266098308571968",
+  "leagueLabel": "NLC",
+  "leagueName": "NLC Summer 2021",
+  "stageName": "Round 1"
+ },
+ {
+  "leagueId": "105266098308571968",
+  "leagueLabel": "NLC",
+  "leagueName": "NLC Summer 2021",
+  "stageName": "Round 2"
+ },
+ {
+  "leagueId": "105266098308571968",
+  "leagueLabel": "NLC",
+  "leagueName": "NLC Summer 2021",
+  "stageName": "Playoffs"
+ },
+ {
+  "leagueId": "105266094998946944",
+  "leagueLabel": "PG Nationals",
+  "leagueName": "PG Nationals Summer 2021",
+  "stageName": "Regular Season"
+ },
+ {
+  "leagueId": "105266094998946944",
+  "leagueLabel": "PG Nationals",
+  "leagueName": "PG Nationals Summer 2021",
+  "stageName": "Playoffs"
+ },
+ {
+  "leagueId": "105266103462388560",
+  "leagueLabel": "La Ligue Française",
+  "leagueName": "lfl_2021_summer",
+  "stageName": "Regular Season"
+ },
+ {
+  "leagueId": "105266103462388560",
+  "leagueLabel": "La Ligue Française",
+  "leagueName": "lfl_2021_summer",
+  "stageName": "Playoffs"
+ },
+ {
+  "leagueId": "105266101075764032",
+  "leagueLabel": "Liga Portuguesa",
+  "leagueName": "Liga Portuguesa Summer 2021",
+  "stageName": "Regular Season"
+ },
+ {
+  "leagueId": "105266101075764032",
+  "leagueLabel": "Liga Portuguesa",
+  "leagueName": "Liga Portuguesa Summer 2021",
+  "stageName": "Playoffs"
+ },
+ {
+  "leagueId": "105266074488398656",
+  "leagueLabel": "SuperLiga",
+  "leagueName": "Superliga Summer 2021",
+  "stageName": "Regular Season"
+ },
+ {
+  "leagueId": "105266074488398656",
+  "leagueLabel": "SuperLiga",
+  "leagueName": "Superliga Summer 2021",
+  "stageName": "Playoffs"
+ },
+ {
+  "leagueId": "105266088231437424",
+  "leagueLabel": "Ultraliga",
+  "leagueName": "Ultraliga Summer 2021",
+  "stageName": "Regular Season"
+ },
+ {
+  "leagueId": "105266088231437424",
+  "leagueLabel": "Ultraliga",
+  "leagueName": "Ultraliga Summer 2021",
+  "stageName": "Playoffs"
+ },
+ {
+  "leagueId": "105266108767593296",
+  "leagueLabel": "Greek Legends League",
+  "leagueName": "Greek Legends League Summer 2021",
+  "stageName": "Regular Season"
+ },
+ {
+  "leagueId": "105266108767593296",
+  "leagueLabel": "Greek Legends League",
+  "leagueName": "Greek Legends League Summer 2021",
+  "stageName": "Playoffs"
+ },
+ {
+  "leagueId": "105266091639104320",
+  "leagueLabel": "Prime League",
+  "leagueName": "Prime League Summer 2021",
+  "stageName": "Regular Season"
+ },
+ {
+  "leagueId": "105266091639104320",
+  "leagueLabel": "Prime League",
+  "leagueName": "Prime League Summer 2021",
+  "stageName": "Playoffs"
+ },
+ {
+  "leagueId": "98767991325878496",
+  "leagueLabel": "MSI",
+  "leagueName": "msi_2021",
+  "stageName": "Round 1"
+ },
+ {
+  "leagueId": "98767991325878496",
+  "leagueLabel": "MSI",
+  "leagueName": "msi_2021",
+  "stageName": "Round 2"
+ },
+ {
+  "leagueId": "98767991325878496",
+  "leagueLabel": "MSI",
+  "leagueName": "msi_2021",
+  "stageName": "knockouts"
+ },
+ {
+  "leagueId": "100695891328981120",
+  "leagueLabel": "EMEA Masters",
+  "leagueName": "european_masters_spring_2021_main_event",
+  "stageName": "Groups"
+ },
+ {
+  "leagueId": "100695891328981120",
+  "leagueLabel": "EMEA Masters",
+  "leagueName": "european_masters_spring_2021_main_event",
+  "stageName": "knockouts"
+ },
+ {
+  "leagueId": "100695891328981120",
+  "leagueLabel": "EMEA Masters",
+  "leagueName": "european_masters_spring_2021_main_event",
+  "stageName": "Playoffs"
+ },
+ {
+  "leagueId": "100695891328981120",
+  "leagueLabel": "EMEA Masters",
+  "leagueName": "european_masters_spring_2021_play_ins",
+  "stageName": "Play In Groups"
+ },
+ {
+  "leagueId": "100695891328981120",
+  "leagueLabel": "EMEA Masters",
+  "leagueName": "european_masters_spring_2021_play_ins",
+  "stageName": "knockouts"
+ },
+ {
+  "leagueId": "98767991299243168",
+  "leagueLabel": "LCS",
+  "leagueName": "mss 2021 (archive)",
+  "stageName": "knockouts"
+ },
+ {
+  "leagueId": "98767991355908944",
+  "leagueLabel": "LCL",
+  "leagueName": "LCL Spring 2021",
+  "stageName": "Regular Season"
+ },
+ {
+  "leagueId": "98767991355908944",
+  "leagueLabel": "LCL",
+  "leagueName": "LCL Spring 2021",
+  "stageName": "Playoffs"
+ },
+ {
+  "leagueId": "101382741235120464",
+  "leagueLabel": "LLA",
+  "leagueName": "LLA Opening 2021",
+  "stageName": "Round 1"
+ },
+ {
+  "leagueId": "101382741235120464",
+  "leagueLabel": "LLA",
+  "leagueName": "LLA Opening 2021",
+  "stageName": "Round 2"
+ },
+ {
+  "leagueId": "101382741235120464",
+  "leagueLabel": "LLA",
+  "leagueName": "LLA Opening 2021",
+  "stageName": "Playoffs"
+ },
+ {
+  "leagueId": "105266101075764032",
+  "leagueLabel": "Liga Portuguesa",
+  "leagueName": "Liga Portuguesa Spring 2021",
+  "stageName": "Regular Season"
+ },
+ {
+  "leagueId": "105266101075764032",
+  "leagueLabel": "Liga Portuguesa",
+  "leagueName": "Liga Portuguesa Spring 2021",
+  "stageName": "Playoffs"
+ },
+ {
+  "leagueId": "105266111679554384",
+  "leagueLabel": "Esports Balkan League",
+  "leagueName": "Esports Balkan League Spring 2021",
+  "stageName": "Regular Season"
+ },
+ {
+  "leagueId": "105266111679554384",
+  "leagueLabel": "Esports Balkan League",
+  "leagueName": "Esports Balkan League Spring 2021",
+  "stageName": "Playoffs"
+ },
+ {
+  "leagueId": "105266106309666624",
+  "leagueLabel": "Hitpoint Masters",
+  "leagueName": "Hitpoint Masters Spring 2021",
+  "stageName": "Regular Season"
+ },
+ {
+  "leagueId": "105266106309666624",
+  "leagueLabel": "Hitpoint Masters",
+  "leagueName": "Hitpoint Masters Spring 2021",
+  "stageName": "Playoffs"
+ },
+ {
+  "leagueId": "98767991349978720",
+  "leagueLabel": "LJL",
+  "leagueName": "LJL Spring 2021",
+  "stageName": "Regular Season"
+ },
+ {
+  "leagueId": "98767991349978720",
+  "leagueLabel": "LJL",
+  "leagueName": "LJL Spring 2021",
+  "stageName": "Playoffs"
+ },
+ {
+  "leagueId": "98767991343597632",
+  "leagueLabel": "TCL",
+  "leagueName": "TCL Winter 2021",
+  "stageName": "Regular Season"
+ },
+ {
+  "leagueId": "98767991343597632",
+  "leagueLabel": "TCL",
+  "leagueName": "TCL Winter 2021",
+  "stageName": "Playoffs"
+ },
+ {
+  "leagueId": "105266091639104320",
+  "leagueLabel": "Prime League",
+  "leagueName": "Prime League Spring 2021",
+  "stageName": "Regular Season"
+ },
+ {
+  "leagueId": "105266091639104320",
+  "leagueLabel": "Prime League",
+  "leagueName": "Prime League Spring 2021",
+  "stageName": "Playoffs"
+ },
+ {
+  "leagueId": "105266103462388560",
+  "leagueLabel": "La Ligue Française",
+  "leagueName": "lfl_2021_spring",
+  "stageName": "Regular Season"
+ },
+ {
+  "leagueId": "105266103462388560",
+  "leagueLabel": "La Ligue Française",
+  "leagueName": "lfl_2021_spring",
+  "stageName": "Playoffs"
+ },
+ {
+  "leagueId": "105549980953490848",
+  "leagueLabel": "CBLOL Academy",
+  "leagueName": "CBLOL Academy Split 1 2021",
+  "stageName": "Regular Season"
+ },
+ {
+  "leagueId": "105549980953490848",
+  "leagueLabel": "CBLOL Academy",
+  "leagueName": "CBLOL Academy Split 1 2021",
+  "stageName": "Playoffs"
+ },
+ {
+  "leagueId": "105266098308571968",
+  "leagueLabel": "NLC",
+  "leagueName": "nlc_2021_split1",
+  "stageName": "Regular Season"
+ },
+ {
+  "leagueId": "105266098308571968",
+  "leagueLabel": "NLC",
+  "leagueName": "nlc_2021_split1",
+  "stageName": "Playoffs"
+ },
+ {
+  "leagueId": "105266088231437424",
+  "leagueLabel": "Ultraliga",
+  "leagueName": "Ultraliga Spring 2021",
+  "stageName": "Regular Season"
+ },
+ {
+  "leagueId": "105266088231437424",
+  "leagueLabel": "Ultraliga",
+  "leagueName": "Ultraliga Spring 2021",
+  "stageName": "Playoffs"
+ },
+ {
+  "leagueId": "105266074488398656",
+  "leagueLabel": "SuperLiga",
+  "leagueName": "Superliga Spring 2021",
+  "stageName": "Regular Season"
+ },
+ {
+  "leagueId": "105266074488398656",
+  "leagueLabel": "SuperLiga",
+  "leagueName": "Superliga Spring 2021",
+  "stageName": "Playoffs"
+ },
+ {
+  "leagueId": "98767991335774720",
+  "leagueLabel": "LCK Challengers",
+  "leagueName": "LCK Challengers Spring 2021",
+  "stageName": "Regular Season"
+ },
+ {
+  "leagueId": "98767991335774720",
+  "leagueLabel": "LCK Challengers",
+  "leagueName": "LCK Challengers Spring 2021",
+  "stageName": "Playoffs"
+ },
+ {
+  "leagueId": "98767991332355504",
+  "leagueLabel": "CBLOL",
+  "leagueName": "CBLOL Split 1 2021",
+  "stageName": "Regular Season"
+ },
+ {
+  "leagueId": "98767991332355504",
+  "leagueLabel": "CBLOL",
+  "leagueName": "CBLOL Split 1 2021",
+  "stageName": "Playoffs"
+ },
+ {
+  "leagueId": "98767991299243168",
+  "leagueLabel": "LCS",
+  "leagueName": "LCS Lock In 2021",
+  "stageName": "Groups"
+ },
+ {
+  "leagueId": "98767991299243168",
+  "leagueLabel": "LCS",
+  "leagueName": "LCS Lock In 2021",
+  "stageName": "Knockouts"
+ },
+ {
+  "leagueId": "105266094998946944",
+  "leagueLabel": "PG Nationals",
+  "leagueName": "PG Nationals Spring 2021",
+  "stageName": "Regular Season"
+ },
+ {
+  "leagueId": "105266094998946944",
+  "leagueLabel": "PG Nationals",
+  "leagueName": "PG Nationals Spring 2021",
+  "stageName": "Playoffs"
+ },
+ {
+  "leagueId": "98767991310872064",
+  "leagueLabel": "LCK",
+  "leagueName": "LCK Spring 2021",
+  "stageName": "Regular Season"
+ },
+ {
+  "leagueId": "98767991310872064",
+  "leagueLabel": "LCK",
+  "leagueName": "LCK Spring 2021",
+  "stageName": "Playoffs"
+ },
+ {
+  "leagueId": "105266108767593296",
+  "leagueLabel": "Greek Legends League",
+  "leagueName": "Greek Legends League Spring 2021",
+  "stageName": "Regular Season"
+ },
+ {
+  "leagueId": "105266108767593296",
+  "leagueLabel": "Greek Legends League",
+  "leagueName": "Greek Legends League Spring 2021",
+  "stageName": "Playoffs"
+ },
+ {
+  "leagueId": "98767991302996016",
+  "leagueLabel": "LEC",
+  "leagueName": "LEC Spring 2021",
+  "stageName": "Regular Season"
+ },
+ {
+  "leagueId": "98767991302996016",
+  "leagueLabel": "LEC",
+  "leagueName": "LEC Spring 2021",
+  "stageName": "Playoffs"
+ },
+ {
+  "leagueId": "98767991295297328",
+  "leagueLabel": "All-Star Event",
+  "leagueName": "ase_2020",
+  "stageName": "east"
+ },
+ {
+  "leagueId": "98767991295297328",
+  "leagueLabel": "All-Star Event",
+  "leagueName": "ase_2020",
+  "stageName": "west"
+ },
+ {
+  "leagueId": "98767975604431408",
+  "leagueLabel": "Worlds",
+  "leagueName": "worlds_2020",
+  "stageName": "Play In Groups"
+ },
+ {
+  "leagueId": "98767975604431408",
+  "leagueLabel": "Worlds",
+  "leagueName": "worlds_2020",
+  "stageName": "Play In Knockouts"
+ },
+ {
+  "leagueId": "98767975604431408",
+  "leagueLabel": "Worlds",
+  "leagueName": "worlds_2020",
+  "stageName": "Groups"
+ },
+ {
+  "leagueId": "98767975604431408",
+  "leagueLabel": "Worlds",
+  "leagueName": "worlds_2020",
+  "stageName": "Playoffs"
+ },
+ {
+  "leagueId": "100695891328981120",
+  "leagueLabel": "EMEA Masters",
+  "leagueName": "eu_masters_summer_2020",
+  "stageName": "Play In Groups"
+ },
+ {
+  "leagueId": "100695891328981120",
+  "leagueLabel": "EMEA Masters",
+  "leagueName": "eu_masters_summer_2020",
+  "stageName": "play_in_knockouts"
+ },
+ {
+  "leagueId": "100695891328981120",
+  "leagueLabel": "EMEA Masters",
+  "leagueName": "eu_masters_summer_2020",
+  "stageName": "Groups"
+ },
+ {
+  "leagueId": "100695891328981120",
+  "leagueLabel": "EMEA Masters",
+  "leagueName": "eu_masters_summer_2020",
+  "stageName": "Playoffs"
+ },
+ {
+  "leagueId": "101382741235120464",
+  "leagueLabel": "LLA",
+  "leagueName": "lla-closing-2020",
+  "stageName": "Regular Season"
+ },
+ {
+  "leagueId": "101382741235120464",
+  "leagueLabel": "LLA",
+  "leagueName": "lla-closing-2020",
+  "stageName": "Playoffs"
+ },
+ {
+  "leagueId": "104366947889790208",
+  "leagueLabel": "PCS",
+  "leagueName": "PCS Summer 2020",
+  "stageName": "Regular Season"
+ },
+ {
+  "leagueId": "104366947889790208",
+  "leagueLabel": "PCS",
+  "leagueName": "PCS Summer 2020",
+  "stageName": "Playoffs"
+ },
+ {
+  "leagueId": "98767991310872064",
+  "leagueLabel": "LCK",
+  "leagueName": "LCK Summer 2020",
+  "stageName": "Regular Season"
+ },
+ {
+  "leagueId": "98767991310872064",
+  "leagueLabel": "LCK",
+  "leagueName": "LCK Summer 2020",
+  "stageName": "Playoffs"
+ },
+ {
+  "leagueId": "98767991310872064",
+  "leagueLabel": "LCK",
+  "leagueName": "LCK Summer 2020",
+  "stageName": "Regional Qualifier"
+ },
+ {
+  "leagueId": "98767991349978720",
+  "leagueLabel": "LJL",
+  "leagueName": "LJL Summer 2020",
+  "stageName": "Regular Season"
+ },
+ {
+  "leagueId": "98767991349978720",
+  "leagueLabel": "LJL",
+  "leagueName": "LJL Summer 2020",
+  "stageName": "Playoffs"
+ },
+ {
+  "leagueId": "98767991302996016",
+  "leagueLabel": "LEC",
+  "leagueName": "LEC Summer 2020",
+  "stageName": "Regular Season"
+ },
+ {
+  "leagueId": "98767991302996016",
+  "leagueLabel": "LEC",
+  "leagueName": "LEC Summer 2020",
+  "stageName": "Playoffs"
+ },
+ {
+  "leagueId": "98767991299243168",
+  "leagueLabel": "LCS",
+  "leagueName": "LCS Summer 2020",
+  "stageName": "Regular Season"
+ },
+ {
+  "leagueId": "98767991299243168",
+  "leagueLabel": "LCS",
+  "leagueName": "LCS Summer 2020",
+  "stageName": "Playoffs"
+ },
+ {
+  "leagueId": "98767991332355504",
+  "leagueLabel": "CBLOL",
+  "leagueName": "CBLOL Split 2 2020",
+  "stageName": "Regular Season"
+ },
+ {
+  "leagueId": "98767991332355504",
+  "leagueLabel": "CBLOL",
+  "leagueName": "CBLOL Split 2 2020",
+  "stageName": "Playoffs"
+ },
+ {
+  "leagueId": "98767991343597632",
+  "leagueLabel": "TCL",
+  "leagueName": "TCL Summer 2020",
+  "stageName": "Regular Season"
+ },
+ {
+  "leagueId": "98767991343597632",
+  "leagueLabel": "TCL",
+  "leagueName": "TCL Summer 2020",
+  "stageName": "Playoffs"
+ },
+ {
+  "leagueId": "98767991331560960",
+  "leagueLabel": "LCO",
+  "leagueName": "opl_split2_2020",
+  "stageName": "Regular Season"
+ },
+ {
+  "leagueId": "98767991331560960",
+  "leagueLabel": "LCO",
+  "leagueName": "opl_split2_2020",
+  "stageName": "Playoffs"
+ },
+ {
+  "leagueId": "100695891328981120",
+  "leagueLabel": "EMEA Masters",
+  "leagueName": "european-masters-spring-2020",
+  "stageName": "Play In Groups"
+ },
+ {
+  "leagueId": "100695891328981120",
+  "leagueLabel": "EMEA Masters",
+  "leagueName": "european-masters-spring-2020",
+  "stageName": "Play In Knockouts"
+ },
+ {
+  "leagueId": "100695891328981120",
+  "leagueLabel": "EMEA Masters",
+  "leagueName": "european-masters-spring-2020",
+  "stageName": "Groups"
+ },
+ {
+  "leagueId": "100695891328981120",
+  "leagueLabel": "EMEA Masters",
+  "leagueName": "european-masters-spring-2020",
+  "stageName": "Knockouts"
+ },
+ {
+  "leagueId": "101382741235120464",
+  "leagueLabel": "LLA",
+  "leagueName": "LLA 2020 Spring Split",
+  "stageName": "Regular Season"
+ },
+ {
+  "leagueId": "101382741235120464",
+  "leagueLabel": "LLA",
+  "leagueName": "LLA 2020 Spring Split",
+  "stageName": "Playoffs"
+ },
+ {
+  "leagueId": "98767991349978720",
+  "leagueLabel": "LJL",
+  "leagueName": "LJL Spring 2020",
+  "stageName": "Regular Season"
+ },
+ {
+  "leagueId": "98767991349978720",
+  "leagueLabel": "LJL",
+  "leagueName": "LJL Spring 2020",
+  "stageName": "Playoffs"
+ },
+ {
+  "leagueId": "98767991310872064",
+  "leagueLabel": "LCK",
+  "leagueName": "LCK 2020 Spring Split",
+  "stageName": "Regular Season"
+ },
+ {
+  "leagueId": "98767991310872064",
+  "leagueLabel": "LCK",
+  "leagueName": "LCK 2020 Spring Split",
+  "stageName": "Playoffs"
+ },
+ {
+  "leagueId": "98767991310872064",
+  "leagueLabel": "LCK",
+  "leagueName": "LCK 2020 Spring Split",
+  "stageName": "Promotion Series"
+ },
+ {
+  "leagueId": "98767991343597632",
+  "leagueLabel": "TCL",
+  "leagueName": "TCL Winter 2020",
+  "stageName": "Regular Season"
+ },
+ {
+  "leagueId": "98767991343597632",
+  "leagueLabel": "TCL",
+  "leagueName": "TCL Winter 2020",
+  "stageName": "Playoffs"
+ },
+ {
+  "leagueId": "98767991331560960",
+  "leagueLabel": "LCO",
+  "leagueName": "OPL 2020 Split 1",
+  "stageName": "Regular Season"
+ },
+ {
+  "leagueId": "98767991331560960",
+  "leagueLabel": "LCO",
+  "leagueName": "OPL 2020 Split 1",
+  "stageName": "Playoffs"
+ },
+ {
+  "leagueId": "98767991332355504",
+  "leagueLabel": "CBLOL",
+  "leagueName": "CBLOL 2020 Split 1",
+  "stageName": "Regular Season"
+ },
+ {
+  "leagueId": "98767991332355504",
+  "leagueLabel": "CBLOL",
+  "leagueName": "CBLOL 2020 Split 1",
+  "stageName": "promotion"
+ },
+ {
+  "leagueId": "98767991332355504",
+  "leagueLabel": "CBLOL",
+  "leagueName": "CBLOL 2020 Split 1",
+  "stageName": "Playoffs"
+ },
+ {
+  "leagueId": "98767991299243168",
+  "leagueLabel": "LCS",
+  "leagueName": "LCS Spring 2020",
+  "stageName": "Regular Season"
+ },
+ {
+  "leagueId": "98767991299243168",
+  "leagueLabel": "LCS",
+  "leagueName": "LCS Spring 2020",
+  "stageName": "Playoffs"
+ },
+ {
+  "leagueId": "98767991302996016",
+  "leagueLabel": "LEC",
+  "leagueName": "LEC Spring 2020",
+  "stageName": "Regular Season"
+ },
+ {
+  "leagueId": "98767991302996016",
+  "leagueLabel": "LEC",
+  "leagueName": "LEC Spring 2020",
+  "stageName": "Playoffs"
+ }
+]

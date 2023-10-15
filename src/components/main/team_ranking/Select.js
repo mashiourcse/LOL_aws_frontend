@@ -4,7 +4,7 @@ import {MultiSelectComponent as SelectTournament} from './SelectTournaments';
 import { MyContext } from './context/MyContext';
 import { api } from '../API/api';
 import axios from 'axios';
-
+import {  Button} from "@material-tailwind/react";
 
 
 export const Select = () => {
@@ -51,7 +51,7 @@ export const Select = () => {
             </div>
             <div className="mt-4" style={{ flex: '1',maxWidth: '150px', }}>
 
-                <button className="bg-black hover:bg-blue-700 ml-2 text-white font-bold py-2 px-4 rounded inline-flex items-center" onClick={ handleButtonClick}>Get Data</button>
+                <Button className="bg-black hover:bg-blue-700 ml-2 text-white font-bold py-2 px-4 rounded inline-flex items-center" onClick={ handleButtonClick}>Go</Button>
             </div>
             </div>
     

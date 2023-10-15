@@ -12,6 +12,12 @@ const boardStyle = {
   // marginLeft: '141px'
 };
 
+const carouselDiv = {
+  // background: 'red',
+  width: '100%',
+  marginLeft: '150px',
+  
+}
 const ShowTournamentData = ({ rankings }) => {
   const x = 1;
 
@@ -19,13 +25,20 @@ const ShowTournamentData = ({ rankings }) => {
     <div className="p-4 mb-4 py-4">
 
       <div id="tournament_fly" className="mt-4" >
-        {x ? (
-          <Flywheel_Board data={rankings} />
-        ) : (
-          <div className="text-red-500">x is false</div>
-        )}
+      <div 
+      //style={carouselDiv}
+      >     
+    <div >
+      
+    <Flywheel_Board data={rankings}  />
+</div>
+  </div>
+
+
+
+</div>
       </div>
-    </div>
+ 
   );
 };
 

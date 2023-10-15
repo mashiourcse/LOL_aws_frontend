@@ -2,7 +2,7 @@ import { Fragment } from 'react'
 import { Disclosure, Menu, Transition } from '@headlessui/react'
 
 const navigation = [
-  { name: 'Project Bio', href: '/', current: false },
+  { name: 'Introduction', href: '/', current: false },
   { name: 'Tournament Rankings', href: '/tournament_rankings', current: false },
   { name: 'Global Rankings', href: '/global_rankings', current: false },
   { name: 'Team Rankings', href: '/team_rankings', current: false },
@@ -14,10 +14,8 @@ function classNames(...classes) {
 }
 
 const styles = {
-  marginLeft: '0px',
-  marginRight: '-384px',
-  paddingLeft: '7rem',
-  background: '#1f2937'
+  
+  background: '#0e1947'
 };
 export default function Navbar() {
   return (
@@ -27,9 +25,9 @@ export default function Navbar() {
           <div className="flex items-center justify-between p-4">
             <div className="ml-4 flex items-center">
               <img
-                className="h-8 w-auto rounded-full"
-                src="/lolhack.png"
-                alt="Your Company"
+                className="h-14 w-auto rounded-full"
+                src="/hackathon2.png"
+                alt="Hackathon"
               />
               
             </div>

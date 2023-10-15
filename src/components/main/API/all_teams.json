@@ -1,0 +1,4046 @@
+[
+    {
+      "team_id": "107582169874155554",
+      "slug": "gods-plan",
+      "team_name": "God's Plan",
+      "team_code": "GDP"
+    },
+    {
+      "team_id": "105550059790656435",
+      "slug": "t1-challengers",
+      "team_name": "T1 Esports Academy",
+      "team_code": "T1"
+    },
+    {
+      "team_id": "103535282143744679",
+      "slug": "dark-passage-akademi",
+      "team_name": "Dark Passage Akademi",
+      "team_code": "DP"
+    },
+    {
+      "team_id": "109637393694097670",
+      "slug": "team-heretics-lec",
+      "team_name": "Team Heretics",
+      "team_code": "TH"
+    },
+    {
+      "team_id": "101157821387445307",
+      "slug": "caps",
+      "team_name": "Caps",
+      "team_code": "EU1"
+    },
+    {
+      "team_id": "110534724851488577",
+      "slug": "froggy-five",
+      "team_name": "Froggy Five",
+      "team_code": "FROG"
+    },
+    {
+      "team_id": "109671201259007744",
+      "slug": "team-liquid-honda-first",
+      "team_name": "Team Liquid Honda First",
+      "team_code": "TLF"
+    },
+    {
+      "team_id": "107423086908356081",
+      "slug": "nyyrikki",
+      "team_name": "Nyyrikki",
+      "team_code": "NKI"
+    },
+    {
+      "team_id": "107582176093752697",
+      "slug": "hooked-esports",
+      "team_name": "Hooked Esports",
+      "team_code": "HK"
+    },
+    {
+      "team_id": "99566406336293850",
+      "slug": "bombers",
+      "team_name": "Bombers",
+      "team_code": "BMR"
+    },
+    {
+      "team_id": "107251374793416561",
+      "slug": "cerberus-esports",
+      "team_name": "CERBERUS ESPORTS",
+      "team_code": "CES"
+    },
+    {
+      "team_id": "105593951536470384",
+      "slug": "gtz-bulls",
+      "team_name": "GTZ Esports",
+      "team_code": "GTZ"
+    },
+    {
+      "team_id": "103935446548920777",
+      "slug": "misfits-premier",
+      "team_name": "Misfits Premier",
+      "team_code": "MSFP"
+    },
+    {
+      "team_id": "103535282151674574",
+      "slug": "royal-youth-akademi",
+      "team_name": "Royal Youth Akademi",
+      "team_code": "RYLA"
+    },
+    {
+      "team_id": "104211677548295324",
+      "slug": "double-crunch-team-italy-pg-esports",
+      "team_name": "Double Crunch Team Italy",
+      "team_code": "DCTI"
+    },
+    {
+      "team_id": "106827827857159558",
+      "slug": "v3-academy",
+      "team_name": "V3 Academy",
+      "team_code": "V3"
+    },
+    {
+      "team_id": "105521637552587612",
+      "slug": "team-phantasma",
+      "team_name": "Team Phantasma",
+      "team_code": "TP"
+    },
+    {
+      "team_id": "101383792559569368",
+      "slug": "all-knights",
+      "team_name": "All Knights",
+      "team_code": "AK"
+    },
+    {
+      "team_id": "105521402545275594",
+      "slug": "gentlemens-gaming",
+      "team_name": "Gentlemen's Gaming",
+      "team_code": "GGM"
+    },
+    {
+      "team_id": "105550005698683818",
+      "slug": "liberty-academy",
+      "team_name": "Liberty Academy",
+      "team_code": "LBR"
+    },
+    {
+      "team_id": "109631541326560210",
+      "slug": "reven-esports",
+      "team_name": "Reven Esports",
+      "team_code": "RVN"
+    },
+    {
+      "team_id": "105550054006182911",
+      "slug": "ns-challengers",
+      "team_name": "NONGSHIM ESPORTS ACADEMY",
+      "team_code": "NS"
+    },
+    {
+      "team_id": "105514967858969605",
+      "slug": "gameward",
+      "team_name": "GameWard",
+      "team_code": "GW"
+    },
+    {
+      "team_id": "107581178720470377",
+      "slug": "arctic-gaming",
+      "team_name": "Arctic Gaming",
+      "team_code": "ARC"
+    },
+    {
+      "team_id": "100205573495116443",
+      "slug": "geng",
+      "team_name": "Gen.G",
+      "team_code": "GEN"
+    },
+    {
+      "team_id": "109783160511364305",
+      "slug": "cb-gaming",
+      "team_name": "CB Gaming",
+      "team_code": "CB"
+    },
+    {
+      "team_id": "109783164711873455",
+      "slug": "zenigma",
+      "team_name": "Zenigma",
+      "team_code": "ZEN"
+    },
+    {
+      "team_id": "107582618156093368",
+      "slug": "incubus",
+      "team_name": "Incubus",
+      "team_code": "INC"
+    },
+    {
+      "team_id": "100285330169036485",
+      "slug": "unsold-stuff-gaming",
+      "team_name": "Unsold Stuff Gaming",
+      "team_code": "USG"
+    },
+    {
+      "team_id": "105593161016793151",
+      "slug": "inside-games",
+      "team_name": "Inside Games",
+      "team_code": "ING"
+    },
+    {
+      "team_id": "105521408363571548",
+      "slug": "illuminar-gaming",
+      "team_name": "Illuminar Gaming",
+      "team_code": "IHG"
+    },
+    {
+      "team_id": "104710316579222193",
+      "slug": "g2-arctic",
+      "team_name": "G2 Arctic",
+      "team_code": "G2AR"
+    },
+    {
+      "team_id": "98767991871709842",
+      "slug": "gambit-esports",
+      "team_name": "Gambit Esports",
+      "team_code": "GMB"
+    },
+    {
+      "team_id": "110424397251619481",
+      "slug": "myth-esports",
+      "team_name": "Myth Esports",
+      "team_code": "MYTH"
+    },
+    {
+      "team_id": "105521706535388095",
+      "slug": "anorthosis-famagusta-esports",
+      "team_name": "Anorthosis Famagusta Esports",
+      "team_code": "ANO"
+    },
+    {
+      "team_id": "107582609836036013",
+      "slug": "diamond-doves",
+      "team_name": "Diamond Doves",
+      "team_code": "DD"
+    },
+    {
+      "team_id": "109782867012820172",
+      "slug": "horizon-gaming",
+      "team_name": "Horizon Gaming",
+      "team_code": "HZG"
+    },
+    {
+      "team_id": "99566404581868574",
+      "slug": "kwangdong-freecs",
+      "team_name": "Kwangdong Freecs",
+      "team_code": "KDF"
+    },
+    {
+      "team_id": "105550003470349739",
+      "slug": "rensga-academy",
+      "team_name": "Rensga Academy",
+      "team_code": "RNS"
+    },
+    {
+      "team_id": "103877554248683116",
+      "slug": "schalke-04-evolution",
+      "team_name": "Schalke 04 Evolution",
+      "team_code": "S04E"
+    },
+    {
+      "team_id": "110534728305628996",
+      "slug": "kelyxs-grandpa-gamers",
+      "team_name": "Kelyx's Grandpa Gamers",
+      "team_code": "OLD"
+    },
+    {
+      "team_id": "105515219038427019",
+      "slug": "karmine-corp",
+      "team_name": "Karmine Corp",
+      "team_code": "KC"
+    },
+    {
+      "team_id": "98767991866488695",
+      "slug": "fnatic",
+      "team_name": "Fnatic",
+      "team_code": "FNC"
+    },
+    {
+      "team_id": "105503848339138647",
+      "slug": "penta-1860",
+      "team_name": "PENTA 1860",
+      "team_code": "PTA"
+    },
+    {
+      "team_id": "107693836459380354",
+      "slug": "sampi",
+      "team_name": "SAMPI",
+      "team_code": "SMP"
+    },
+    {
+      "team_id": "105515109012592449",
+      "slug": "izidream",
+      "team_name": "IZIDREAM",
+      "team_code": "IZI"
+    },
+    {
+      "team_id": "105553684493690219",
+      "slug": "split-raiders",
+      "team_name": "Split Raiders",
+      "team_code": "STR"
+    },
+    {
+      "team_id": "106334794714373670",
+      "slug": "goexanimo",
+      "team_name": "Goexanimo",
+      "team_code": "GOEX"
+    },
+    {
+      "team_id": "101428372830010965",
+      "slug": "alpha-esports",
+      "team_name": "Alpha Esports",
+      "team_code": "ALF"
+    },
+    {
+      "team_id": "103877756742242918",
+      "slug": "racoon",
+      "team_name": "Racoon",
+      "team_code": "RCN"
+    },
+    {
+      "team_id": "100205573002983994",
+      "slug": "evos-esports",
+      "team_name": "EVOS Esports",
+      "team_code": "EVS"
+    },
+    {
+      "team_id": "100285330170285888",
+      "slug": "kuala-lumpur-hunters",
+      "team_name": "Kuala Lumpur Hunters",
+      "team_code": "KLH"
+    },
+    {
+      "team_id": "99566405126602853",
+      "slug": "fly-academy",
+      "team_name": "FlyQuest Challengers",
+      "team_code": "FLY"
+    },
+    {
+      "team_id": "107603566520687175",
+      "slug": "team-mayan-esports",
+      "team_name": "Team Mayan eSports",
+      "team_code": "MYN"
+    },
+    {
+      "team_id": "109675484017801229",
+      "slug": "team-bliss",
+      "team_name": "Team Bliss",
+      "team_code": "TB"
+    },
+    {
+      "team_id": "105521419784127190",
+      "slug": "komilfriends",
+      "team_name": "Komil&Friends",
+      "team_code": "KNF"
+    },
+    {
+      "team_id": "103935642731826448",
+      "slug": "sector-one",
+      "team_name": "Sector One",
+      "team_code": "S1"
+    },
+    {
+      "team_id": "108018637503819612",
+      "slug": "pro42-esports",
+      "team_name": "PRO42 Esports",
+      "team_code": "P42"
+    },
+    {
+      "team_id": "101383792891050518",
+      "slug": "gravitas",
+      "team_name": "Gravitas",
+      "team_code": "GRV"
+    },
+    {
+      "team_id": "99566405128626825",
+      "slug": "100-academy",
+      "team_name": "100 Thieves Challengers",
+      "team_code": "100"
+    },
+    {
+      "team_id": "104367068120825486",
+      "slug": "psg-talon",
+      "team_name": "PSG Talon",
+      "team_code": "PSG"
+    },
+    {
+      "team_id": "105913232697120493",
+      "slug": "eg-prodigies",
+      "team_name": "EG Prodigies",
+      "team_code": "EG"
+    },
+    {
+      "team_id": "105515345386578249",
+      "slug": "solary",
+      "team_name": "Solary",
+      "team_code": "SLY"
+    },
+    {
+      "team_id": "101157821395833925",
+      "slug": "uzi",
+      "team_name": "Uzi",
+      "team_code": "CN3"
+    },
+    {
+      "team_id": "102787200124959636",
+      "slug": "crvena-zvezda-esports",
+      "team_name": "Crvena Zvezda Esports",
+      "team_code": "CZV"
+    },
+    {
+      "team_id": "106857761435870473",
+      "slug": "supernova",
+      "team_name": "Supernova",
+      "team_code": "SN"
+    },
+    {
+      "team_id": "107598699275015260",
+      "slug": "leviatan-esports",
+      "team_name": "Leviatán Esports",
+      "team_code": "LEV"
+    },
+    {
+      "team_id": "107110686951738484",
+      "slug": "esports-empire",
+      "team_name": "Esports Empire",
+      "team_code": "EE"
+    },
+    {
+      "team_id": "103935523328473675",
+      "slug": "k1ck-neosurf",
+      "team_name": "K1CK Neosurf",
+      "team_code": "K1"
+    },
+    {
+      "team_id": "103877925817094140",
+      "slug": "pigsports",
+      "team_name": "PIGSPORTS",
+      "team_code": "PIG"
+    },
+    {
+      "team_id": "109696126554266494",
+      "slug": "geekay-esports",
+      "team_name": "Geekay Esports",
+      "team_code": "GK"
+    },
+    {
+      "team_id": "106301891501674861",
+      "slug": "pdw",
+      "team_name": "PDW",
+      "team_code": "PDW"
+    },
+    {
+      "team_id": "107582638341246907",
+      "slug": "instinct-gaming",
+      "team_name": "Instinct Gaming",
+      "team_code": "INS"
+    },
+    {
+      "team_id": "98767991860392497",
+      "slug": "tsm",
+      "team_name": "TSM",
+      "team_code": "TSM"
+    },
+    {
+      "team_id": "109782787975510889",
+      "slug": "native-gaming",
+      "team_name": "Native Gaming",
+      "team_code": "N8V"
+    },
+    {
+      "team_id": "99566406490127625",
+      "slug": "taipei-j-team",
+      "team_name": "J Team",
+      "team_code": "JT"
+    },
+    {
+      "team_id": "99566404850008779",
+      "slug": "lng-esports",
+      "team_name": "Suzhou LNG Esports",
+      "team_code": "LNG"
+    },
+    {
+      "team_id": "107467794614674479",
+      "slug": "fnatictq",
+      "team_name": "FnaticTQ",
+      "team_code": "FNTQ"
+    },
+    {
+      "team_id": "99566408221961358",
+      "slug": "red-kalunga",
+      "team_name": "RED Kalunga",
+      "team_code": "RED"
+    },
+    {
+      "team_id": "108319669531442279",
+      "slug": "aguilas-doradas",
+      "team_name": "Aguilas Doradas",
+      "team_code": "AD"
+    },
+    {
+      "team_id": "105548000936710641",
+      "slug": "method2madness",
+      "team_name": "Method2Madness",
+      "team_code": "M2XX"
+    },
+    {
+      "team_id": "109828279319224248",
+      "slug": "mgn-box-esports",
+      "team_name": "MGN Box Esports",
+      "team_code": "MBE"
+    },
+    {
+      "team_id": "105301755072677196",
+      "slug": "lckqueuekings",
+      "team_name": "LCK Queue Kings",
+      "team_code": "LCKQ"
+    },
+    {
+      "team_id": "101157821440857212",
+      "slug": "eu-with-influencers",
+      "team_name": "EU with Influencers",
+      "team_code": "EUWI"
+    },
+    {
+      "team_id": "101157821459731619",
+      "slug": "tandem-mode-c",
+      "team_name": "Tandem Mode C",
+      "team_code": "TMC"
+    },
+    {
+      "team_id": "109749493607708438",
+      "slug": "enemi3s",
+      "team_name": "ENEMI3S",
+      "team_code": "NM3"
+    },
+    {
+      "team_id": "103535282124208038",
+      "slug": "pentanetgg",
+      "team_name": "Pentanet.GG",
+      "team_code": "PGG"
+    },
+    {
+      "team_id": "99124844354766222",
+      "slug": "pcs-all-stars",
+      "team_name": "PCS All-Stars",
+      "team_code": "PCS1"
+    },
+    {
+      "team_id": "105549988405523871",
+      "slug": "flamengo-academy",
+      "team_name": "Flamengo Academy",
+      "team_code": "FLA"
+    },
+    {
+      "team_id": "109696115986547257",
+      "slug": "fox-gaming",
+      "team_name": "Fox Gaming",
+      "team_code": "FOX"
+    },
+    {
+      "team_id": "101157821437777013",
+      "slug": "na-with-influencers",
+      "team_name": "NA with Influencers",
+      "team_code": "NAWI"
+    },
+    {
+      "team_id": "110534741480867943",
+      "slug": "teamless-revenge",
+      "team_name": "Teamless Revenge",
+      "team_code": "TRV"
+    },
+    {
+      "team_id": "107700199633958891",
+      "slug": "ctbc-flying-oyster",
+      "team_name": "CTBC Flying Oyster",
+      "team_code": "CFO"
+    },
+    {
+      "team_id": "102787200147504121",
+      "slug": "campus-party-sparks",
+      "team_name": "Campus Party Sparks",
+      "team_code": "SPKS"
+    },
+    {
+      "team_id": "107581733744920199",
+      "slug": "goat-esports",
+      "team_name": "Goat Esports",
+      "team_code": "GOT"
+    },
+    {
+      "team_id": "107603551467692884",
+      "slug": "elr-gaming",
+      "team_name": "ELR Gaming",
+      "team_code": "ELR"
+    },
+    {
+      "team_id": "102747101562758215",
+      "slug": "apk-prince",
+      "team_name": "SeolHaeOne Prince",
+      "team_code": "SP"
+    },
+    {
+      "team_id": "105193385417106233",
+      "slug": "llaallstars",
+      "team_name": "LLA All-Stars",
+      "team_code": "LLA"
+    },
+    {
+      "team_id": "99566405132177721",
+      "slug": "clutch-gaming-academy",
+      "team_name": "Clutch Gaming Academy",
+      "team_code": "CGA"
+    },
+    {
+      "team_id": "105505619546859895",
+      "slug": "fredit-brion",
+      "team_name": "OKSavingsBank BRION",
+      "team_code": "BRO"
+    },
+    {
+      "team_id": "107581765633427097",
+      "slug": "fuego",
+      "team_name": "Fuego",
+      "team_code": "FUE"
+    },
+    {
+      "team_id": "105519977854458717",
+      "slug": "nordavind",
+      "team_name": "Nordavind",
+      "team_code": "NVD"
+    },
+    {
+      "team_id": "99566404848691211",
+      "slug": "invictus-gaming",
+      "team_name": "Invictus Gaming",
+      "team_code": "IG"
+    },
+    {
+      "team_id": "107598704067400262",
+      "slug": "stone-movistar",
+      "team_name": "Stone Movistar",
+      "team_code": "STM"
+    },
+    {
+      "team_id": "98767991860392497",
+      "slug": "tsm",
+      "team_name": "TSM",
+      "team_code": "TSM"
+    },
+    {
+      "team_id": "107598805167594304",
+      "slug": "wap-esports",
+      "team_name": "Wap Esports",
+      "team_code": "WAP"
+    },
+    {
+      "team_id": "105594135137147298",
+      "slug": "white-dragons",
+      "team_name": "White Dragons",
+      "team_code": "WD"
+    },
+    {
+      "team_id": "99566404853854212",
+      "slug": "bilibili-gaming",
+      "team_name": "Bilibili Gaming Pingan Bank",
+      "team_code": "BLG"
+    },
+    {
+      "team_id": "106295024192678387",
+      "slug": "gaia-esports",
+      "team_name": "Gaia Esports",
+      "team_code": "GAIA"
+    },
+    {
+      "team_id": "109696073114910519",
+      "slug": "anubis-gaming",
+      "team_name": "Anubis Gaming",
+      "team_code": "ANB"
+    },
+    {
+      "team_id": "105503948999800557",
+      "slug": "e-wie-einfach-e-sports",
+      "team_name": "E WIE EINFACH E-SPORTS",
+      "team_code": "EWI"
+    },
+    {
+      "team_id": "107599174108436104",
+      "slug": "rebirth-esports",
+      "team_name": "Rebirth Esports",
+      "team_code": "RBT"
+    },
+    {
+      "team_id": "98767991926151025",
+      "slug": "g2-esports",
+      "team_name": "G2 Esports",
+      "team_code": "G2"
+    },
+    {
+      "team_id": "108203159356403647",
+      "slug": "kwangdong-freecs-academy",
+      "team_name": "Kwangdong Freecs Academy",
+      "team_code": "KDF"
+    },
+    {
+      "team_id": "102141671184261103",
+      "slug": "columbia-college",
+      "team_name": "Columbia College",
+      "team_code": "CCL"
+    },
+    {
+      "team_id": "99124844358677975",
+      "slug": "eu-lcs-allstars",
+      "team_name": "LEC All-Stars",
+      "team_code": "LEC"
+    },
+    {
+      "team_id": "103240746431167117",
+      "slug": "exosen",
+      "team_name": "Exosen",
+      "team_code": "LST1"
+    },
+    {
+      "team_id": "108517492697602721",
+      "slug": "dewish-team",
+      "team_name": "Dewish Team",
+      "team_code": "DWT"
+    },
+    {
+      "team_id": "105537226118106446",
+      "slug": "axolotl",
+      "team_name": "Axolotl Esports",
+      "team_code": "AXL"
+    },
+    {
+      "team_id": "106857755268998406",
+      "slug": "resolve",
+      "team_name": "Resolve",
+      "team_code": "RSV"
+    },
+    {
+      "team_id": "109631610813971977",
+      "slug": "mezexis-esports",
+      "team_name": "Mezexis Esports",
+      "team_code": "MZS"
+    },
+    {
+      "team_id": "103935421249833954",
+      "slug": "mad-lions-madrid",
+      "team_name": "MAD Lions Madrid",
+      "team_code": "MADM"
+    },
+    {
+      "team_id": "106300533256999014",
+      "slug": "starlan-gaming-club",
+      "team_name": "Starlan Gaming Club",
+      "team_code": "SGC"
+    },
+    {
+      "team_id": "105352091319919029",
+      "slug": "lcs-legends",
+      "team_name": "LCS Legends",
+      "team_code": "LCSL"
+    },
+    {
+      "team_id": "101157821464777897",
+      "slug": "team-urf-b",
+      "team_name": "Team URF B",
+      "team_code": "UFB"
+    },
+    {
+      "team_id": "101157821463139495",
+      "slug": "team-urf-a",
+      "team_name": "Team URF A",
+      "team_code": "UFA"
+    },
+    {
+      "team_id": "109981644490281844",
+      "slug": "rock-bottom-esports",
+      "team_name": "Rock Bottom Esports",
+      "team_code": "ROCK"
+    },
+    {
+      "team_id": "106302593752767294",
+      "slug": "netshoes-miners-academy",
+      "team_name": "Miners Academy",
+      "team_code": "NMG"
+    },
+    {
+      "team_id": "100285330168091787",
+      "slug": "detonation-focusme",
+      "team_name": "DetonatioN FocusMe",
+      "team_code": "DFM"
+    },
+    {
+      "team_id": "105593213115128994",
+      "slug": "dark-tigers",
+      "team_name": "Dark Tigers",
+      "team_code": "DTG"
+    },
+    {
+      "team_id": "103877879209300619",
+      "slug": "vipers-inc",
+      "team_name": "Vipers Inc",
+      "team_code": "VIP"
+    },
+    {
+      "team_id": "102141671185899507",
+      "slug": "university-of-western-ontario",
+      "team_name": "University of Western Ontario",
+      "team_code": "UWO"
+    },
+    {
+      "team_id": "110534732558665825",
+      "slug": "komodo",
+      "team_name": "Komodo",
+      "team_code": "KMD"
+    },
+    {
+      "team_id": "109485351596724390",
+      "slug": "los-grandes-academy",
+      "team_name": "Los Grandes Academy",
+      "team_code": "LOS"
+    },
+    {
+      "team_id": "99124844355850858",
+      "slug": "lcs-all-stars",
+      "team_name": "LCS All-Stars",
+      "team_code": "LCSS"
+    },
+    {
+      "team_id": "102787200153467923",
+      "slug": "bcn-squad",
+      "team_name": "BCN Squad",
+      "team_code": "BCN"
+    },
+    {
+      "team_id": "102141671186685941",
+      "slug": "university-of-waterloo",
+      "team_name": "University of Waterloo",
+      "team_code": "UW"
+    },
+    {
+      "team_id": "99566405129589291",
+      "slug": "gg-academy",
+      "team_name": "Golden Guardians Challengers",
+      "team_code": "GG"
+    },
+    {
+      "team_id": "106806773698472633",
+      "slug": "team-aze",
+      "team_name": "Team Aze",
+      "team_code": "AZE"
+    },
+    {
+      "team_id": "105913221137618666",
+      "slug": "no-org",
+      "team_name": "No Org",
+      "team_code": "NOR"
+    },
+    {
+      "team_id": "109672446077514083",
+      "slug": "the-kings-moon",
+      "team_name": "The Kings Moon",
+      "team_code": "TKM"
+    },
+    {
+      "team_id": "103461966965149786",
+      "slug": "mad-lions",
+      "team_name": "MAD Lions",
+      "team_code": "MAD"
+    },
+    {
+      "team_id": "109783023470714128",
+      "slug": "douyin-tony-top",
+      "team_name": "Team Tony Top",
+      "team_code": "TONY"
+    },
+    {
+      "team_id": "104710369093939895",
+      "slug": "suppup-esports",
+      "team_name": "SuppUp eSports",
+      "team_code": "SSU"
+    },
+    {
+      "team_id": "103240746422450813",
+      "slug": "closer",
+      "team_name": "Closer",
+      "team_code": "TCL2"
+    },
+    {
+      "team_id": "99566405124618295",
+      "slug": "tl-academy",
+      "team_name": "Team Liquid Honda Challengers",
+      "team_code": "TL"
+    },
+    {
+      "team_id": "107598785733448849",
+      "slug": "river-plate-gaming",
+      "team_name": "River Plate Gaming",
+      "team_code": "RIV"
+    },
+    {
+      "team_id": "108121047955658273",
+      "slug": "aurelius-esports",
+      "team_name": "Aurelius Esports",
+      "team_code": "AU"
+    },
+    {
+      "team_id": "109981647134921596",
+      "slug": "ccg-esports",
+      "team_name": "CCG Esports",
+      "team_code": "CCG"
+    },
+    {
+      "team_id": "99322214695067838",
+      "slug": "team-vitality",
+      "team_name": "Team Vitality",
+      "team_code": "VIT"
+    },
+    {
+      "team_id": "102825747701670848",
+      "slug": "azules-esports",
+      "team_name": "Azules Esports",
+      "team_code": "UCH"
+    },
+    {
+      "team_id": "99294153830557090",
+      "slug": "optic-gaming",
+      "team_name": "OpTic Gaming",
+      "team_code": "OPT"
+    },
+    {
+      "team_id": "107700208463820785",
+      "slug": "hurricane-gaming",
+      "team_name": "Hurricane Gaming",
+      "team_code": "HG"
+    },
+    {
+      "team_id": "103240746430053003",
+      "slug": "theshy",
+      "team_name": "TheShy",
+      "team_code": "CN1"
+    },
+    {
+      "team_id": "101157821352457994",
+      "slug": "kr-with-influencers",
+      "team_name": "KR with Influencers",
+      "team_code": "KRWI"
+    },
+    {
+      "team_id": "101428372605353526",
+      "slug": "sengoku-gaming",
+      "team_name": "Sengoku Gaming",
+      "team_code": "SG"
+    },
+    {
+      "team_id": "102787200159169580",
+      "slug": "godsent",
+      "team_name": "Godsent",
+      "team_code": "GOD"
+    },
+    {
+      "team_id": "103240746423564927",
+      "slug": "nomanz",
+      "team_name": "Nomanz",
+      "team_code": "LCL1"
+    },
+    {
+      "team_id": "109485335453835911",
+      "slug": "vivo-keyd-stars-academy",
+      "team_name": "Vivo Keyd Stars Academy",
+      "team_code": "VKS"
+    },
+    {
+      "team_id": "102787200129022886",
+      "slug": "esuba",
+      "team_name": "eSuba",
+      "team_code": "ESB"
+    },
+    {
+      "team_id": "109480056092207899",
+      "slug": "fluxo",
+      "team_name": "FLUXO",
+      "team_code": "FX"
+    },
+    {
+      "team_id": "105536952747658409",
+      "slug": "mkers",
+      "team_name": "MKERS",
+      "team_code": "MKS"
+    },
+    {
+      "team_id": "99566406493155041",
+      "slug": "machi-esports",
+      "team_name": "Machi Esports",
+      "team_code": "MCX"
+    },
+    {
+      "team_id": "106371176555003349",
+      "slug": "nk-osijek-esport",
+      "team_name": "NK Osijek Esport",
+      "team_code": "NKOS"
+    },
+    {
+      "team_id": "110534700622694005",
+      "slug": "aporia",
+      "team_name": "Aporia",
+      "team_code": "APR"
+    },
+    {
+      "team_id": "107423083507599175",
+      "slug": "vanir",
+      "team_name": "Vanir",
+      "team_code": "VNR"
+    },
+    {
+      "team_id": "105514907449611976",
+      "slug": "team-bds-academy",
+      "team_name": "Team BDS Academy",
+      "team_code": "BDSA"
+    },
+    {
+      "team_id": "100725845022060229",
+      "slug": "liiv-sandbox",
+      "team_name": "Liiv SANDBOX",
+      "team_code": "LSB"
+    },
+    {
+      "team_id": "98926509892121852",
+      "slug": "flyquest",
+      "team_name": "FlyQuest",
+      "team_code": "FLY"
+    },
+    {
+      "team_id": "107598788926820994",
+      "slug": "pampas",
+      "team_name": "Macro Pampas",
+      "team_code": "PAM"
+    },
+    {
+      "team_id": "107581738783262346",
+      "slug": "gravity-elite",
+      "team_name": "Gravity Elite",
+      "team_code": "GVE"
+    },
+    {
+      "team_id": "99566406338282437",
+      "slug": "order",
+      "team_name": "ORDER",
+      "team_code": "ORD"
+    },
+    {
+      "team_id": "98767991916844003",
+      "slug": "kaos-latin-gamers",
+      "team_name": "Kaos Latin Gamers",
+      "team_code": "KLG"
+    },
+    {
+      "team_id": "105537621677160078",
+      "slug": "team-queso",
+      "team_name": "Team Queso",
+      "team_code": "TQ"
+    },
+    {
+      "team_id": "103240746427890311",
+      "slug": "tian",
+      "team_name": "Tian",
+      "team_code": "CN4"
+    },
+    {
+      "team_id": "105550026570060790",
+      "slug": "dwg-kia-challengers",
+      "team_name": "DK Challengers",
+      "team_code": "DK"
+    },
+    {
+      "team_id": "99294153828264740",
+      "slug": "100-thieves",
+      "team_name": "100 Thieves",
+      "team_code": "100"
+    },
+    {
+      "team_id": "102787200136756173",
+      "slug": "berlin-international-gaming",
+      "team_name": "Berlin International Gaming",
+      "team_code": "BIG"
+    },
+    {
+      "team_id": "102804906460506452",
+      "slug": "lowkey-esports",
+      "team_name": "Lowkey Esports",
+      "team_code": "LK"
+    },
+    {
+      "team_id": "105351835580819729",
+      "slug": "lcs-queue-kings",
+      "team_name": "LCS Queue Kings",
+      "team_code": "LCSQ"
+    },
+    {
+      "team_id": "103240746433395345",
+      "slug": "clid",
+      "team_name": "Clid",
+      "team_code": "KR2"
+    },
+    {
+      "team_id": "98767991930907107",
+      "slug": "immortals-progressive",
+      "team_name": "Immortals Progressive",
+      "team_code": "IMT"
+    },
+    {
+      "team_id": "98926509883054987",
+      "slug": "dignitas",
+      "team_name": "Dignitas",
+      "team_code": "DIG"
+    },
+    {
+      "team_id": "108439036582886702",
+      "slug": "byteway-esports",
+      "team_name": "BWE Esports",
+      "team_code": "BWE"
+    },
+    {
+      "team_id": "107581284487120142",
+      "slug": "six-karma",
+      "team_name": "Six Karma",
+      "team_code": "6K"
+    },
+    {
+      "team_id": "106857724782292541",
+      "slug": "c9-amateur",
+      "team_name": "C9 Amateur",
+      "team_code": "C9AM"
+    },
+    {
+      "team_id": "107467827374313054",
+      "slug": "finetwork-koi",
+      "team_name": "Finetwork KOI",
+      "team_code": "FNK"
+    },
+    {
+      "team_id": "103461966971048042",
+      "slug": "eg-academy",
+      "team_name": "Evil Geniuses Challengers",
+      "team_code": "EG"
+    },
+    {
+      "team_id": "99566408221114231",
+      "slug": "kabum-esports",
+      "team_name": "KaBuM! Esports",
+      "team_code": "KBM"
+    },
+    {
+      "team_id": "105913111502565010",
+      "slug": "zoos-gaming",
+      "team_name": "Zoos Gaming",
+      "team_code": "ZOOS"
+    },
+    {
+      "team_id": "104710383210356454",
+      "slug": "lowlandlions",
+      "team_name": "LowLandLions",
+      "team_code": "LION"
+    },
+    {
+      "team_id": "105550036134585264",
+      "slug": "bro-challengers",
+      "team_name": "BRO Challengers",
+      "team_code": "BRO"
+    },
+    {
+      "team_id": "109697683685398040",
+      "slug": "magaza",
+      "team_name": "MAGAZA",
+      "team_code": "MGZ"
+    },
+    {
+      "team_id": "105549998884468136",
+      "slug": "pain-academy",
+      "team_name": "paiN Academy",
+      "team_code": "PNG"
+    },
+    {
+      "team_id": "109783130654973406",
+      "slug": "godel-gamers",
+      "team_name": "Godel Gamers",
+      "team_code": "GODL"
+    },
+    {
+      "team_id": "105301773561628001",
+      "slug": "lcklegends",
+      "team_name": "LCK Legends",
+      "team_code": "LCKL"
+    },
+    {
+      "team_id": "101157821382267957",
+      "slug": "sneaky",
+      "team_name": "Sneaky",
+      "team_code": "NA2"
+    },
+    {
+      "team_id": "109698030312834058",
+      "slug": "genbu-gaming",
+      "team_name": "Genbu Gaming",
+      "team_code": "GNGG"
+    },
+    {
+      "team_id": "103535282140533402",
+      "slug": "besiktas-akademi",
+      "team_name": "Beşiktaş Akademi",
+      "team_code": "BJK"
+    },
+    {
+      "team_id": "105351737774956843",
+      "slug": "lpl-legends",
+      "team_name": "LPL Legends",
+      "team_code": "LPLL"
+    },
+    {
+      "team_id": "107603544245460197",
+      "slug": "awake-gaming",
+      "team_name": "Ramo Awake Gaming",
+      "team_code": "AWK"
+    },
+    {
+      "team_id": "106269859169658575",
+      "slug": "impunity-esports",
+      "team_name": "Impunity Esports",
+      "team_code": "IMP"
+    },
+    {
+      "team_id": "107599040773840060",
+      "slug": "meta-gaming",
+      "team_name": "Meta Gaming",
+      "team_code": "MG"
+    },
+    {
+      "team_id": "107251295460371069",
+      "slug": "team-secret",
+      "team_name": "Team Secret",
+      "team_code": "TS"
+    },
+    {
+      "team_id": "109674808371974726",
+      "slug": "newells-esports",
+      "team_name": "Newell's Esports",
+      "team_code": "NOB"
+    },
+    {
+      "team_id": "109631326144414089",
+      "slug": "19-esports",
+      "team_name": "19 Esports",
+      "team_code": "19"
+    },
+    {
+      "team_id": "103535282146169523",
+      "slug": "info-yatrm-aurora-akademi",
+      "team_name": "Info Yatırım Aurora Akademi",
+      "team_code": "AUR"
+    },
+    {
+      "team_id": "101422616509070746",
+      "slug": "galatasaray-espor",
+      "team_name": "Galatasaray Espor",
+      "team_code": "GS"
+    },
+    {
+      "team_id": "108203173414485265",
+      "slug": "hle-academy",
+      "team_name": "HLE Academy",
+      "team_code": "HLE"
+    },
+    {
+      "team_id": "103240746421271163",
+      "slug": "chippys",
+      "team_name": "Chippys",
+      "team_code": "OCE1"
+    },
+    {
+      "team_id": "103240746424613505",
+      "slug": "goku",
+      "team_name": "Goku",
+      "team_code": "BR2"
+    },
+    {
+      "team_id": "98767991954244555",
+      "slug": "gam-esports",
+      "team_name": "GAM Esports",
+      "team_code": "GAM"
+    },
+    {
+      "team_id": "109674814051390025",
+      "slug": "primate",
+      "team_name": "Primate",
+      "team_code": "PMT"
+    },
+    {
+      "team_id": "104251016988118464",
+      "slug": "galatasaray-espor-akademi",
+      "team_name": "Galatasaray Espor Akademi",
+      "team_code": "GS"
+    },
+    {
+      "team_id": "108159996371573462",
+      "slug": "maryville-university",
+      "team_name": "Maryville University",
+      "team_code": "MU"
+    },
+    {
+      "team_id": "99566406334639907",
+      "slug": "legacy-esports",
+      "team_name": "Legacy Esports",
+      "team_code": "LGC"
+    },
+    {
+      "team_id": "101157821417067613",
+      "slug": "g4",
+      "team_name": "G4",
+      "team_code": "LST2"
+    },
+    {
+      "team_id": "106827823550343961",
+      "slug": "axz-academy",
+      "team_name": "AXZ Academy",
+      "team_code": "AXZ"
+    },
+    {
+      "team_id": "102787200126663579",
+      "slug": "giants",
+      "team_name": "Giants",
+      "team_code": "GIA"
+    },
+    {
+      "team_id": "106250732506012141",
+      "slug": "umbra-divinus-gaming",
+      "team_name": "Umbra Divinus Gaming",
+      "team_code": "UDGG"
+    },
+    {
+      "team_id": "105397404796640412",
+      "slug": "loud",
+      "team_name": "LOUD",
+      "team_code": "LLL"
+    },
+    {
+      "team_id": "105593182576105603",
+      "slug": "brute",
+      "team_name": "BRUTE",
+      "team_code": "BRT"
+    },
+    {
+      "team_id": "105504044166670507",
+      "slug": "unicorns-of-love-sexy-edition",
+      "team_name": "Unicorns of Love Sexy Edition",
+      "team_code": "USE"
+    },
+    {
+      "team_id": "99566405944694628",
+      "slug": "pixel-esports-club",
+      "team_name": "Pixel Esports Club",
+      "team_code": "PIX"
+    },
+    {
+      "team_id": "99566405131343995",
+      "slug": "echo-fox-academy",
+      "team_name": "Echo Fox Academy",
+      "team_code": "FOXA"
+    },
+    {
+      "team_id": "104710343016706538",
+      "slug": "7more7-pompa-team",
+      "team_name": "7more7 Pompa Team",
+      "team_code": "PT7"
+    },
+    {
+      "team_id": "109981650516317055",
+      "slug": "mirage-alliance",
+      "team_name": "Mirage Alliance",
+      "team_code": "MIR"
+    },
+    {
+      "team_id": "109642680932009857",
+      "slug": "nord-esports",
+      "team_name": "Nord Esports",
+      "team_code": "NORD"
+    },
+    {
+      "team_id": "107581206998502078",
+      "slug": "atheris-esports",
+      "team_name": "Atheris Esports",
+      "team_code": "ATH"
+    },
+    {
+      "team_id": "105520077508552574",
+      "slug": "tricked-esport",
+      "team_name": "Tricked Esport",
+      "team_code": "TRC"
+    },
+    {
+      "team_id": "107598683861013570",
+      "slug": "boca-juniors-gaming",
+      "team_name": "Boca Juniors Gaming",
+      "team_code": "BOC"
+    },
+    {
+      "team_id": "103240746436737687",
+      "slug": "mikyx",
+      "team_name": "Mikyx",
+      "team_code": "EU3"
+    },
+    {
+      "team_id": "110733889090164854",
+      "slug": "return-of-the-middlesticks",
+      "team_name": "Return of the Middlesticks",
+      "team_code": "ROTM"
+    },
+    {
+      "team_id": "105503535895066182",
+      "slug": "wave-esports",
+      "team_name": "Wave Esports",
+      "team_code": "WAVE"
+    },
+    {
+      "team_id": "102787200145472495",
+      "slug": "defusekids",
+      "team_name": "Defusekids",
+      "team_code": "DKI"
+    },
+    {
+      "team_id": "107456352597333899",
+      "slug": "noneedorga",
+      "team_name": "NNO Prime",
+      "team_code": "NNO"
+    },
+    {
+      "team_id": "107564167676290839",
+      "slug": "rebels-gaming",
+      "team_name": "Rebels",
+      "team_code": "RBLS"
+    },
+    {
+      "team_id": "109668849651338559",
+      "slug": "fennel",
+      "team_name": "FENNEL",
+      "team_code": "FL"
+    },
+    {
+      "team_id": "107599112065439311",
+      "slug": "dark-horse",
+      "team_name": "Dark Horse",
+      "team_code": "DHX"
+    },
+    {
+      "team_id": "105515266817621145",
+      "slug": "team-mces",
+      "team_name": "Team MCES",
+      "team_code": "MCES"
+    },
+    {
+      "team_id": "103877891572305836",
+      "slug": "team-singularity",
+      "team_name": "Team Singularity",
+      "team_code": "SNG"
+    },
+    {
+      "team_id": "103963715924353674",
+      "slug": "dragon-army",
+      "team_name": "Dragon Army",
+      "team_code": "DA"
+    },
+    {
+      "team_id": "105521426070232498",
+      "slug": "rejects-gaming",
+      "team_name": "Rejects Gaming",
+      "team_code": "RJX"
+    },
+    {
+      "team_id": "107574959289974368",
+      "slug": "odivelas-sports-club",
+      "team_name": "Odivelas Sports Club",
+      "team_code": "OSC"
+    },
+    {
+      "team_id": "98767991853197861",
+      "slug": "t1",
+      "team_name": "T1",
+      "team_code": "T1"
+    },
+    {
+      "team_id": "99322214689444546",
+      "slug": "schalke-04",
+      "team_name": "Schalke 04 Esports",
+      "team_code": "S04"
+    },
+    {
+      "team_id": "107598764318774383",
+      "slug": "kru-esports",
+      "team_name": "KRÜ Esports",
+      "team_code": "KRU"
+    },
+    {
+      "team_id": "104270958001747936",
+      "slug": "one-breath-gaming",
+      "team_name": "One Breath Gaming",
+      "team_code": "OBG"
+    },
+    {
+      "team_id": "107575082591536093",
+      "slug": "entropiq",
+      "team_name": "Entropiq",
+      "team_code": "EIQ"
+    },
+    {
+      "team_id": "107598878262940546",
+      "slug": "malvinas-gaming",
+      "team_name": "Malvinas Rise",
+      "team_code": "MVG"
+    },
+    {
+      "team_id": "107467803833323099",
+      "slug": "team-heretics-sl",
+      "team_name": "Los Heretics",
+      "team_code": "HRTS"
+    },
+    {
+      "team_id": "99322214691747156",
+      "slug": "splyce",
+      "team_name": "Splyce",
+      "team_code": "SPY"
+    },
+    {
+      "team_id": "105519846782566525",
+      "slug": "mnm-gaming",
+      "team_name": "MnM Gaming",
+      "team_code": "MNM"
+    },
+    {
+      "team_id": "105593311172904657",
+      "slug": "eclot-gaming",
+      "team_name": "Eclot Gaming",
+      "team_code": "ECT"
+    },
+    {
+      "team_id": "109671413728531527",
+      "slug": "pentagon-rejects",
+      "team_name": "Pentagon Rejects",
+      "team_code": "PTR"
+    },
+    {
+      "team_id": "99566406065437842",
+      "slug": "dark-passage",
+      "team_name": "Dark Passage",
+      "team_code": "DP"
+    },
+    {
+      "team_id": "106827844148688268",
+      "slug": "sg-academy",
+      "team_name": "SG Academy",
+      "team_code": "SG"
+    },
+    {
+      "team_id": "103878020539746273",
+      "slug": "egn-esports",
+      "team_name": "EGN Esports",
+      "team_code": "EGN"
+    },
+    {
+      "team_id": "107655539755387391",
+      "slug": "varona-esports",
+      "team_name": "Varona Esports",
+      "team_code": "VAE"
+    },
+    {
+      "team_id": "108159958519099117",
+      "slug": "bay-state-college",
+      "team_name": "Bay State College",
+      "team_code": "BAY"
+    },
+    {
+      "team_id": "98767991882270868",
+      "slug": "edward-gaming",
+      "team_name": "SHANGHAI EDWARD GAMING HYCAN",
+      "team_code": "EDG"
+    },
+    {
+      "team_id": "105536643047197642",
+      "slug": "nasr-esports",
+      "team_name": "NASR ESPORTS",
+      "team_code": "NASR"
+    },
+    {
+      "team_id": "107581689894520368",
+      "slug": "bandits",
+      "team_name": "Bandits Gaming",
+      "team_code": "BAN"
+    },
+    {
+      "team_id": "107599089191671351",
+      "slug": "santiago-wanderers",
+      "team_name": "Santiago Wanderers",
+      "team_code": "SW"
+    },
+    {
+      "team_id": "107700211633200412",
+      "slug": "meta-falcon-team",
+      "team_name": "Meta Falcon Team",
+      "team_code": "MFT"
+    },
+    {
+      "team_id": "107582150625414483",
+      "slug": "aces-gaming",
+      "team_name": "AceS GaminG",
+      "team_code": "ACS"
+    },
+    {
+      "team_id": "108203166973601408",
+      "slug": "liiv-sandbox-academy",
+      "team_name": "Liiv SANDBOX Academy",
+      "team_code": "LSB"
+    },
+    {
+      "team_id": "101157821432665199",
+      "slug": "ceros",
+      "team_name": "Ceros",
+      "team_code": "JP2"
+    },
+    {
+      "team_id": "99566406066182955",
+      "slug": "galakticos",
+      "team_name": "GALAKTICOS",
+      "team_code": "GAL"
+    },
+    {
+      "team_id": "102141671183409133",
+      "slug": "maryville-university",
+      "team_name": "Maryville University",
+      "team_code": "MU"
+    },
+    {
+      "team_id": "99294153826603341",
+      "slug": "clutch-gaming",
+      "team_name": "Clutch Gaming",
+      "team_code": "CLU"
+    },
+    {
+      "team_id": "109672618694070633",
+      "slug": "aethernum-esports",
+      "team_name": "Aethernum Esports",
+      "team_code": "AET"
+    },
+    {
+      "team_id": "103240746440080029",
+      "slug": "doinb",
+      "team_name": "Doinb",
+      "team_code": "CN2"
+    },
+    {
+      "team_id": "103240746432281231",
+      "slug": "ziv",
+      "team_name": "Ziv",
+      "team_code": "LMS2"
+    },
+    {
+      "team_id": "103535282135552642",
+      "slug": "papara-supermassive-blaze-akademi",
+      "team_name": "Papara SuperMassive Blaze Akademi",
+      "team_code": "SMB"
+    },
+    {
+      "team_id": "105520796734358045",
+      "slug": "team-7am",
+      "team_name": "Team 7AM",
+      "team_code": "7AM"
+    },
+    {
+      "team_id": "100725845018863243",
+      "slug": "dwg-kia",
+      "team_name": "Dplus Kia",
+      "team_code": "DK"
+    },
+    {
+      "team_id": "108352305932141947",
+      "slug": "dsyre",
+      "team_name": "DSYRE",
+      "team_code": "DSYR"
+    },
+    {
+      "team_id": "109485342651298305",
+      "slug": "fluxo-academy",
+      "team_name": "FLUXO Academy",
+      "team_code": "FX"
+    },
+    {
+      "team_id": "103963753080578719",
+      "slug": "crowcrowd-moscow",
+      "team_name": "CrowCrowd Moscow",
+      "team_code": "CC"
+    },
+    {
+      "team_id": "99566406494784730",
+      "slug": "mad-team",
+      "team_name": "MAD Team",
+      "team_code": "MADD"
+    },
+    {
+      "team_id": "107580497041999074",
+      "slug": "team-ambition",
+      "team_name": "Team Ambition",
+      "team_code": "TA"
+    },
+    {
+      "team_id": "99566404846951820",
+      "slug": "lgd-gaming",
+      "team_name": "LGD GAMING",
+      "team_code": "LGD"
+    },
+    {
+      "team_id": "101428372602011186",
+      "slug": "v3-esports",
+      "team_name": "V3 Esports",
+      "team_code": "V3"
+    },
+    {
+      "team_id": "107581761958954646",
+      "slug": "vandals-esports",
+      "team_name": "Vandals Esports",
+      "team_code": "VAN"
+    },
+    {
+      "team_id": "106857739520697600",
+      "slug": "100-next",
+      "team_name": "100 Next",
+      "team_code": "100X"
+    },
+    {
+      "team_id": "106334802515490809",
+      "slug": "wortex",
+      "team_name": "Wortex",
+      "team_code": "WTX"
+    },
+    {
+      "team_id": "103877908090914662",
+      "slug": "kenty",
+      "team_name": "Kenty",
+      "team_code": "KEN"
+    },
+    {
+      "team_id": "103240746438900379",
+      "slug": "bolulu",
+      "team_name": "Bolulu",
+      "team_code": "TCL1"
+    },
+    {
+      "team_id": "101428372607057464",
+      "slug": "axiz",
+      "team_name": "AXIZ",
+      "team_code": "AXZ"
+    },
+    {
+      "team_id": "105913238372341488",
+      "slug": "wildcard-gaming",
+      "team_name": "Wildcard",
+      "team_code": "WC"
+    },
+    {
+      "team_id": "109539776003058530",
+      "slug": "alior-bank-team",
+      "team_name": "Alior Bank Team",
+      "team_code": "AB"
+    },
+    {
+      "team_id": "107456994699991548",
+      "slug": "atleta-esport",
+      "team_name": "Atleta Esport",
+      "team_code": "ATE"
+    },
+    {
+      "team_id": "103535282119620510",
+      "slug": "fukuoka-softbank-hawks-gaming",
+      "team_name": "Fukuoka SoftBank HAWKS gaming",
+      "team_code": "SHG"
+    },
+    {
+      "team_id": "103240746426776197",
+      "slug": "shrimp",
+      "team_name": "Shrimp",
+      "team_code": "BR1"
+    },
+    {
+      "team_id": "101383792887446028",
+      "slug": "mammoth",
+      "team_name": "MAMMOTH",
+      "team_code": "MEC"
+    },
+    {
+      "team_id": "110492173877838150",
+      "slug": "eternal-fire",
+      "team_name": "Eternal Fire",
+      "team_code": "EF"
+    },
+    {
+      "team_id": "109981655738221109",
+      "slug": "team-plink",
+      "team_name": "Team Plink",
+      "team_code": "CAT"
+    },
+    {
+      "team_id": "107582598621022934",
+      "slug": "club-deportivo-municipal",
+      "team_name": "Club Deportivo Municipal",
+      "team_code": "CDM"
+    },
+    {
+      "team_id": "107582173169864040",
+      "slug": "geekside-esports",
+      "team_name": "GeekSide Esports",
+      "team_code": "GSE"
+    },
+    {
+      "team_id": "106302119383559530",
+      "slug": "galaxy-racer",
+      "team_name": "Galaxy Racer",
+      "team_code": "GXR"
+    },
+    {
+      "team_id": "101157821399635017",
+      "slug": "bang",
+      "team_name": "Bang",
+      "team_code": "NA1"
+    },
+    {
+      "team_id": "103461966975897718",
+      "slug": "imt-academy",
+      "team_name": "Immortals Progressive Challengers",
+      "team_code": "IMT"
+    },
+    {
+      "team_id": "107582157086477662",
+      "slug": "descuydado-esports",
+      "team_name": "Descuydado Aucas Esports",
+      "team_code": "DSC"
+    },
+    {
+      "team_id": "105536738266035235",
+      "slug": "cyberground-gaming",
+      "team_name": "Cyberground Gaming",
+      "team_code": "CGG"
+    },
+    {
+      "team_id": "99566408217955692",
+      "slug": "pain-gaming",
+      "team_name": "paiN Gaming",
+      "team_code": "PNG"
+    },
+    {
+      "team_id": "109676337359108345",
+      "slug": "eclipse-gaming",
+      "team_name": "Eclipse Gaming",
+      "team_code": "ECG"
+    },
+    {
+      "team_id": "105536918475957734",
+      "slug": "macko-esports",
+      "team_name": "Macko Esports",
+      "team_code": "MCK"
+    },
+    {
+      "team_id": "109698026697016325",
+      "slug": "barcelona-bg",
+      "team_name": "Barcelona BG",
+      "team_code": "BBG"
+    },
+    {
+      "team_id": "107599144012469862",
+      "slug": "maze-gaming",
+      "team_name": "Maze Gaming",
+      "team_code": "MAZ"
+    },
+    {
+      "team_id": "103877774634323825",
+      "slug": "ydn-gamers",
+      "team_name": "YDN Gamers",
+      "team_code": "YDN"
+    },
+    {
+      "team_id": "103461966951059521",
+      "slug": "evil-geniuses",
+      "team_name": "Evil Geniuses LG",
+      "team_code": "EG"
+    },
+    {
+      "team_id": "109696092218588987",
+      "slug": "nigma-galaxy",
+      "team_name": "Nigma Galaxy",
+      "team_code": "NGX"
+    },
+    {
+      "team_id": "103535282138043022",
+      "slug": "fenerbahce-espor-akademi",
+      "team_name": "Fenerbahçe Espor Akademi",
+      "team_code": "FB"
+    },
+    {
+      "team_id": "108203169709977541",
+      "slug": "fredit-brion-academy",
+      "team_name": "BRO Academy",
+      "team_code": "BRO"
+    },
+    {
+      "team_id": "107603548241713732",
+      "slug": "braves-rising",
+      "team_name": "Braves Rising",
+      "team_code": "BRR"
+    },
+    {
+      "team_id": "105520781900097659",
+      "slug": "4-elements",
+      "team_name": "4 Elements",
+      "team_code": "4E"
+    },
+    {
+      "team_id": "99566405688134373",
+      "slug": "besiktasarchive",
+      "team_name": "Besiktasarchive",
+      "team_code": "BJKK"
+    },
+    {
+      "team_id": "104016416551172375",
+      "slug": "seorabeol-gaming",
+      "team_name": "Seorabeol Gaming",
+      "team_code": "SRB"
+    },
+    {
+      "team_id": "103240746437786265",
+      "slug": "bwipo",
+      "team_name": "Bwipo",
+      "team_code": "EU4"
+    },
+    {
+      "team_id": "107416342401528388",
+      "slug": "forsaken",
+      "team_name": "Maturalni Forsaken",
+      "team_code": "MFSK"
+    },
+    {
+      "team_id": "109704625422425316",
+      "slug": "benelux-united",
+      "team_name": "Benelux United",
+      "team_code": "BLX"
+    },
+    {
+      "team_id": "103877625775457850",
+      "slug": "movistar-riders",
+      "team_name": "Movistar Riders",
+      "team_code": "MRS"
+    },
+    {
+      "team_id": "99566408217116828",
+      "slug": "intz",
+      "team_name": "INTZ",
+      "team_code": "ITZ"
+    },
+    {
+      "team_id": "108159890692353756",
+      "slug": "st-clair-college",
+      "team_name": "St. Clair College",
+      "team_code": "SCC"
+    },
+    {
+      "team_id": "108319257932089006",
+      "slug": "osaka",
+      "team_name": "Osaka",
+      "team_code": "OSK"
+    },
+    {
+      "team_id": "110425005562048945",
+      "slug": "keypulse-esports",
+      "team_name": "Keypulse Esports",
+      "team_code": "KYP"
+    },
+    {
+      "team_id": "100205576309502431",
+      "slug": "furia",
+      "team_name": "FURIA",
+      "team_code": "FUR"
+    },
+    {
+      "team_id": "109783124183318312",
+      "slug": "university-of-st-trevor",
+      "team_name": "University of St. Trevor",
+      "team_code": "UST"
+    },
+    {
+      "team_id": "101383793567806688",
+      "slug": "sk-gaming",
+      "team_name": "SK Gaming",
+      "team_code": "SK"
+    },
+    {
+      "team_id": "101157821349705475",
+      "slug": "cn-with-influencers",
+      "team_name": "CN with Influencers",
+      "team_code": "CNWI"
+    },
+    {
+      "team_id": "106421708401759879",
+      "slug": "black-star-gaming",
+      "team_name": "Black Star Gaming",
+      "team_code": "BSGG"
+    },
+    {
+      "team_id": "110733870612047344",
+      "slug": "team-coachify",
+      "team_name": "Team Coachify",
+      "team_code": "CFY"
+    },
+    {
+      "team_id": "107251941920386009",
+      "slug": "bts-esports",
+      "team_name": "BTS ESPORTS",
+      "team_code": "SKY"
+    },
+    {
+      "team_id": "107582178455767077",
+      "slug": "pirate-dream",
+      "team_name": "Pirate Dream",
+      "team_code": "PD"
+    },
+    {
+      "team_id": "98767991892579754",
+      "slug": "royal-never-give-up",
+      "team_name": "Royal Never Give Up",
+      "team_code": "RNG"
+    },
+    {
+      "team_id": "107179740624168899",
+      "slug": "heet",
+      "team_name": "HEET",
+      "team_code": "HEET"
+    },
+    {
+      "team_id": "105521412995449549",
+      "slug": "team-esca-gaming",
+      "team_name": "Team ESCA Gaming",
+      "team_code": "ESCA"
+    },
+    {
+      "team_id": "107416483509696259",
+      "slug": "eintracht-spandau",
+      "team_name": "Eintracht Spandau",
+      "team_code": "EINS"
+    },
+    {
+      "team_id": "102787200130988976",
+      "slug": "asus-rog-elite",
+      "team_name": "ASUS ROG Elite",
+      "team_code": "ASUS"
+    },
+    {
+      "team_id": "99124844362174905",
+      "slug": "all-stars-tur",
+      "team_name": "TCL All-Stars",
+      "team_code": "TCL"
+    },
+    {
+      "team_id": "104710682193583854",
+      "slug": "topo-centras-iron-wolves",
+      "team_name": "Topo Centras Iron Wolves",
+      "team_code": "WOLF"
+    },
+    {
+      "team_id": "110534714934488523",
+      "slug": "cb-gaming",
+      "team_name": "CB Gaming",
+      "team_code": "CBG"
+    },
+    {
+      "team_id": "107581287168722290",
+      "slug": "the-kings",
+      "team_name": "The Kings",
+      "team_code": "TK"
+    },
+    {
+      "team_id": "107581300297680248",
+      "slug": "zylant-esports",
+      "team_name": "Zylant Esports",
+      "team_code": "ZLT"
+    },
+    {
+      "team_id": "99124844361058275",
+      "slug": "all-stars-cblol",
+      "team_name": "CBLOL All-Stars",
+      "team_code": "BR"
+    },
+    {
+      "team_id": "110418022381234710",
+      "slug": "spike-syndicate",
+      "team_name": "SPIKE Syndicate",
+      "team_code": "SPK"
+    },
+    {
+      "team_id": "109642690191894407",
+      "slug": "ruddy-esports",
+      "team_name": "Ruddy Esports",
+      "team_code": "RUD"
+    },
+    {
+      "team_id": "104843437139220481",
+      "slug": "undead-bk",
+      "team_name": "Undead BK",
+      "team_code": "UBK"
+    },
+    {
+      "team_id": "109698855806033734",
+      "slug": "universitario-esports",
+      "team_name": "Universitario Esports",
+      "team_code": "UE"
+    },
+    {
+      "team_id": "98767991949608898",
+      "slug": "fenerbahce-espor",
+      "team_name": "Fenerbahçe Espor",
+      "team_code": "FB"
+    },
+    {
+      "team_id": "103877976717529187",
+      "slug": "intrepid-fox-gaming",
+      "team_name": "Intrepid Fox Gaming",
+      "team_code": "IF"
+    },
+    {
+      "team_id": "101428372603715124",
+      "slug": "crest-gaming-act",
+      "team_name": "Crest Gaming Act",
+      "team_code": "CGA"
+    },
+    {
+      "team_id": "105549984475833252",
+      "slug": "cruzeiro-academy",
+      "team_name": "Cruzeiro Academy",
+      "team_code": "CRZA"
+    },
+    {
+      "team_id": "105193481874236222",
+      "slug": "lcl-all-stars",
+      "team_name": "LCL-All-Stars",
+      "team_code": "LCL"
+    },
+    {
+      "team_id": "101157821425652839",
+      "slug": "plugo",
+      "team_name": "Plugo",
+      "team_code": "LLA1"
+    },
+    {
+      "team_id": "103240746435623573",
+      "slug": "corejj",
+      "team_name": "CoreJJ",
+      "team_code": "NA3"
+    },
+    {
+      "team_id": "109692074894483834",
+      "slug": "sem9-wpe",
+      "team_name": "West Point Esports",
+      "team_code": "WP"
+    },
+    {
+      "team_id": "101428372600307248",
+      "slug": "rascal-jester",
+      "team_name": "Rascal Jester",
+      "team_code": "RJ"
+    },
+    {
+      "team_id": "107581755241449104",
+      "slug": "red-rooster",
+      "team_name": "Red Rooster",
+      "team_code": "RRR"
+    },
+    {
+      "team_id": "103935468920814040",
+      "slug": "gamersorigin",
+      "team_name": "Team GO",
+      "team_code": "GO"
+    },
+    {
+      "team_id": "101383793569248484",
+      "slug": "astralis",
+      "team_name": "Astralis",
+      "team_code": "AST"
+    },
+    {
+      "team_id": "109631614501223948",
+      "slug": "war-legion-esports",
+      "team_name": "War Legion Esports",
+      "team_code": "WLE"
+    },
+    {
+      "team_id": "104212474149188693",
+      "slug": "lvp",
+      "team_name": "Altokekw Españita",
+      "team_code": "OLE"
+    },
+    {
+      "team_id": "110733881542862348",
+      "slug": "cold-hearted",
+      "team_name": "Cold Hearted",
+      "team_code": "COLD"
+    },
+    {
+      "team_id": "107179722233063345",
+      "slug": "cryptova",
+      "team_name": "Cryptova",
+      "team_code": "OVA"
+    },
+    {
+      "team_id": "99566408358330419",
+      "slug": "isurus",
+      "team_name": "Isurus",
+      "team_code": "ISG"
+    },
+    {
+      "team_id": "102787200138722262",
+      "slug": "devilsone",
+      "team_name": "Devils.One",
+      "team_code": "DV1"
+    },
+    {
+      "team_id": "107467834753797729",
+      "slug": "bisons-eclub",
+      "team_name": "Bisons",
+      "team_code": "BSO"
+    },
+    {
+      "team_id": "107603586980602718",
+      "slug": "nocta",
+      "team_name": "NOCTA",
+      "team_code": "NOC"
+    },
+    {
+      "team_id": "105547976546505145",
+      "slug": "team-infamous",
+      "team_name": "Team Infamous",
+      "team_code": "IFM"
+    },
+    {
+      "team_id": "106857734387052095",
+      "slug": "aoe-esports",
+      "team_name": "AOE Gold",
+      "team_code": "AOE"
+    },
+    {
+      "team_id": "100205576307813373",
+      "slug": "flamengo-esports",
+      "team_name": "Flamengo ",
+      "team_code": "FLA"
+    },
+    {
+      "team_id": "105520786527322647",
+      "slug": "krc-genk-esports",
+      "team_name": "KRC Genk Esports",
+      "team_code": "GENK"
+    },
+    {
+      "team_id": "108448995754333242",
+      "slug": "webidoo-gaming",
+      "team_name": "webidoo Gaming",
+      "team_code": "WBD"
+    },
+    {
+      "team_id": "107603596915629288",
+      "slug": "spirituals",
+      "team_name": "Spirituals",
+      "team_code": "STS"
+    },
+    {
+      "team_id": "107598780504331406",
+      "slug": "maycam-evolve",
+      "team_name": "Maycam Evolve",
+      "team_code": "EV"
+    },
+    {
+      "team_id": "100289931264192378",
+      "slug": "team-spirit",
+      "team_name": "Team Spirit",
+      "team_code": "TSPT"
+    },
+    {
+      "team_id": "98767991940181526",
+      "slug": "misfits-gaming",
+      "team_name": "Misfits Gaming",
+      "team_code": "MSF"
+    },
+    {
+      "team_id": "102787200155434012",
+      "slug": "jdxl",
+      "team_name": "JD|XL",
+      "team_code": "JDXL"
+    },
+    {
+      "team_id": "109783149221216052",
+      "slug": "lit-esports",
+      "team_name": "Lit Esports",
+      "team_code": "LIT"
+    },
+    {
+      "team_id": "106371141659311452",
+      "slug": "valiance-pro-game",
+      "team_name": "Valiance PRO GAME",
+      "team_code": "VPG"
+    },
+    {
+      "team_id": "105520784254806142",
+      "slug": "ion-squad",
+      "team_name": "ION SQUAD",
+      "team_code": "ION"
+    },
+    {
+      "team_id": "108203154514683518",
+      "slug": "t1-rookies",
+      "team_name": "T1 Rookies",
+      "team_code": "T1"
+    },
+    {
+      "team_id": "105520816474194464",
+      "slug": "dynasty",
+      "team_name": "Dynasty",
+      "team_code": "DYN"
+    },
+    {
+      "team_id": "99566408219409348",
+      "slug": "vivo-keyd",
+      "team_name": "Vivo Keyd Stars",
+      "team_code": "VKS"
+    },
+    {
+      "team_id": "104710354840711661",
+      "slug": "riddle",
+      "team_name": "Riddle Esports",
+      "team_code": "RDL"
+    },
+    {
+      "team_id": "107582613263241138",
+      "slug": "deliverance-esports",
+      "team_name": "Deliverance Esports",
+      "team_code": "DVE"
+    },
+    {
+      "team_id": "105709099258505657",
+      "slug": "peace",
+      "team_name": "PEACE",
+      "team_code": "PCE"
+    },
+    {
+      "team_id": "101157821401338955",
+      "slug": "peanut",
+      "team_name": "Peanut",
+      "team_code": "KR3"
+    },
+    {
+      "team_id": "107760667929003738",
+      "slug": "frank-esports",
+      "team_name": "Frank Esports",
+      "team_code": "FAK"
+    },
+    {
+      "team_id": "107565493716773932",
+      "slug": "nativz",
+      "team_name": "Nativz",
+      "team_code": "NTZ"
+    },
+    {
+      "team_id": "109783136441695429",
+      "slug": "mirage",
+      "team_name": "Mirage",
+      "team_code": "MRGE"
+    },
+    {
+      "team_id": "105519945593890595",
+      "slug": "kova-esports",
+      "team_name": "KOVA Esports",
+      "team_code": "KOVA"
+    },
+    {
+      "team_id": "107603554304287575",
+      "slug": "king-of-goats",
+      "team_name": "King of Goats",
+      "team_code": "KOG"
+    },
+    {
+      "team_id": "105520826536746180",
+      "slug": "team-thrll",
+      "team_name": "Team THRLL",
+      "team_code": "TRL"
+    },
+    {
+      "team_id": "110534696811298545",
+      "slug": "apex-mission-impossible",
+      "team_name": "Apex Mission Impossible",
+      "team_code": "AMI"
+    },
+    {
+      "team_id": "110506938087991033",
+      "slug": "fl-academy",
+      "team_name": "FL Academy",
+      "team_code": "FL"
+    },
+    {
+      "team_id": "107580475800733004",
+      "slug": "third-party",
+      "team_name": "Third Party",
+      "team_code": "3P"
+    },
+    {
+      "team_id": "109480204628225868",
+      "slug": "los-grandes",
+      "team_name": "Los Grandes",
+      "team_code": "LOS"
+    },
+    {
+      "team_id": "110383487456480967",
+      "slug": "vertex-esc",
+      "team_name": "Vertex ESC",
+      "team_code": "VTX"
+    },
+    {
+      "team_id": "110425157952111645",
+      "slug": "fourth-wall",
+      "team_name": "Fourth Wall",
+      "team_code": "4W"
+    },
+    {
+      "team_id": "104841890701948065",
+      "slug": "estral-esports",
+      "team_name": "Estral Esports",
+      "team_code": "EST"
+    },
+    {
+      "team_id": "108573042084687884",
+      "slug": "team-whales",
+      "team_name": "TEAM WHALES",
+      "team_code": "TW"
+    },
+    {
+      "team_id": "105543843212923183",
+      "slug": "goskilla",
+      "team_name": "Goskilla",
+      "team_code": "GSK"
+    },
+    {
+      "team_id": "99124844353216570",
+      "slug": "lck-allstars",
+      "team_name": "LCK All-Stars",
+      "team_code": "LCK"
+    },
+    {
+      "team_id": "103495716836203404",
+      "slug": "5-ronin",
+      "team_name": "5 Ronin",
+      "team_code": "5R"
+    },
+    {
+      "team_id": "99566406332987990",
+      "slug": "the-chiefs",
+      "team_name": "The Chiefs",
+      "team_code": "CHF"
+    },
+    {
+      "team_id": "102141671181705193",
+      "slug": "michigan-state-university",
+      "team_name": "Michigan State University",
+      "team_code": "MSU"
+    },
+    {
+      "team_id": "105521451717484016",
+      "slug": "hive-athens-ec",
+      "team_name": "Hive Athens EC",
+      "team_code": "HIVE"
+    },
+    {
+      "team_id": "102787200123059082",
+      "slug": "team-ldlc",
+      "team_name": "Team LDLC",
+      "team_code": "LDLX"
+    },
+    {
+      "team_id": "103240746441194143",
+      "slug": "fofo",
+      "team_name": "Fofo",
+      "team_code": "LMS1"
+    },
+    {
+      "team_id": "109696138543579708",
+      "slug": "ebl-esports",
+      "team_name": "3BL Esports",
+      "team_code": "3BL"
+    },
+    {
+      "team_id": "108404211655217274",
+      "slug": "partizan-esports",
+      "team_name": "Partizan Esports",
+      "team_code": "PAR"
+    },
+    {
+      "team_id": "107067065368380132",
+      "slug": "wild-panther-esports",
+      "team_name": "Wild Panthers Esports",
+      "team_code": "WPE"
+    },
+    {
+      "team_id": "99566404853058754",
+      "slug": "weibo-gaming",
+      "team_name": "WeiboGaming FAW AUDI",
+      "team_code": "WBG"
+    },
+    {
+      "team_id": "105521674055625312",
+      "slug": "gamespace-mediterranean-college-esports",
+      "team_name": "Gamespace Mediterranean College Esports",
+      "team_code": "GSMC"
+    },
+    {
+      "team_id": "107581750701049485",
+      "slug": "janus-esports",
+      "team_name": "Janus Esports",
+      "team_code": "JNS"
+    },
+    {
+      "team_id": "107581212180071788",
+      "slug": "peek-gaming",
+      "team_name": "Peek Gaming",
+      "team_code": "PK"
+    },
+    {
+      "team_id": "107597870621708485",
+      "slug": "cyber-wolves-esports",
+      "team_name": "Cyber Wolves Esports",
+      "team_code": "CWE"
+    },
+    {
+      "team_id": "105357804699574324",
+      "slug": "corejj-dream-team",
+      "team_name": "CoreJJ Dream Team",
+      "team_code": "CJJ"
+    },
+    {
+      "team_id": "107251245690956393",
+      "slug": "saigon-buffalo-esports",
+      "team_name": "Saigon Buffalo Esports",
+      "team_code": "SGB"
+    },
+    {
+      "team_id": "107450819235010833",
+      "slug": "bkrog-gamerorigin",
+      "team_name": "BK ROG Esports",
+      "team_code": "BKR"
+    },
+    {
+      "team_id": "105594116005157262",
+      "slug": "offset-esports",
+      "team_name": "OFFSET Esports",
+      "team_code": "OFF7"
+    },
+    {
+      "team_id": "103935567188806885",
+      "slug": "energypot-wizards",
+      "team_name": "Energypot Wizards",
+      "team_code": "EWIZ"
+    },
+    {
+      "team_id": "102825747707503563",
+      "slug": "mad-lions-ec-colombia",
+      "team_name": "MAD Lions E.C. Colombia",
+      "team_code": "MADC"
+    },
+    {
+      "team_id": "103240746416552563",
+      "slug": "team-urf-c",
+      "team_name": "Team URF C",
+      "team_code": "UFC"
+    },
+    {
+      "team_id": "109981678167856017",
+      "slug": "miracle",
+      "team_name": "Miracle",
+      "team_code": "MRC"
+    },
+    {
+      "team_id": "99566404855553726",
+      "slug": "funplus-phoenix",
+      "team_name": "FunPlus Phoenix",
+      "team_code": "FPX"
+    },
+    {
+      "team_id": "105537149834356301",
+      "slug": "anc-outplayed",
+      "team_name": "Anc Outplayed",
+      "team_code": "OP"
+    },
+    {
+      "team_id": "105537444152141556",
+      "slug": "herbalife-real-betis",
+      "team_name": "Herbalife Real Betis",
+      "team_code": "BTS"
+    },
+    {
+      "team_id": "108203164850614211",
+      "slug": "ns-redforce-academy",
+      "team_name": "NS REDFORCE Academy",
+      "team_code": "NS"
+    },
+    {
+      "team_id": "108078422885368642",
+      "slug": "panathinaikos-esports",
+      "team_name": "Panathinaikos Esports",
+      "team_code": "PAO"
+    },
+    {
+      "team_id": "109523293035238887",
+      "slug": "aegis",
+      "team_name": "Aegis",
+      "team_code": "AEG"
+    },
+    {
+      "team_id": "99566408561605102",
+      "slug": "xten-esports",
+      "team_name": "XTEN Esports",
+      "team_code": "XTN"
+    },
+    {
+      "team_id": "108361550364038935",
+      "slug": "aoe-randoms",
+      "team_name": "AOE Randoms",
+      "team_code": "AOER"
+    },
+    {
+      "team_id": "105193571520283762",
+      "slug": "opl-all-stars",
+      "team_name": "OPL All-Stars",
+      "team_code": "OPLO"
+    },
+    {
+      "team_id": "105553606349477427",
+      "slug": "zero-tenacity",
+      "team_name": "Zero Tenacity",
+      "team_code": "Z10"
+    },
+    {
+      "team_id": "105549997263803379",
+      "slug": "loud-academy",
+      "team_name": "LOUD Academy",
+      "team_code": "LLL"
+    },
+    {
+      "team_id": "108361563004344389",
+      "slug": "the-last-dance",
+      "team_name": "The Last Dance",
+      "team_code": "LAST"
+    },
+    {
+      "team_id": "108121051709036068",
+      "slug": "polar-squad",
+      "team_name": "Polar Squad",
+      "team_code": "PLS"
+    },
+    {
+      "team_id": "107580506699777259",
+      "slug": "redbird-esports",
+      "team_name": "ISU Redbirds",
+      "team_code": "ISU"
+    },
+    {
+      "team_id": "105397399468432537",
+      "slug": "netshoes-miners",
+      "team_name": "Miners",
+      "team_code": "NMG"
+    },
+    {
+      "team_id": "107580483738977500",
+      "slug": "winthrop-university",
+      "team_name": "Winthrop University",
+      "team_code": "WU"
+    },
+    {
+      "team_id": "105537947396116202",
+      "slug": "nasr-esports-akademi",
+      "team_name": "NASR ESPORTS Akademi",
+      "team_code": "NSR"
+    },
+    {
+      "team_id": "101383793195758800",
+      "slug": "redemption-esports",
+      "team_name": "Redemption Porto Alegre",
+      "team_code": "RDP"
+    },
+    {
+      "team_id": "106806779752531762",
+      "slug": "globant-emerald-team",
+      "team_name": "Globant Emerald Team",
+      "team_code": "GET"
+    },
+    {
+      "team_id": "99566404854685458",
+      "slug": "top-esports",
+      "team_name": "TOP ESPORTS",
+      "team_code": "TES"
+    },
+    {
+      "team_id": "101383793574360315",
+      "slug": "rogue",
+      "team_name": "KOI",
+      "team_code": "KOI"
+    },
+    {
+      "team_id": "105520824521753126",
+      "slug": "psv-esports",
+      "team_name": "PSV Esports",
+      "team_code": "PSV"
+    },
+    {
+      "team_id": "107582591908138922",
+      "slug": "cienciano",
+      "team_name": "Cienciano",
+      "team_code": "CCC"
+    },
+    {
+      "team_id": "107423109717243380",
+      "slug": "bifrost",
+      "team_name": "Bifrost",
+      "team_code": "BFR"
+    },
+    {
+      "team_id": "103877675241047720",
+      "slug": "ldlc-ol",
+      "team_name": "LDLC OL",
+      "team_code": "LDLC"
+    },
+    {
+      "team_id": "105193554293818475",
+      "slug": "ljlallstars",
+      "team_name": "LJL All-Stars",
+      "team_code": "LJL"
+    },
+    {
+      "team_id": "101157821456258207",
+      "slug": "tandem-mode-a",
+      "team_name": "Tandem Mode A",
+      "team_code": "TMA"
+    },
+    {
+      "team_id": "99566406332122275",
+      "slug": "avant-garde",
+      "team_name": "Avant Gaming",
+      "team_code": "AV"
+    },
+    {
+      "team_id": "104234362586443283",
+      "slug": "team-frenzy",
+      "team_name": "German Pingus",
+      "team_code": "PNGU"
+    },
+    {
+      "team_id": "107565448721890834",
+      "slug": "domino-esports",
+      "team_name": "Domino Esports",
+      "team_code": "DMN"
+    },
+    {
+      "team_id": "106827765448944398",
+      "slug": "dfm-academy",
+      "team_name": "DFM Academy",
+      "team_code": "DFM"
+    },
+    {
+      "team_id": "107582181197106556",
+      "slug": "skull-cracker-clan",
+      "team_name": "Skull Cracker Clan",
+      "team_code": "SKC"
+    },
+    {
+      "team_id": "101157821458027681",
+      "slug": "tandem-mode-b",
+      "team_name": "Tandem Mode B",
+      "team_code": "TMB"
+    },
+    {
+      "team_id": "105520822049210915",
+      "slug": "mcon-lg-ultragear",
+      "team_name": "mCon esports",
+      "team_code": "MCON"
+    },
+    {
+      "team_id": "99566406064558732",
+      "slug": "papara-supermassive-blaze",
+      "team_name": "Papara SuperMassive ",
+      "team_code": "SUP"
+    },
+    {
+      "team_id": "105550042327365041",
+      "slug": "gen-challengers",
+      "team_name": "Gen.G Global Academy",
+      "team_code": "GEN"
+    },
+    {
+      "team_id": "99566408222831088",
+      "slug": "liberty",
+      "team_name": "Liberty",
+      "team_code": "LBR"
+    },
+    {
+      "team_id": "109699042809864069",
+      "slug": "vipers",
+      "team_name": "Vipers",
+      "team_code": "VIPS"
+    },
+    {
+      "team_id": "107468079354897663",
+      "slug": "team-oplon",
+      "team_name": "Team Oplon",
+      "team_code": "OPL"
+    },
+    {
+      "team_id": "107128093558481418",
+      "slug": "zennit-gaming",
+      "team_name": "ZennIT",
+      "team_code": "ZNT"
+    },
+    {
+      "team_id": "103240746418846327",
+      "slug": "team-assassin-a",
+      "team_name": "Team Assassin A",
+      "team_code": "TAA"
+    },
+    {
+      "team_id": "107565477822627354",
+      "slug": "verdant",
+      "team_name": "Verdant",
+      "team_code": "VER"
+    },
+    {
+      "team_id": "110534749775658790",
+      "slug": "the-cheese-chasers",
+      "team_name": "The Cheese Chasers",
+      "team_code": "NPC"
+    },
+    {
+      "team_id": "107563714667537640",
+      "slug": "team-bds",
+      "team_name": "Team BDS",
+      "team_code": "BDS"
+    },
+    {
+      "team_id": "106269804045322803",
+      "slug": "mega-bank-beyond-gaming",
+      "team_name": "Beyond Gaming",
+      "team_code": "BYG"
+    },
+    {
+      "team_id": "98926509885559666",
+      "slug": "team-liquid",
+      "team_name": "Team Liquid Honda",
+      "team_code": "TL"
+    },
+    {
+      "team_id": "99566405130451785",
+      "slug": "c9-academy",
+      "team_name": "Cloud9 Challengers",
+      "team_code": "C9"
+    },
+    {
+      "team_id": "107581759470356115",
+      "slug": "saprissa-esports",
+      "team_name": "Saprissa Esports",
+      "team_code": "SAP"
+    },
+    {
+      "team_id": "106222632206917342",
+      "slug": "resolve",
+      "team_name": "Resolve",
+      "team_code": "RSV"
+    },
+    {
+      "team_id": "108159968741268165",
+      "slug": "converse-university",
+      "team_name": "Converse University",
+      "team_code": "CVU"
+    },
+    {
+      "team_id": "105536980594429116",
+      "slug": "romulea-esport",
+      "team_name": "Romulea eSport",
+      "team_code": "RML"
+    },
+    {
+      "team_id": "101909007472450882",
+      "slug": "es-sharks",
+      "team_name": "ES Sharks",
+      "team_code": "ESS"
+    },
+    {
+      "team_id": "110424394375218208",
+      "slug": "a-one-man-army",
+      "team_name": "A One Man Army",
+      "team_code": "AOMA"
+    },
+    {
+      "team_id": "105548019132871601",
+      "slug": "medieval-riga",
+      "team_name": "Medieval Riga",
+      "team_code": "MDVL"
+    },
+    {
+      "team_id": "105519562229907355",
+      "slug": "barrage-esports",
+      "team_name": "Barrage Esports",
+      "team_code": "BRG"
+    },
+    {
+      "team_id": "101909007470353718",
+      "slug": "vsg",
+      "team_name": "VSG",
+      "team_code": "VSG"
+    },
+    {
+      "team_id": "105301786369976273",
+      "slug": "leclegends",
+      "team_name": "LEC Legends",
+      "team_code": "LECL"
+    },
+    {
+      "team_id": "99566405125435312",
+      "slug": "optic-gaming-academy",
+      "team_name": "OpTic Gaming Academy",
+      "team_code": "OPTA"
+    },
+    {
+      "team_id": "107580499570181349",
+      "slug": "wildcard-aces",
+      "team_name": "Wildcard Aces",
+      "team_code": "WCA"
+    },
+    {
+      "team_id": "107599061926073885",
+      "slug": "newstar",
+      "team_name": "Newstar",
+      "team_code": "N5R"
+    },
+    {
+      "team_id": "104202382255290736",
+      "slug": "rensga",
+      "team_name": "RENSGA",
+      "team_code": "RNS"
+    },
+    {
+      "team_id": "105537408539332006",
+      "slug": "emonkeyz-sdh",
+      "team_name": "eMonkeyz SDH",
+      "team_code": "EMZ"
+    },
+    {
+      "team_id": "105521239281281237",
+      "slug": "cowboysquad-imperials-esports",
+      "team_name": "CowBoySquad Imperials Esports",
+      "team_code": "CBI"
+    },
+    {
+      "team_id": "108361575122450254",
+      "slug": "team-fish-taco",
+      "team_name": "Team Fish Taco",
+      "team_code": "TACO"
+    },
+    {
+      "team_id": "109692071893352727",
+      "slug": "hell-pigs",
+      "team_name": "Hell Pigs",
+      "team_code": "HPS"
+    },
+    {
+      "team_id": "105550049871017396",
+      "slug": "kt-challengers",
+      "team_name": "kt Challengers",
+      "team_code": "KT"
+    },
+    {
+      "team_id": "106972778172351142",
+      "slug": "nrg-esports",
+      "team_name": "NRG",
+      "team_code": "NRG"
+    },
+    {
+      "team_id": "102787200149928963",
+      "slug": "we-love-gaming",
+      "team_name": "WLGaming Esports",
+      "team_code": "WLG"
+    },
+    {
+      "team_id": "108361537886099513",
+      "slug": "300",
+      "team_name": "300",
+      "team_code": "300"
+    },
+    {
+      "team_id": "105301791701328923",
+      "slug": "lecqueuekings",
+      "team_name": "LEC Queue Kings",
+      "team_code": "LECQ"
+    },
+    {
+      "team_id": "107599485973747723",
+      "slug": "grypciocraft-esports",
+      "team_name": "Grypciocraft Esports",
+      "team_code": "GRP"
+    },
+    {
+      "team_id": "103877589042434434",
+      "slug": "gamerlegion",
+      "team_name": "GamerLegion",
+      "team_code": "GL"
+    },
+    {
+      "team_id": "105957603362200620",
+      "slug": "dignitas-mirage",
+      "team_name": "Dignitas Mirage",
+      "team_code": "DIGM"
+    },
+    {
+      "team_id": "107564135791716115",
+      "slug": "guasones",
+      "team_name": "Guasones",
+      "team_code": "GSNS"
+    },
+    {
+      "team_id": "104710373370426042",
+      "slug": "cr4zy",
+      "team_name": "CR4ZY",
+      "team_code": "C4"
+    },
+    {
+      "team_id": "105593129376630217",
+      "slug": "vikingekrig-esports",
+      "team_name": "Vikingekrig Esports",
+      "team_code": "VIK"
+    },
+    {
+      "team_id": "105594176887807460",
+      "slug": "efive-esports",
+      "team_name": "EFIVE Esports",
+      "team_code": "E5"
+    },
+    {
+      "team_id": "108403526900459473",
+      "slug": "uniq",
+      "team_name": "UniQ Esports",
+      "team_code": "UNIQ"
+    },
+    {
+      "team_id": "105521201981545679",
+      "slug": "the-spawn-esports",
+      "team_name": "The Spawn Esports",
+      "team_code": "SPN"
+    },
+    {
+      "team_id": "101157821461435557",
+      "slug": "tandem-mode-d",
+      "team_name": "Tandem Mode D",
+      "team_code": "TMD"
+    },
+    {
+      "team_id": "105532791598779236",
+      "slug": "ucam-esports-club",
+      "team_name": "UCAM",
+      "team_code": "UCAM"
+    },
+    {
+      "team_id": "101428372598668846",
+      "slug": "burning-core",
+      "team_name": "Burning Core",
+      "team_code": "BC"
+    },
+    {
+      "team_id": "109697686032800938",
+      "slug": "xtremedominators",
+      "team_name": "XtremeDominators",
+      "team_code": "XD"
+    },
+    {
+      "team_id": "107422385694193066",
+      "slug": "barca-esports",
+      "team_name": "Barça Esports",
+      "team_code": "BAR"
+    },
+    {
+      "team_id": "105520713962793016",
+      "slug": "granit-gaming",
+      "team_name": "Granit Gaming",
+      "team_code": "GRNT"
+    },
+    {
+      "team_id": "100783238110621058",
+      "slug": "dashing-buffalo",
+      "team_name": "Dashing Buffalo",
+      "team_code": "DBL"
+    },
+    {
+      "team_id": "101157821434369137",
+      "slug": "pabu",
+      "team_name": "Pabu",
+      "team_code": "OCE2"
+    },
+    {
+      "team_id": "103240746434574995",
+      "slug": "ahahacik",
+      "team_name": "AHaHaCiK",
+      "team_code": "LCL2"
+    },
+    {
+      "team_id": "110534712174898632",
+      "slug": "blue-otter",
+      "team_name": "Blue Otter",
+      "team_code": "BOL"
+    },
+    {
+      "team_id": "106250729133367861",
+      "slug": "olympiacos-alimou-esports",
+      "team_name": "Olympiacos Alimou esports",
+      "team_code": "GOAL"
+    },
+    {
+      "team_id": "109539675734129088",
+      "slug": "northern-lions-esports",
+      "team_name": "Northern Lions Esports",
+      "team_code": "NLE"
+    },
+    {
+      "team_id": "107953988302037900",
+      "slug": "maryville-saints",
+      "team_name": "Maryville Saints",
+      "team_code": "MU"
+    },
+    {
+      "team_id": "105519746234964687",
+      "slug": "dusty",
+      "team_name": "Dusty",
+      "team_code": "DY"
+    },
+    {
+      "team_id": "107700204561086446",
+      "slug": "deep-cross-gaming",
+      "team_name": "Deep Cross Gaming",
+      "team_code": "DCG"
+    },
+    {
+      "team_id": "109696047948627764",
+      "slug": "gng-esports",
+      "team_name": "GNG Esports",
+      "team_code": "GNG"
+    },
+    {
+      "team_id": "107580444745581889",
+      "slug": "immortals-aoe",
+      "team_name": "Immortals AOE",
+      "team_code": "IMA"
+    },
+    {
+      "team_id": "99566405127798575",
+      "slug": "tsm-academy",
+      "team_name": "TSM Challengers",
+      "team_code": "TSM"
+    },
+    {
+      "team_id": "98767991959203254",
+      "slug": "team-one-e-sports",
+      "team_name": "Team oNe e-Sports",
+      "team_code": "ONEE"
+    },
+    {
+      "team_id": "105550024238752685",
+      "slug": "kwangdong-freecs-challengers",
+      "team_name": "KDF Challengers",
+      "team_code": "KDF"
+    },
+    {
+      "team_id": "107581209070519555",
+      "slug": "atomic-esports",
+      "team_name": "Atomic Esports",
+      "team_code": "MC2"
+    },
+    {
+      "team_id": "107599188771591359",
+      "slug": "wolf-club-gaming",
+      "team_name": "Wolf Club Gaming",
+      "team_code": "WCE"
+    },
+    {
+      "team_id": "107456419134134246",
+      "slug": "astralis-talent",
+      "team_name": "Astralis Talent",
+      "team_code": "ASTL"
+    },
+    {
+      "team_id": "103240746393642312",
+      "slug": "pro-showdown-a",
+      "team_name": "All-Stars Blue",
+      "team_code": "ASB"
+    },
+    {
+      "team_id": "99566404852189289",
+      "slug": "jd-gaming",
+      "team_name": "Beijing JDG Intel Esports Club",
+      "team_code": "JDG"
+    },
+    {
+      "team_id": "106827839261303409",
+      "slug": "cga-academy",
+      "team_name": "CGA  Academy",
+      "team_code": "CGA"
+    },
+    {
+      "team_id": "109695924147263860",
+      "slug": "triple-esports",
+      "team_name": "Triple Esports",
+      "team_code": "TE"
+    },
+    {
+      "team_id": "100205576949530558",
+      "slug": "bursaspor-esports",
+      "team_name": "Bursaspor Esports",
+      "team_code": "BURA"
+    },
+    {
+      "team_id": "101157821397865543",
+      "slug": "faker",
+      "team_name": "Faker",
+      "team_code": "KR1"
+    },
+    {
+      "team_id": "106382545123328648",
+      "slug": "dynamo-eclot",
+      "team_name": "Dynamo Eclot",
+      "team_code": "DNE"
+    },
+    {
+      "team_id": "105549991104165282",
+      "slug": "furia-academy",
+      "team_name": "FURIA Academy",
+      "team_code": "FUR"
+    },
+    {
+      "team_id": "107598982142057588",
+      "slug": "cruzados-esports",
+      "team_name": "Cruzados Esports",
+      "team_code": "UC"
+    },
+    {
+      "team_id": "104228817622043824",
+      "slug": "the-french-zoo",
+      "team_name": "The French Zoo",
+      "team_code": "FZO"
+    },
+    {
+      "team_id": "99566404579461230",
+      "slug": "kt-rolster",
+      "team_name": "kt Rolster",
+      "team_code": "KT"
+    },
+    {
+      "team_id": "105550001032913831",
+      "slug": "red-academy",
+      "team_name": "RED Academy",
+      "team_code": "RED"
+    },
+    {
+      "team_id": "98926509887041994",
+      "slug": "echo-fox",
+      "team_name": "Echo Fox",
+      "team_code": "FOX2"
+    },
+    {
+      "team_id": "102747101565183056",
+      "slug": "nongshim-redforce",
+      "team_name": "NongShim REDFORCE",
+      "team_code": "NS"
+    },
+    {
+      "team_id": "105554088239949229",
+      "slug": "x25-esports",
+      "team_name": "x25 Esports",
+      "team_code": "X25"
+    },
+    {
+      "team_id": "103240746396067146",
+      "slug": "pro-showdown-b",
+      "team_name": "All-Stars Red",
+      "team_code": "ASR"
+    },
+    {
+      "team_id": "104212455500985426",
+      "slug": "lec-team",
+      "team_name": "LEC Kings",
+      "team_code": "RITO"
+    },
+    {
+      "team_id": "98767991877340524",
+      "slug": "cloud9",
+      "team_name": "Cloud9",
+      "team_code": "C9"
+    },
+    {
+      "team_id": "103461966981927044",
+      "slug": "dig-academy",
+      "team_name": "Dignitas Challengers",
+      "team_code": "DIG"
+    },
+    {
+      "team_id": "107580481273119961",
+      "slug": "taco-gaming",
+      "team_name": "Taco Gaming",
+      "team_code": "TG"
+    },
+    {
+      "team_id": "102787200132955066",
+      "slug": "for-the-win-esports",
+      "team_name": "FTW Esports",
+      "team_code": "FTW"
+    },
+    {
+      "team_id": "103495716886587312",
+      "slug": "besiktas",
+      "team_name": "Beşiktaş",
+      "team_code": "BJK"
+    },
+    {
+      "team_id": "108361552741927561",
+      "slug": "cincinnati-fear",
+      "team_name": "Cincinnati Fear",
+      "team_code": "FEAR"
+    },
+    {
+      "team_id": "107597866344501908",
+      "slug": "auxesis-esports",
+      "team_name": "Auxesis Esports",
+      "team_code": "AUX"
+    },
+    {
+      "team_id": "105532840001188717",
+      "slug": "s2v-esports",
+      "team_name": "S2V Esports",
+      "team_code": "S2V"
+    },
+    {
+      "team_id": "105549995617170853",
+      "slug": "kabum-academy",
+      "team_name": "KaBuM! Academy",
+      "team_code": "KBM"
+    },
+    {
+      "team_id": "108565997404381643",
+      "slug": "tempest-gaming",
+      "team_name": "Tempest Gaming",
+      "team_code": "TPG"
+    },
+    {
+      "team_id": "107597875833524424",
+      "slug": "diamant-esports",
+      "team_name": "Diamant Esports",
+      "team_code": "DIA"
+    },
+    {
+      "team_id": "107423075317119707",
+      "slug": "x7",
+      "team_name": "X7",
+      "team_code": "X7"
+    },
+    {
+      "team_id": "108203161924300737",
+      "slug": "drx-academy",
+      "team_name": "DRX Academy",
+      "team_code": "DRX"
+    },
+    {
+      "team_id": "102787200134790084",
+      "slug": "hma-fnatic-rising",
+      "team_name": "HMA Fnatic Rising",
+      "team_code": "FNCR"
+    },
+    {
+      "team_id": "105663527959374033",
+      "slug": "ctrl-play-team",
+      "team_name": "CTRL PLAY Team",
+      "team_code": "CPT"
+    },
+    {
+      "team_id": "103240746442308257",
+      "slug": "optimus",
+      "team_name": "Optimus",
+      "team_code": "VCS1"
+    },
+    {
+      "team_id": "110733864366329081",
+      "slug": "team-e-turner",
+      "team_name": "Team E Turner",
+      "team_code": "TET"
+    },
+    {
+      "team_id": "105957640798249312",
+      "slug": "barragena",
+      "team_name": "Barrage.NA",
+      "team_code": "BRG"
+    },
+    {
+      "team_id": "100205573496804586",
+      "slug": "hanwha-life-esports",
+      "team_name": "Hanwha Life Esports",
+      "team_code": "HLE"
+    },
+    {
+      "team_id": "107648168744912288",
+      "slug": "dren-esports",
+      "team_name": "DREN Esports",
+      "team_code": "DREN"
+    },
+    {
+      "team_id": "106827848618374543",
+      "slug": "bc-academy",
+      "team_name": "BC Academy",
+      "team_code": "BC"
+    },
+    {
+      "team_id": "107437032053655867",
+      "slug": "kanga-esports",
+      "team_name": "Kanga Esports",
+      "team_code": "KNG"
+    },
+    {
+      "team_id": "105520788833075738",
+      "slug": "kv-mechelen-esports",
+      "team_name": "KV Mechelen Esports",
+      "team_code": "KVM"
+    },
+    {
+      "team_id": "109699038581250169",
+      "slug": "red-eyes-esports",
+      "team_name": "Red Eyes Esports",
+      "team_code": "RDY"
+    },
+    {
+      "team_id": "105550047979361273",
+      "slug": "hle-challengers",
+      "team_name": "HLE Challengers",
+      "team_code": "HLE"
+    },
+    {
+      "team_id": "105553729458550723",
+      "slug": "nexus-ktrl",
+      "team_name": "Nexus KTRL",
+      "team_code": "NXK"
+    },
+    {
+      "team_id": "102141671187668983",
+      "slug": "nc-state-university",
+      "team_name": "NC State University",
+      "team_code": "NCSU"
+    },
+    {
+      "team_id": "102787200151698443",
+      "slug": "vitalitybee",
+      "team_name": "Vitality.Bee",
+      "team_code": "VITB"
+    },
+    {
+      "team_id": "110428362822825796",
+      "slug": "disguised",
+      "team_name": "Disguised",
+      "team_code": "DSG"
+    },
+    {
+      "team_id": "107580455322240324",
+      "slug": "no-team",
+      "team_name": "No Team",
+      "team_code": "NOT"
+    },
+    {
+      "team_id": "108160026618060825",
+      "slug": "uci-esports",
+      "team_name": "UCI Esports",
+      "team_code": "UCI"
+    },
+    {
+      "team_id": "103240746417732213",
+      "slug": "team-urf-d",
+      "team_name": "Team Urf D",
+      "team_code": "UFD"
+    },
+    {
+      "team_id": "109671193729027761",
+      "slug": "fly-fam",
+      "team_name": "FLY FAM",
+      "team_code": "FLYF"
+    },
+    {
+      "team_id": "108159917648031455",
+      "slug": "ust-esports",
+      "team_name": "UST Esports",
+      "team_code": "USTE"
+    },
+    {
+      "team_id": "106827815539026710",
+      "slug": "rj-academy",
+      "team_name": "RJ Academy",
+      "team_code": "RJ"
+    },
+    {
+      "team_id": "109539873500788632",
+      "slug": "exeed",
+      "team_name": "EXEED",
+      "team_code": "EXD"
+    },
+    {
+      "team_id": "107597858964689090",
+      "slug": "soveja",
+      "team_name": "SOVEJA",
+      "team_code": "SVJ"
+    },
+    {
+      "team_id": "101978171843206569",
+      "slug": "vega-squadron",
+      "team_name": "Vega Squadron",
+      "team_code": "VEG"
+    },
+    {
+      "team_id": "99566408220213759",
+      "slug": "cnb-e-sports-club",
+      "team_name": "CNB e-Sports Club",
+      "team_code": "CNB"
+    },
+    {
+      "team_id": "99566404585387054",
+      "slug": "drx",
+      "team_name": "DRX",
+      "team_code": "DRX"
+    },
+    {
+      "team_id": "107582641798795198",
+      "slug": "spectacled-bears",
+      "team_name": "Spectacled Bears",
+      "team_code": "SB"
+    },
+    {
+      "team_id": "106827832203113865",
+      "slug": "shg-academy",
+      "team_name": "SHG Academy",
+      "team_code": "SHG"
+    },
+    {
+      "team_id": "98926509884398584",
+      "slug": "clg",
+      "team_name": "CLG",
+      "team_code": "CLG"
+    },
+    {
+      "team_id": "107598651997213225",
+      "slug": "9z-gaming",
+      "team_name": "9z Gaming",
+      "team_code": "9Z"
+    },
+    {
+      "team_id": "99566406069969565",
+      "slug": "info-yatrm-aurora",
+      "team_name": "Info Yatırım Aurora",
+      "team_code": "AUR"
+    },
+    {
+      "team_id": "99566406070802758",
+      "slug": "royal-bandits-e-sports",
+      "team_name": "Royal Youth",
+      "team_code": "RYL"
+    },
+    {
+      "team_id": "102235771678061291",
+      "slug": "fastpay-wildcats",
+      "team_name": "DenizBank İstanbul Wildcats",
+      "team_code": "IW"
+    },
+    {
+      "team_id": "107251231972989211",
+      "slug": "sbtc-esports",
+      "team_name": "SBTC ESPORTS",
+      "team_code": "SE"
+    },
+    {
+      "team_id": "98767991921462763",
+      "slug": "dire-wolves",
+      "team_name": "Dire Wolves",
+      "team_code": "DW"
+    },
+    {
+      "team_id": "105536773074826367",
+      "slug": "ggesports",
+      "team_name": "GGEsports",
+      "team_code": "GGE"
+    },
+    {
+      "team_id": "108566004579728490",
+      "slug": "large",
+      "team_name": "LARGE",
+      "team_code": "LRG"
+    },
+    {
+      "team_id": "102141671182557163",
+      "slug": "redbird-esports",
+      "team_name": "Redbird Esports",
+      "team_code": "UI"
+    },
+    {
+      "team_id": "101157821427356777",
+      "slug": "seiya",
+      "team_name": "Seiya",
+      "team_code": "LLA2"
+    },
+    {
+      "team_id": "109695910533747910",
+      "slug": "raad",
+      "team_name": "RAAD",
+      "team_code": "RAAD"
+    },
+    {
+      "team_id": "109675490370327425",
+      "slug": "ground-zero",
+      "team_name": "Ground Zero",
+      "team_code": "GZ"
+    },
+    {
+      "team_id": "104710359142494900",
+      "slug": "samsung-morning-stars",
+      "team_name": "Samsung Morning Stars",
+      "team_code": "SMS"
+    },
+    {
+      "team_id": "104367072827489994",
+      "slug": "berjaya-dragons",
+      "team_name": "Berjaya Dragons",
+      "team_code": "BJD"
+    },
+    {
+      "team_id": "99566406495581481",
+      "slug": "g-rex",
+      "team_name": "G-Rex",
+      "team_code": "GRX"
+    },
+    {
+      "team_id": "102787200143309800",
+      "slug": "ensure",
+      "team_name": "eNsure",
+      "team_code": "EN"
+    },
+    {
+      "team_id": "98767991902391669",
+      "slug": "flash-wolves",
+      "team_name": "Flash Wolves",
+      "team_code": "FWS"
+    },
+    {
+      "team_id": "110733877357854829",
+      "slug": "gentle-hearts-gaming",
+      "team_name": "Gentle Hearts Gaming",
+      "team_code": "GHG"
+    },
+    {
+      "team_id": "105550051809743868",
+      "slug": "lsb-challengers",
+      "team_name": "Liiv SANDBOX Youth",
+      "team_code": "LSB"
+    },
+    {
+      "team_id": "103240746419960441",
+      "slug": "team-assassin-b",
+      "team_name": "Team Assassin B",
+      "team_code": "TAB"
+    },
+    {
+      "team_id": "102141671185047537",
+      "slug": "uci-esports",
+      "team_name": "UCI Esports",
+      "team_code": "UCI"
+    },
+    {
+      "team_id": "98767991935149427",
+      "slug": "rainbow7",
+      "team_name": "Movistar R7",
+      "team_code": "R7"
+    },
+    {
+      "team_id": "109697689430777005",
+      "slug": "ankora-gaming",
+      "team_name": "Ankora Gaming",
+      "team_code": "ANK"
+    },
+    {
+      "team_id": "102787200120306562",
+      "slug": "mousesports",
+      "team_name": "Mousesports",
+      "team_code": "MOUZ"
+    },
+    {
+      "team_id": "109783170393931575",
+      "slug": "conviction",
+      "team_name": "Conviction",
+      "team_code": "CNV"
+    },
+    {
+      "team_id": "106269818143576465",
+      "slug": "boom-esports",
+      "team_name": "BOOM Esports",
+      "team_code": "BME"
+    },
+    {
+      "team_id": "104367099322647716",
+      "slug": "liyab-esports",
+      "team_name": "Liyab Esports",
+      "team_code": "LYB"
+    },
+    {
+      "team_id": "103877951616192529",
+      "slug": "cyber-gaming",
+      "team_name": "Cyber Gaming",
+      "team_code": "CG"
+    },
+    {
+      "team_id": "101157821430895725",
+      "slug": "evi",
+      "team_name": "Evi",
+      "team_code": "JP1"
+    },
+    {
+      "team_id": "104234144258996303",
+      "slug": "polska-gurom",
+      "team_name": "POLSKA GUROM",
+      "team_code": "POL"
+    },
+    {
+      "team_id": "109800832177252614",
+      "slug": "szaty-bobra",
+      "team_name": "Orbit Anonymo",
+      "team_code": "OAE"
+    },
+    {
+      "team_id": "107635420167535818",
+      "slug": "sem9",
+      "team_name": "SEM9",
+      "team_code": "S9"
+    },
+    {
+      "team_id": "107582184905264520",
+      "slug": "waia-snikt",
+      "team_name": "Waia Snikt",
+      "team_code": "WS"
+    },
+    {
+      "team_id": "110534751905120040",
+      "slug": "young-buffalos",
+      "team_name": "Young Buffalos",
+      "team_code": "YB"
+    },
+    {
+      "team_id": "107456355516438414",
+      "slug": "eintracht-frankfurt",
+      "team_name": "Eintracht Frankfurt",
+      "team_code": "SGE"
+    },
+    {
+      "team_id": "104710678170825211",
+      "slug": "sinners-esports",
+      "team_name": "SINNERS Esports",
+      "team_code": "SIN"
+    },
+    {
+      "team_id": "108361545122797332",
+      "slug": "aoe-ginger-turmeric",
+      "team_name": "AOE Ginger Turmeric",
+      "team_code": "AGT"
+    },
+    {
+      "team_id": "107599156601411192",
+      "slug": "movistar-optix",
+      "team_name": "Movistar Optix",
+      "team_code": "MOX"
+    },
+    {
+      "team_id": "98767991897792379",
+      "slug": "hong-kong-attitude",
+      "team_name": "Hong Kong Attitude",
+      "team_code": "HKA"
+    },
+    {
+      "team_id": "105503778424809514",
+      "slug": "euronics-gaming",
+      "team_name": "EURONICS Gaming",
+      "team_code": "ESG"
+    },
+    {
+      "team_id": "107251307514079872",
+      "slug": "lxe-esports",
+      "team_name": "LXE ESPORTS",
+      "team_code": "LX"
+    },
+    {
+      "team_id": "103240746429004425",
+      "slug": "jankos",
+      "team_name": "Jankos",
+      "team_code": "EU2"
+    },
+    {
+      "team_id": "101978171845303729",
+      "slug": "mega-esports",
+      "team_name": "MEGA Esports",
+      "team_code": "MG"
+    },
+    {
+      "team_id": "108131965235538611",
+      "slug": "antares-esports",
+      "team_name": "Antares Esports",
+      "team_code": "ANT"
+    },
+    {
+      "team_id": "99322214684939974",
+      "slug": "unicorns-of-love",
+      "team_name": "Unicorns of Love",
+      "team_code": "UOL"
+    },
+    {
+      "team_id": "103535282158162659",
+      "slug": "fastpay-wildcats-akademi",
+      "team_name": "DenizBank İstanbul Wildcats Akademi",
+      "team_code": "IW"
+    },
+    {
+      "team_id": "105521504308341229",
+      "slug": "team-refuse",
+      "team_name": "Team Refuse",
+      "team_code": "RFS"
+    },
+    {
+      "team_id": "103535282148790975",
+      "slug": "galakticos-akademi",
+      "team_name": "GALAKTICOS Akademi",
+      "team_code": "GAL"
+    },
+    {
+      "team_id": "105549993449477104",
+      "slug": "intz-academy",
+      "team_name": "INTZ Academy",
+      "team_code": "ITZ"
+    },
+    {
+      "team_id": "107598712583969458",
+      "slug": "ebro-gaming",
+      "team_name": "EBRO",
+      "team_code": "EBG"
+    },
+    {
+      "team_id": "107258254469504696",
+      "slug": "team-flash",
+      "team_name": "Team Flash",
+      "team_code": "TF"
+    },
+    {
+      "team_id": "103535282113853330",
+      "slug": "5-ronin-akademi",
+      "team_name": "5 Ronin Akademi",
+      "team_code": "5R"
+    },
+    {
+      "team_id": "105520819263036609",
+      "slug": "echo-zulu",
+      "team_name": "The Agency",
+      "team_code": "AGC"
+    },
+    {
+      "team_id": "99566408562477641",
+      "slug": "infinity",
+      "team_name": "INFINITY",
+      "team_code": "INF"
+    },
+    {
+      "team_id": "108361570687544399",
+      "slug": "jakes-kittens",
+      "team_name": "Jake's Kittens",
+      "team_code": "JK"
+    },
+    {
+      "team_id": "109669678317817381",
+      "slug": "fut-team",
+      "team_name": "FUT ESPORTS",
+      "team_code": "FUT"
+    },
+    {
+      "team_id": "99566404578577099",
+      "slug": "jin-air-green-wings",
+      "team_name": "Jin Air Green Wings",
+      "team_code": "JAG"
+    },
+    {
+      "team_id": "107456284318482723",
+      "slug": "mirage-elyandra",
+      "team_name": "Mirage-Elyandra",
+      "team_code": "ME"
+    },
+    {
+      "team_id": "107582615829368757",
+      "slug": "fantasy-gaming",
+      "team_name": "Fantasy Gaming",
+      "team_code": "FSY"
+    },
+    {
+      "team_id": "103743162394217975",
+      "slug": "santos-hotforex",
+      "team_name": "Santos HotForex",
+      "team_code": "SAN"
+    },
+    {
+      "team_id": "99566405123587075",
+      "slug": "clg-academy",
+      "team_name": "CLG Challengers",
+      "team_code": "CLG"
+    },
+    {
+      "team_id": "107603600826620492",
+      "slug": "zeu5-bogota",
+      "team_name": "Zeus Kralik",
+      "team_code": "Z5K"
+    },
+    {
+      "team_id": "103935530333072898",
+      "slug": "ago-rogue",
+      "team_name": "AGO Rogue",
+      "team_code": "RGO"
+    },
+    {
+      "team_id": "102787200141016030",
+      "slug": "rogue-esports-club",
+      "team_name": "Rogue Esports Club",
+      "team_code": "REC1"
+    },
+    {
+      "team_id": "99124844356912967",
+      "slug": "lpl-allstars",
+      "team_name": "LPL All-Stars",
+      "team_code": "LPL"
+    },
+    {
+      "team_id": "105351724613755142",
+      "slug": "lpl-queue-kings",
+      "team_name": "LPL Queue Kings",
+      "team_code": "LPLQ"
+    },
+    {
+      "team_id": "99566408356697119",
+      "slug": "furious-gaming",
+      "team_name": "Furious Gaming",
+      "team_code": "FG"
+    },
+    {
+      "team_id": "99871276356460471",
+      "slug": "griffin",
+      "team_name": "Griffin",
+      "team_code": "GFF"
+    },
+    {
+      "team_id": "105357803054359120",
+      "slug": "bwipo-dream-team",
+      "team_name": "Bwipo Dream Team",
+      "team_code": "BWI"
+    },
+    {
+      "team_id": "105594163014588871",
+      "slug": "boavista-fc",
+      "team_name": "Boavista F.C",
+      "team_code": "BFC"
+    },
+    {
+      "team_id": "107581296208168309",
+      "slug": "tomorrow-esports",
+      "team_name": "Tomorrow Esports",
+      "team_code": "TMR"
+    },
+    {
+      "team_id": "108361565719424734",
+      "slug": "dk-crew",
+      "team_name": "DK Crew",
+      "team_code": "DKC"
+    },
+    {
+      "team_id": "105521293297166647",
+      "slug": "zerolag-esports",
+      "team_name": "Hell Zerolag Esports",
+      "team_code": "HELL"
+    },
+    {
+      "team_id": "101383793572656373",
+      "slug": "excel",
+      "team_name": "EXCEL",
+      "team_code": "XL"
+    },
+    {
+      "team_id": "109698757443650056",
+      "slug": "mad-kings",
+      "team_name": "Mad Kings",
+      "team_code": "MKE"
+    },
+    {
+      "team_id": "98767991846127102",
+      "slug": "ahq-esports-club",
+      "team_name": "ahq eSports Club",
+      "team_code": "AHQ"
+    },
+    {
+      "team_id": "105301877841257613",
+      "slug": "vcs-all-stars",
+      "team_name": "VCS All Stars",
+      "team_code": "VCS"
+    },
+    {
+      "team_id": "108361578564310810",
+      "slug": "team-pending",
+      "team_name": "Team Pending",
+      "team_code": "TBA"
+    },
+    {
+      "team_id": "105594101461473671",
+      "slug": "karma-clan-esports",
+      "team_name": "Karma Clan Esports",
+      "team_code": "KRM"
+    },
+    {
+      "team_id": "105550033967461806",
+      "slug": "drx-challengers",
+      "team_name": "DRX Challengers",
+      "team_code": "DRX"
+    },
+    {
+      "team_id": "99294153824386385",
+      "slug": "golden-guardians",
+      "team_name": "Golden Guardians",
+      "team_code": "GG"
+    },
+    {
+      "team_id": "105593278887024877",
+      "slug": "inaequalis",
+      "team_name": "Inaequalis",
+      "team_code": "INAE"
+    },
+    {
+      "team_id": "105559480124455983",
+      "slug": "sk-gaming-prime",
+      "team_name": "SK Gaming Prime",
+      "team_code": "SKP"
+    },
+    {
+      "team_id": "103240746425727619",
+      "slug": "levi",
+      "team_name": "Levi",
+      "team_code": "VCS2"
+    }
+  ]

@@ -15,7 +15,7 @@ const Footer = () => {
       </div>
 
       {/* Copyright section */}
-      <div className="w-full p-4 text-center" style={{ backgroundColor: '#111827' }}>
+      <div className="w-full p-3 text-center" style={{ backgroundColor: '#111827' }}>
         © 2023 Copyrighted by 
         <a className="text-white ml-2" href="#">
            Mashiour

@@ -1,7 +1,7 @@
 import { BrowserRouter as Router, Routes, Route } from "react-router-dom";
 
 import GetTournamentRankings from "./components/main/Tournament_Ranking/GetTournamentRankings"
-import GlobalRankingsComponent from "./components/main/Global_Ranking/GetTeamsData";
+
 import Team_ranking from './components/main/team_ranking/Team_ranking';
 import GetGlobalRankings from "./components/main/Global_Ranking2/GetTournamentRankings";
 import Navbar from "./components/common/Navbar";
@@ -37,8 +37,6 @@ export default function App() {
 
   const containerStyle = {
     marginLeft: '220px',
-    
-    
     
 };
 

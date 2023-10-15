@@ -2,11 +2,22 @@ import React, { useState } from 'react';
 import axios from 'axios';
 import ShowTournamentData from './ShowTournamentData';
 import { api } from '../API/api';
+import tournamentData from '../API/tournaments_sorted.json';
+import tournamentIdLabel from '../API/onlyidlabel.json';
+
+import {
+  Button
+  
+} from "@material-tailwind/react";
 
 const GetTournamentRankings = () => {
   const [toggle, setToggle] = useState(false);
   const [data, setData] = useState(null);
+
   const [tournament_id, setTournamentId] = useState('');
+  const [tournament_name, setTournamentName] = useState('');
+  
+
   const [stage, setStage] = useState('');
   const [rankings, setRankings] = useState([]);
  
@@ -33,7 +44,7 @@ const GetTournamentRankings = () => {
 
   return (
     <div className="p-4 " style={{marginLeft: '167px', paddingBottom: '160px'}}>
-      <div style={{ display: 'flex', flexDirection: 'row' }}>
+      <div id="buttons" style={{ display: 'flex', flexDirection: 'row', marginLeft: '160px', paddingLeft: '160px' }}>
       <div className="mb-4 mr-4">
         <select
           id="tournamentSelect"
@@ -44,9 +55,20 @@ const GetTournamentRankings = () => {
           <option value="" disabled selected>
           Select Tournament
           </option>
-          <option value="123456789">LPL Summer 2022</option>
+      {
+        
+        tournamentIdLabel.map( (tdata)=>{
+
+            var tid = tdata.leagueId;
+            //setTournamentId(tournament_id);
+            var tournament_name = tdata.leagueLabel
+            return <option value={tid}>{tournament_name}</option> 
+           })
+      }
+         
+          {/* <option value="123456789">LPL Summer 2022</option>
           <option value="12345678">LPL Winter 2022</option>
-          <option value="12345678">LPL Winter 2022</option>
+          <option value="12345678">LPL Winter 2022</option> */}
           {/* Add more options as needed */}
         </select>
       </div>
@@ -57,26 +79,39 @@ const GetTournamentRankings = () => {
         <select
           id="stageSelect"
           value={stage}
-          onChange={(e) => setStage(e.target.value)}
+          onChange={(e) => {setStage(e.target.value)}}
           className="w-50 px-4 py-2 border border-gray-300 rounded focus:outline-none focus:border-blue-500"
         >
           <option value="" disabled selected>
           Select Stage
           </option>
-          <option value="final">Final</option>
+
+          {
+            tournamentData.filter((tdata)=>tdata.leagueId == tournament_id  ).map( (tdata)=>{
+
+              //var tournament_id = tdata.leagueId;
+
+              //var stage = tdata.leagueLabel + " " + tdata.leagueName + " " + tdata.stageName;
+              var stageName = tdata.leagueName + " " + tdata.stageName;
+  
+              return <option value={stageName}>{stageName}</option> 
+             })
+          }
+         
+          {/* <option value="final">Final</option>
           <option value="semifinal">Semifinal</option>
-          <option value="Regular">Regular</option>
+          <option value="Regular">Regular</option> */}
           {/* Add more options as needed */}
         </select>
       </div>
       
       <div>
-      <button
+      <Button
         onClick={handleButtonClick}
         className="bg-black hover:bg-blue-700  text-white font-bold py-2 px-4 rounded inline-flex items-center"
       >
-        Get Data
-      </button>
+        Go
+      </Button>
       </div>
       </div>
       {data ? (

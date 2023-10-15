@@ -6,7 +6,7 @@ export const Flywheel_Board = ({ data, name }) => {
   const [currentPage, setCurrentPage] = useState(1);
   const [searchTerm, setSearchTerm] = useState('');
   const itemsPerPage = 8;
-  const ranking = ['win', 'loss'];
+  const ranking = ['BLUE', 'RED','ALL'];
 
   useEffect(() => {
     sortingRanking();
@@ -56,11 +56,16 @@ export const Flywheel_Board = ({ data, name }) => {
       <div id='button_div' className="flex justify-between items-center mb-4">
       
       <div className="flex items-center">
-        {name} Ranking factor{' '}
+        {
+          name && <span
+          className="ml-2 px-2 py-1 border border-gray-300 rounded focus:outline-none focus:border-blue-500"
+          >{name}</span>
+        }
+         
         <select
           value={selectedRanking}
           onChange={(e) => setSelectedRanking(e.target.value)}
-          className="ml-2 w-30 px-4 py-2 border border-gray-300 rounded focus:outline-none focus:border-blue-500"
+          className="ml-2 px-2 py-1 border border-gray-300 rounded focus:outline-none focus:border-blue-500"
         >
           {ranking.map((value) => (
             <option key={value} value={value}>
@@ -77,22 +82,27 @@ export const Flywheel_Board = ({ data, name }) => {
         />
       </div>
       <div className="pagination mb-2">
-        <span className="mr-2">
-          Page {currentPage} of {totalPages}
+        <span className="ml-2 px-3 py-3 mr-2 border border-gray-300 rounded focus:outline-none focus:border-blue-500">
+          {currentPage} of {totalPages}
         </span>
         <button
           onClick={() => handlePageChange(currentPage - 1)}
           disabled={currentPage === 1}
           className="px-2 py-1 border border-gray-300 rounded focus:outline-none focus:border-blue-500"
         >
-          Previous
+          <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="1.5" stroke="currentColor" class="w-6 h-6">
+  <path stroke-linecap="round" stroke-linejoin="round" d="M11.25 9l-3 3m0 0l3 3m-3-3h7.5M21 12a9 9 0 11-18 0 9 9 0 0118 0z" />
+</svg>
+
         </button>
         <button
           onClick={() => handlePageChange(currentPage + 1)}
           disabled={currentPage === totalPages}
           className="ml-2 px-2 py-1 border border-gray-300 rounded focus:outline-none focus:border-blue-500"
         >
-          Next
+          <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" strokeWidth={1.5} stroke="currentColor" className="w-6 h-6">
+  <path strokeLinecap="round" strokeLinejoin="round" d="M12.75 15l3-3m0 0l-3-3m3 3h-7.5M21 12a9 9 0 11-18 0 9 9 0 0118 0z" />
+</svg>
         </button>
       </div>
 
@@ -102,7 +112,7 @@ export const Flywheel_Board = ({ data, name }) => {
           className="max-w-4xl w-full  px-10 py-10"
           theme="stone"
           scoringMetric={selectedRanking}
-          cell1="team_id"
+          // cell1="team_id"
           cell2="team_code"
           cell3="team_name"
           cell4="rank"

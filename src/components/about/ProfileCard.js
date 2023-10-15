@@ -11,7 +11,8 @@ import {
   
   export function ProfileCard({profileData}) {
     return (
-      <Card className="w-full max-w-[16rem] shadow-lg">
+
+      <Card className="w-full max-w-[14rem] shadow-lg">
         <CardHeader floated={false} color="blue-gray">
           <img
             src={profileData.pic}
@@ -23,12 +24,12 @@ import {
         <CardBody>
           <div className="mb-3 flex items-center justify-between">
             <Typography variant="h5" color="blue-gray" className="font-medium">
-              {profileData.name}
+              {profileData.name} {profileData.role == 'Data Scientist' && <Tooltip content="Captain"><b>{' C'}</b></Tooltip>}
             </Typography>
             
           </div>
           <Typography color="gray">
-            <p>{profileData.role}</p>
+            <p>{profileData.role} </p>
             <p>{profileData.education}</p>
             
           </Typography>
@@ -99,9 +100,7 @@ import {
             
           </div>
         </CardBody>
-        <CardFooter className="pt-3">
-          
-        </CardFooter>
+        {/* <CardFooter className="pt-3"></CardFooter> */}
       </Card>
     );
   }
