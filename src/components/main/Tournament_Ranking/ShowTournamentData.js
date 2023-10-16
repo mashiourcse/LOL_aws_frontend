@@ -22,9 +22,9 @@ const ShowTournamentData = ({ tournament_name, stage, rankings }) => {
   return (
     <div className="p-4 mb-4 py-4">
 
-      <div id='buttonId' style={{marginLeft: '153px', paddingLeft: '255px', paddingBottom: '5px'}}>
-      <span className="ml-2 px-3 py-3 mr-2 border border-gray-300 rounded focus:outline-none focus:border-blue-500">{tournament_name}</span>
-      <span className="ml-2 px-3 py-3 mr-2 border border-gray-300 rounded focus:outline-none focus:border-blue-500">{stage} stage</span>
+      <div id='buttonId' style={{marginLeft: '70px', paddingLeft: '80px', paddingBottom: '5px'}}>
+      <span className="ml-2 px-3 py-3 mr-2 border border-gray-300 rounded focus:outline-none focus:border-blue-500">{tournament_name} </span>
+      <span className="ml-2 px-3 py-3 mr-2 border border-gray-300 rounded focus:outline-none focus:border-blue-500">{stage}</span>
       </div>
 
       <div id="tournament_fly" className="mt-4" >

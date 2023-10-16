@@ -12,7 +12,7 @@ import {
   export function ProfileCard({profileData}) {
     return (
 
-      <Card className="w-full max-w-[14rem] shadow-lg">
+      <Card className="w-full max-w-[16rem] shadow-lg">
         <CardHeader floated={false} color="blue-gray">
           <img
             src={profileData.pic}

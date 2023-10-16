@@ -1,12 +1,13 @@
 import React, { useEffect, useState } from 'react';
 import { Leaderboard } from 'flywheel-leaderboard';
 
-export const Flywheel_Board = ({ data, name }) => {
-  const [selectedRanking, setSelectedRanking] = useState('win');
+
+export const Flywheel_Board = ({ data, name,index }) => {
+  const [selectedRanking, setSelectedRanking] = useState('ranking_points');
   const [currentPage, setCurrentPage] = useState(1);
   const [searchTerm, setSearchTerm] = useState('');
   const itemsPerPage = 8;
-  const ranking = ['BLUE', 'RED','ALL'];
+  const ranking = ['ranking_points', 'BLUE', 'RED','ALL'];
 
   useEffect(() => {
     sortingRanking();
@@ -41,9 +42,14 @@ export const Flywheel_Board = ({ data, name }) => {
       return true;
     }
 
+    // return (
+    //   team.team_code.toLowerCase().includes(searchTerm.toLowerCase())
+    // );
+
     return (
-      team.team_name.toLowerCase().includes(searchTerm.toLowerCase())
-    );
+      team.team_name.toLowerCase().includes(searchTerm.toLowerCase()) || team.team_code.toLowerCase().includes(searchTerm.toLowerCase())
+      //team.team_name.toLowerCase().includes(searchTerm.toLowerCase()) 
+      );
   });
 
   const paginatedData = filteredData.slice((currentPage - 1) * itemsPerPage, currentPage * itemsPerPage);
@@ -53,16 +59,23 @@ export const Flywheel_Board = ({ data, name }) => {
 
   return (
     <div id='flywheel_div'>
-      <div id='button_div' className="flex justify-between items-center mb-4">
-      
-      <div className="flex items-center">
+      <div className='mb-4'>
+      {
+          name && <span
+          className="ml-2 px-2 py-1 border border-gray-300 rounded focus:outline-none focus:border-blue-500"
+          > #{index+1}</span>
+        }
         {
           name && <span
           className="ml-2 px-2 py-1 border border-gray-300 rounded focus:outline-none focus:border-blue-500"
-          >{name}</span>
+          > {name}</span>
         }
-         
-        <select
+         </div>
+      <div id='button_div' className="flex justify-between items-center mb-4">
+      
+      <div className="flex items-center">
+        
+        {/* <select
           value={selectedRanking}
           onChange={(e) => setSelectedRanking(e.target.value)}
           className="ml-2 px-2 py-1 border border-gray-300 rounded focus:outline-none focus:border-blue-500"
@@ -72,12 +85,13 @@ export const Flywheel_Board = ({ data, name }) => {
               {value}
             </option>
           ))}
-        </select>
+        </select> */}
+
         <input
           type="text"
           value={searchTerm}
           onChange={handleSearch}
-          placeholder="Search by name or rank"
+          placeholder="Search by code,name,rank"
           className="ml-2 p-2 border border-gray-300 rounded focus:outline-none focus:border-blue-500"
         />
       </div>
@@ -111,12 +125,12 @@ export const Flywheel_Board = ({ data, name }) => {
         <Leaderboard
           className="max-w-4xl w-full  px-10 py-10"
           theme="stone"
-          scoringMetric={selectedRanking}
+          scoringMetric="ranking_points"
           // cell1="team_id"
           cell2="team_code"
           cell3="team_name"
           cell4="rank"
-          cell5={selectedRanking}
+          cell5={"ranking_points"}
           items={paginatedData}
         />
       </div>

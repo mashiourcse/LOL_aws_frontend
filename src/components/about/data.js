@@ -1,6 +1,6 @@
 import sarah from './images/Sarah.jpg';
 import adel from './images/Adel.jpg'
-import tony from './images/tony.png'
+import tony from './images/tony3.jpg'
 import mark from './images/Mark.jpg'
 import mash from './images/Mash.jpg'
 import rishab from './images/Rishab.jpg'

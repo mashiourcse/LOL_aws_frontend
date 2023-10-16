@@ -25,14 +25,19 @@ const GetTournamentRankings = () => {
     try {
       setData(null);
      // const response = await axios.get(`http://localhost:4000/tournament_rankings/${tournament_id}?stage=${stage}`);
-      const response = await axios.get(`${api}/tournament_rankings/${tournament_id}?stage=${stage}`);
-
+      //const response = await axios.get(`${api}/tournament_rankings/${tournament_id}?stage=${stage}`);
+      //const response = await axios.get(`${api}/getTournamentRankingAPI?${tournament_id}?stage_name=${stage}`);
+      //https://xsvtj1vo7a.execute-api.ap-south-1.amazonaws.com/getTournamentRankingAPI?tournament_id=100695891328981120&stage_name=Play In Groups
+      const response = await axios.get(`https://xsvtj1vo7a.execute-api.ap-south-1.amazonaws.com/getTournamentRankingAPI?tournament_id=${tournament_id}&stage_name=${stage}`);
+      
+      //const response = await axios.get(`https://xsvtj1vo7a.execute-api.ap-south-1.amazonaws.com/getTournamentRankingAPI?tournament_id=100695891328981120&stage_name=Play In Groups`);
+      
       if (response.status !== 200) {
         throw new Error('Network response was not ok');
       }
 
-      setData(response.data.data);
-      setRankings(response.data.data.rankings);
+      setData(response.data);
+      setRankings(response.data.teams);
     } catch (error) {
       console.error('Error fetching data:', error);
     }
@@ -44,7 +49,7 @@ const GetTournamentRankings = () => {
 
   return (
     <div className="p-4 " style={{marginLeft: '167px', paddingBottom: '160px'}}>
-      <div id="buttons" style={{ display: 'flex', flexDirection: 'row', marginLeft: '160px', paddingLeft: '160px' }}>
+      <div id="buttons" style={{ display: 'flex', flexDirection: 'row', marginLeft: '140px', paddingLeft: '20px' }}>
       <div className="mb-4 mr-4">
         <select
           id="tournamentSelect"
@@ -93,6 +98,7 @@ const GetTournamentRankings = () => {
 
               //var stage = tdata.leagueLabel + " " + tdata.leagueName + " " + tdata.stageName;
               var stageName = tdata.leagueName + " " + tdata.stageName;
+              //var stageName = tdata.stageName;
   
               return <option value={stageName}>{stageName}</option> 
              })
@@ -118,8 +124,8 @@ const GetTournamentRankings = () => {
         <>
           <ShowTournamentData
             tournament_name={data.tournament_name}
-            stage={data.stage}
-            rankings={data.rankings}
+            stage={data.stage_name}
+            rankings={data.teams}
           />
         </>
       ) : (
