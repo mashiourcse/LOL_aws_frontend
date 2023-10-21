@@ -6,20 +6,27 @@ import React, { useState, useEffect } from 'react';
 import axios from 'axios';
 import ShowTournamentData from './ShowTournamentData';
 import { api } from '../API/api';
-
+import LoadingSpinner from "../../spinner/LoadingSpinner";
 
 const GetGlobalRankings = () => {
   const [num, setNum] = useState(20);  // Initial value for num
   const [data, setData] = useState(null);
-  
+  const [isLoading, setIsLoading] = useState(false);
+  const [errorMessage, setErrorMessage] = useState("");
   const fetchData = () => {
 
     //fetch(`${api}/global_rankings/?num=${num}`)
     fetch(`https://xsvtj1vo7a.execute-api.ap-south-1.amazonaws.com/global_rankings?number_of_teams=${num}`)
     //fetch(`${api}/global_rankings/?number_of_teams=${num}`)
       .then(response => response.json())
-      .then(data => setData(data.teams))
-      .catch(error => console.error('Error fetching data:', error));
+      .then(data => {
+        setData(data.teams) 
+        setIsLoading(false) })
+      .catch(error => {
+        console.error('Error fetching data:', error)
+        setErrorMessage("Error fetching data");
+        setIsLoading(false)
+    });
   };
 
   // useEffect(() => {
@@ -27,6 +34,7 @@ const GetGlobalRankings = () => {
   // }, [num]);
 
   const handleButtonClick = ()=>{
+    setIsLoading(true);
     fetchData();
    // setData(data1)
    
@@ -62,13 +70,18 @@ const GetGlobalRankings = () => {
       <Button
         onClick={handleButtonClick}
         className="bg-black hover:bg-blue-700 ml-2 text-white font-bold py-2 px-4 rounded inline-flex items-center"
+        disabled={isLoading}
       >
         Go
       </Button>
       </div>
 
       </div>
-      {data ? (
+      {
+        isLoading && <LoadingSpinner />
+
+      }
+      {data && !isLoading ? (
         <>
           <ShowTournamentData
             
@@ -76,7 +89,7 @@ const GetGlobalRankings = () => {
           />
         </>
       ) : (
-        <p></p>
+        <></>
       )}
     </div>
     </div>

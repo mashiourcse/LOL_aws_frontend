@@ -4,6 +4,7 @@ import ShowTournamentData from './ShowTournamentData';
 import { api } from '../API/api';
 import tournamentData from '../API/tournaments_sorted.json';
 import tournamentIdLabel from '../API/onlyidlabel.json';
+import LoadingSpinner from "../../spinner/LoadingSpinner";
 
 import {
   Button
@@ -21,6 +22,10 @@ const GetTournamentRankings = () => {
   const [stage, setStage] = useState('');
   const [rankings, setRankings] = useState([]);
  
+const [isLoading, setIsLoading] = useState(false);
+const [errorMessage, setErrorMessage] = useState("");
+
+
   const fetchData = async () => {
     try {
       setData(null);
@@ -41,12 +46,15 @@ const GetTournamentRankings = () => {
       setData(response.data);
       setRankings(response.data.teams);
       setTournamentName(response.data.leaguelabel)
+      setIsLoading(false)
     } catch (error) {
       console.error('Error fetching data:', error);
+      setIsLoading(false)
     }
   };
 
   const handleButtonClick = () => {
+    setIsLoading(true);
     fetchData();
   };
 
@@ -118,12 +126,17 @@ const GetTournamentRankings = () => {
       <Button
         onClick={handleButtonClick}
         className="bg-black hover:bg-blue-700  text-white font-bold py-2 px-4 rounded inline-flex items-center"
+        disabled={isLoading}
       >
         Go
       </Button>
       </div>
       </div>
-      {data ? (
+      {
+        isLoading && <LoadingSpinner />
+
+      }
+      {data && !isLoading ? (
         <>
           <ShowTournamentData
             tournament_name={tournament_name}

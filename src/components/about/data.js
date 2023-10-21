@@ -11,7 +11,7 @@ export const leader = {
     role: 'Data Scientist',
     pic: adel,
     education: '',
-    github: '',
+    github: 'https://github.com/AdelRCh',
     linkdin: 'https://www.linkedin.com/in/adel-chouadria/',
     devpost: 'https://devpost.com/adelchouadria'
 };
@@ -39,7 +39,7 @@ export const profileData = [
     // },
     {
         name: 'Mashiour Rahman',
-        role: 'UI Architect',
+        role: 'Project Manager',
         pic: mash,
         education: '',
         github: 'https://github.com/mashiourcse',

@@ -30,73 +30,42 @@ const Welcome = () => {
         community,
       </p>
       <p>
-        It is with great pleasure and excitement that I stand before you today
-        to present our project for the League of Legends AWS Hackathon. Our
-        team, comprised of talented individuals, has come together with a shared
-        passion for gaming and the drive to innovate.
+      We are pleased to present our Global Power Ranking project for the Riot x AWS Hackathon, after diligently approaching the problem from various angles. The project is the fruit of several brainstorming sessions and experiments, and it aims to provide rankings that are as realistic as possible.
+
       </p>
-      <p>Allow me to introduce our exceptional team members:</p>
-      <br></br>
+      <p>Based on the FIFA Elo Ranking algorithm, our rankings took under account the following factors:
+</p>
+<br></br>
       <ul>
         <li>
-          <strong>Adel</strong> A maestro in game analysis, Adel brings a keen
-          eye for strategic gameplay, a deep understanding of the League of
-          Legends ecosystem, and a knack for optimizing strategies that can
-          truly elevate our project.
+          <strong>Game outcome</strong> 
         </li>
         <li>
-          <strong>Tony</strong> A dedicated member specializing in game
-          analysis, Tony's analytical mindset and adept knowledge of the game
-          will ensure that our project stands out in terms of in-depth game
-          insights and accurate evaluations.
+          <strong>Game-specific performance</strong> 
         </li>
         <li>
-          <strong>Sarah</strong> Our third game analysis expert, Sarah, adds
-          her unique perspective and expertise to the mix. With her skills, we
-          aim to provide players with insightful metrics and analysis, aiding
-          them in enhancing their performance on the Summoner's Rift.
+          <strong>Game importance as a weight factor (ranging from regional group stage games to World Championship finals)
+</strong> 
         </li>
-        <li>
-          <strong>Mashiour</strong> Steering our project's UI design is
-          Mashiour, a creative genius who possesses an eye for aesthetic appeal
-          and user-centric design. Mashiour is determined to make our
-          application visually appealing and user-friendly, enhancing the
-          overall experience for our users.
-        </li>
-        <li>
-          <strong>Sakshi and Rishab</strong> Our dynamic duo, leading the
-          charge on backend API and database work. Sakshi and Rishab bring to
-          the table unmatched technical prowess, ensuring a seamless and
-          efficient functioning of our application's core, and a robust and
-          reliable database to power our game-changing ranking system.
-        </li>
+        
       </ul>
       <br></br>
       <p>
-        Together, we are a team of six, unified by our shared goal of creating
-        a groundbreaking ranking system for League of Legends enthusiasts.
-        Utilizing the power of AWS, we aim to revolutionize the way players
-        evaluate their performance and improve their gameplay.
+      As team ratings evolve over time, the evolution of Elo rankings can be observed on a regional basis, or with an international take. Teams can also be directly compared to one another as users see fit. Please select your desired option on the left side.
+      </p>
+      <br></br>
+      <p>
+        Our six-person team team consists of UI Architect (<b>Mashiour</b>), Technical Analyst (<b>Sarah</b>), Data Analyst (<b>Tony</b>), Data Scientist (<b>Adel</b>), AWS Backend Dev (<b>Sakshi</b>), AWS Sagemaker (<b>Rishab</b>). 
+      The team leveraged AWS and machine learning algorithms as much as possible to provide this website and our ratings for review. We can't wait to hear what you think of our work, and we look forward to improving the ranking system beyond the Hackathon.
+
       </p>
       
-      <p>
-        Our vision is to provide a comprehensive platform that not only ranks
-        players but also offers valuable insights and recommendations for
-        strategic gameplay. We envision a platform that fosters growth,
-        camaraderie, and a deeper appreciation for the intricacies of League of
-        Legends.
-      </p>
-      <p>
-        Thank you for your attention, and we are excited to showcase our project
-        and demonstrate the passion, dedication, and innovation that has gone
-        into creating this exceptional ranking system. Click below the link for 
-        Project Documentation and make sure to check out our team members.
-      </p>
+      
         </Typography>
       </CardBody>
       <CardFooter className="pt-0">
-        <Button className="mr-2">Project Documentation</Button>
-        <Button>About Team</Button>
+      <a href='https://www.google.com' target='_blank' rel="noreferrer" ><Button className="mr-2">Project Documentation</Button></a>
+      <a href='/about'  ><Button className="mr-2">About Team</Button></a>        
       </CardFooter>
     </Card>
     </div>
