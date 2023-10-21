@@ -13,9 +13,12 @@ const GetGlobalRankings = () => {
   const [data, setData] = useState(null);
   
   const fetchData = () => {
-    fetch(`${api}/global_rankings/?num=${num}`)
+
+    //fetch(`${api}/global_rankings/?num=${num}`)
+    fetch(`https://xsvtj1vo7a.execute-api.ap-south-1.amazonaws.com/global_rankings?number_of_teams=${num}`)
+    //fetch(`${api}/global_rankings/?number_of_teams=${num}`)
       .then(response => response.json())
-      .then(data => setData(data.data))
+      .then(data => setData(data.teams))
       .catch(error => console.error('Error fetching data:', error));
   };
 

@@ -24,11 +24,13 @@ const GetTournamentRankings = () => {
   const fetchData = async () => {
     try {
       setData(null);
-     // const response = await axios.get(`http://localhost:4000/tournament_rankings/${tournament_id}?stage=${stage}`);
+      //const response = await axios.get(`http://localhost:4000/tournament_rankings/${tournament_id}?stage=${stage}`);
       //const response = await axios.get(`${api}/tournament_rankings/${tournament_id}?stage=${stage}`);
+      const response = await axios.get(`https://xsvtj1vo7a.execute-api.ap-south-1.amazonaws.com/tournament_rankings/${tournament_id}?stage_name=${stage}`);
+     
       //const response = await axios.get(`${api}/getTournamentRankingAPI?${tournament_id}?stage_name=${stage}`);
       //https://xsvtj1vo7a.execute-api.ap-south-1.amazonaws.com/getTournamentRankingAPI?tournament_id=100695891328981120&stage_name=Play In Groups
-      const response = await axios.get(`https://xsvtj1vo7a.execute-api.ap-south-1.amazonaws.com/getTournamentRankingAPI?tournament_id=${tournament_id}&stage_name=${stage}`);
+      //const response = await axios.get(`https://xsvtj1vo7a.execute-api.ap-south-1.amazonaws.com/getTournamentRankingAPI?tournament_id=${tournament_id}&stage_name=${stage}`);
       
       //const response = await axios.get(`https://xsvtj1vo7a.execute-api.ap-south-1.amazonaws.com/getTournamentRankingAPI?tournament_id=100695891328981120&stage_name=Play In Groups`);
       
@@ -38,6 +40,7 @@ const GetTournamentRankings = () => {
 
       setData(response.data);
       setRankings(response.data.teams);
+      setTournamentName(response.data.leaguelabel)
     } catch (error) {
       console.error('Error fetching data:', error);
     }
@@ -123,9 +126,9 @@ const GetTournamentRankings = () => {
       {data ? (
         <>
           <ShowTournamentData
-            tournament_name={data.tournament_name}
+            tournament_name={tournament_name}
             stage={data.stage_name}
-            rankings={data.teams}
+            rankings={rankings}
           />
         </>
       ) : (

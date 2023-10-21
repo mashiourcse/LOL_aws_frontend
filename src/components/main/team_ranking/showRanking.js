@@ -3,13 +3,10 @@ import ReactDOM from 'react-dom';
 import "react-responsive-carousel/lib/styles/carousel.min.css"; // requires a loader
 import { Carousel } from 'react-responsive-carousel';
 import {  Button} from "@material-tailwind/react";
-import { Flywheel_Board } from '../../common/Flywheel_Board';
-
-import tournamentData from './tournament.json';
-
-const data = tournamentData.data;
-
-
+import { Flywheel_Board } from '../../common/Flywheel_BoardTR';
+import { MyContext } from './context/MyContext';
+import tournamentData from './data/tournament_map.json';
+import { useContext } from 'react';
 
   
 const buttonStyle = {
@@ -25,23 +22,38 @@ const carouselDiv = {
 
 
 export const ShowRanking = ()=>{
-
+  console.log(tournamentData);
+  let { responseData} = useContext(MyContext);
+  
     const [num, setNum] = useState(0);
     const [showNum, setShowNum] = useState(1);
     const [tournament_name, setTournament_name] = useState('');
+    
+    function getTournamentName(leagueId) {
+
+      console.log(tournamentData);
+      for (const item of tournamentData) {
+        if (item.leagueId === leagueId) {
+          console.log(leagueId);
+          return item.tournament_name;
+        }
+        
+      }
+      return null; // Return null if no match is found
+    }
 
     const handleNumChange = (event) => {
         const inputValue = event.target.value;
-        const dataLen= data.length;
+        const dataLen= responseData.length;
         if(inputValue < dataLen && inputValue >= 0){
           setNum(inputValue);
           setShowNum(parseInt(num+1))
         }
           
-        console.log(data);
+        console.log();
       };
 
-      const [maxValue, setMaxValue] = useState(data.length); // Example: Set the maximum value to 10, replace with your dataset length
+      const [maxValue, setMaxValue] = useState(responseData.length); // Example: Set the maximum value to 10, replace with your dataset length
 
       const handleIncrement = () => {
         setNum(prevNum => (prevNum < maxValue-1 ? prevNum + 1 : prevNum));
@@ -54,7 +66,9 @@ export const ShowRanking = ()=>{
       useEffect(() => {
         // Update the maximum value whenever the dataset length changes
         // Replace 10 with the actual length of your dataset
-        setMaxValue(data.length);
+        setMaxValue(responseData.length);
+        console.log(responseData)
+        
       }, [maxValue]);
     
 
@@ -84,14 +98,18 @@ export const ShowRanking = ()=>{
         </div>
     <div style={carouselDiv}>
     
-        {data.map((tournament, index) => {
+        {responseData.map((tournament, index) => {
           
+          let tournamentName = getTournamentName(tournament.tournament_id);
+          console.log(tournamentName)
           if(index==num){
            // setTournament_name(tournament.tournament_name)
           return <div  key={index}>
             <div >
-              
-            <Flywheel_Board key={index} data={tournament.rankings} name={tournament.tournament_name} index={index} />
+            <Flywheel_Board key={index} data={tournament.team_rankings} 
+            name={tournamentName} 
+            //name={tournamentName}
+            index={index} />
         </div>
           </div>
           }

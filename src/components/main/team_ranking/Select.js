@@ -8,23 +8,34 @@ import {  Button} from "@material-tailwind/react";
 
 
 export const Select = () => {
-
-    let {hideInput, setHideInput, filteredTeams, filteredTournaments} = useContext(MyContext);
+    //teamIds,tournamentIds,
+    let {hideInput, setHideInput, filteredTeams, filteredTournaments,teamIds,tournamentIds,setResponseData} = useContext(MyContext);
+    // const teamIds = ["98767991926151025", "98767991866488695"];
+    // const tournamentIds = ["98767991302996016", "98767991325878496"];
+    console.log(teamIds);
+    console.log(tournamentIds);
+    // Create query strings for team_id and tournament_id
+    const teamIdQueryString = `team_id=[${teamIds.join(',')}]`;
+    const tournamentIdQueryString = `tournament_id=[${tournamentIds.join(',')}]`;
     
+    // Construct the full URL by appending the query strings
+    const url = `https://xsvtj1vo7a.execute-api.ap-south-1.amazonaws.com/teamRankings?${teamIdQueryString}&${tournamentIdQueryString}`;
+    console.log(url);
+    
+  //let url = `https://xsvtj1vo7a.execute-api.ap-south-1.amazonaws.com/teamRankings?team_id=[98767991926151025,98767991866488695]&tournament_id=[98767991302996016,98767991325878496]`;
     const fetchData = async () => {
         try {
-    
-          const response = await axios.get(`${api}/team_rankings/`, {
-            params: {
-              teams: filteredTeams,
-              tournaments: filteredTournaments
-            }
+        
+          const response = await axios.get(url
+                  , {
+           
           });
     
           if (response.status !== 200) {
             throw new Error('Network response was not ok');
           }
-    
+          setResponseData(response.data.teamRanking)
+          console.log(response);
           // setData(response.data.data);
           // setRankings(response.data.data.rankings);
         } catch (error) {
@@ -32,8 +43,8 @@ export const Select = () => {
         }
       };
 
-      const handleButtonClick = () => {
-        fetchData();
+      const handleButtonClick = async() => {
+        await fetchData();
         setHideInput(!hideInput)
       };
 
@@ -49,7 +60,7 @@ export const Select = () => {
             <SelectTournament />
             
             </div>
-            <div className="mt-4" style={{ flex: '1',maxWidth: '150px', }}>
+            <div className="mt-4 pt-2" style={{ flex: '1',maxWidth: '150px', }}>
 
                 <Button className="bg-black hover:bg-blue-700 ml-2 text-white font-bold py-2 px-4 rounded inline-flex items-center" onClick={ handleButtonClick}>Go</Button>
             </div>
