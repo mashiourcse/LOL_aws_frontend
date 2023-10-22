@@ -54,7 +54,7 @@ import {
         </button>
         </a>
             </Tooltip>
-            <Tooltip content="Linkdin">
+            <Tooltip content="Linkedin">
               <a href={profileData.linkdin} target="_blank" rel="noreferrer" >
             <button
   type="button"

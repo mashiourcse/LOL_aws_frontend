@@ -25,7 +25,7 @@ export default function Navbar() {
         <>
           <div className="flex items-center justify-between p-4">
             <div className="ml-6 pl-6 flex items-center">
-             <Tooltip content="Powered By REACT.js">
+             <Tooltip content="Powered By REACT">
              <img
                 className="h-14 w-auto rounded-full"
                 src="/logo192.png"
