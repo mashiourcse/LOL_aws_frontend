@@ -24,7 +24,7 @@ import {
         <CardBody>
           <div className="mb-3 flex items-center justify-between">
             <Typography variant="h5" color="blue-gray" className="font-medium">
-              {profileData.name} {profileData.role == 'Data Scientist' && <Tooltip content="Captain"><b>{' C'}</b></Tooltip>}
+              {profileData.name} 
             </Typography>
             
           </div>

@@ -78,7 +78,7 @@ export const profileData = [
     
     {
         name: 'Rishab Saxena',
-        role: 'Generative AI',
+        role: 'AWS Sagemaker',
         pic: rishab,
         education: '',
         github: '',
