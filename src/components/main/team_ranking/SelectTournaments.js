@@ -47,7 +47,8 @@ export const MultiSelectComponent = () => {
         value={inputValue}
         onChange={handleInputChange}
         onKeyPress={handleInputKeyPress}
-        className="border border-gray-300 rounded px-3 py-2 w-[50%] mb-4 focus:outline-none focus:border-blue-500"
+      //  className="border border-gray-300 rounded px-3 py-2 w-[50%] mb-4 focus:outline-none focus:border-blue-500"
+        className="w-30 px-4 py-2 border border-gray-300 rounded focus:outline-none focus:border-blue-500"
         style={{paddingRight: '16.75rem'}}
       >
         <option value="" disabled selected>
@@ -62,6 +63,7 @@ export const MultiSelectComponent = () => {
        
         {/* Add more options as needed */}
       </select>
+      <div className='mb-2 mt-2'>
       <Button
       className="bg-black hover:bg-blue-700 ml-2 text-white font-bold py-2 px-4 rounded inline-flex items-center"
       onClick={() => handleAddTournament()}
@@ -69,7 +71,7 @@ export const MultiSelectComponent = () => {
       <Button
       className="bg-black hover:bg-blue-700 ml-2 text-white font-bold py-2 px-4 rounded inline-flex items-center"
       onClick={() => addTournaments()}
-    >Confirm</Button></> : ''
+    >Confirm</Button></div></> : ''
       }
       <ul>
         {selectedOptions.map((option, index) => (

@@ -52,8 +52,9 @@ export const MultiSelectComponent = () => {
             value={inputValue}
             onChange={handleInputChange}
             onKeyPress={handleInputKeyPress}
-            className="border border-gray-300 rounded px-3 py-2 w-[50%] mb-4 focus:outline-none focus:border-blue-500"
-            style={{ paddingRight: '11.75rem' }}
+           // className="border border-gray-300 rounded px-3 py-2 w-[50%] mb-4 focus:outline-none focus:border-blue-500"
+            className="px-4 w-50 py-2 border border-gray-300 rounded focus:outline-none focus:border-blue-500"
+           // style={{ paddingRight: '11.75rem' }}
           >
             <option value="" disabled selected>
               Select Team
@@ -64,6 +65,7 @@ export const MultiSelectComponent = () => {
               </option>
             ))}
           </select>
+          <div className='mb-2 mt-2'>
           <Button
             className="bg-black hover:bg-blue-700 ml-2 text-white font-bold py-2 px-4 rounded inline-flex items-center"
             onClick={handleAddTeam}
@@ -77,6 +79,7 @@ export const MultiSelectComponent = () => {
           >
             Confirm
           </Button>
+          </div>
         </>
       ) : (
         ''
