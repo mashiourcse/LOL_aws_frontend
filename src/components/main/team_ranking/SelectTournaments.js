@@ -8,7 +8,7 @@ export const MultiSelectComponent = () => {
   const [inputValue, setInputValue] = useState('');
   const [selectedOptions, setSelectedOptions] = useState([]);
   const [inputShow, setInputShow] = useState(true);
-  const {setTournaments, tournamentSuggestion} = useContext(MyContext);
+  const {setTournaments, tournamentSuggestion, setConfirmTour} = useContext(MyContext);
 
   const handleInputChange = (event) => {
     setInputValue(event.target.value);
@@ -37,6 +37,7 @@ export const MultiSelectComponent = () => {
   const addTournaments = ()=>{
     setTournaments(selectedOptions);
     setInputShow(false);
+    setConfirmTour(true);
   }
 
   return (

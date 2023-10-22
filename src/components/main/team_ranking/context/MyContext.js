@@ -9,7 +9,8 @@ const MyProvider = ( {children}) => {
     const [tournaments, setTournaments] = useState([]);
     const [hideInput, setHideInput] = useState(false);
     const [responseData, setResponseData] = useState(null);
-
+    const [confirmTeam, setConfirmTeam] = useState(false);
+    const [confirmTour, setConfirmTour] = useState(false);
     //  const teamSuggestion = [{team_id: 1, team_name: "T1"}, {team_id: 2, team_name: "DRX"}, {team_id: 3, team_name: "JDG"}, {team_id: 4, team_name: "LNG"}];
     const teamSuggestion = allTeams;
 
@@ -22,7 +23,7 @@ const MyProvider = ( {children}) => {
     const teamIds = filteredTeams.map(team=>team.team_id)
     const tournamentIds = filteredTournaments.map(tournament=>tournament.leagueId)
     return (
-        <MyContext.Provider value={{ teamIds, tournamentIds, teamSuggestion, tournamentSuggestion, teams, setTeams, tournaments, setTournaments, filteredTeams, filteredTournaments, hideInput,setHideInput,responseData,setResponseData}}>
+        <MyContext.Provider value={{ confirmTour, setConfirmTour, confirmTeam, setConfirmTeam, teamIds, tournamentIds, teamSuggestion, tournamentSuggestion, teams, setTeams, tournaments, setTournaments, filteredTeams, filteredTournaments, hideInput,setHideInput,responseData,setResponseData}}>
             {children}
         </MyContext.Provider>
     );

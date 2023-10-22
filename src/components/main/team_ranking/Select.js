@@ -9,12 +9,12 @@ import LoadingSpinner from "../../spinner/LoadingSpinner";
 
 export const Select = () => {
 
-const [enableGo, setEnableGo] = useState(false);  
+
 const [isLoading, setIsLoading] = useState(false);
 const [errorMessage, setErrorMessage] = useState("");
 
     //teamIds,tournamentIds,
-    let {hideInput, setHideInput, filteredTeams, filteredTournaments,teamIds,tournamentIds,setResponseData} = useContext(MyContext);
+    let {confirmTeam, confirmTour, hideInput, setHideInput, filteredTeams, filteredTournaments,teamIds,tournamentIds,setResponseData} = useContext(MyContext);
     // const teamIds = ["98767991926151025", "98767991866488695"];
     // const tournamentIds = ["98767991302996016", "98767991325878496"];
     console.log(teamIds);
@@ -73,7 +73,7 @@ const [errorMessage, setErrorMessage] = useState("");
             <div className="mt-4 pt-2" style={{ flex: '1',maxWidth: '150px', }}>
 
                 <Button className="bg-black hover:bg-blue-700 ml-2 text-white font-bold py-2 px-4 rounded inline-flex items-center" onClick={ handleButtonClick} 
-disabled={enableGo}>Go</Button>
+disabled={!confirmTeam || !confirmTour}>Go</Button>
             </div>
             </div>
     

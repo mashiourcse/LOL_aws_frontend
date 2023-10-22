@@ -5,7 +5,7 @@ import { Button } from "@material-tailwind/react";
 export const MultiSelectComponent = () => {
   const [inputValue, setInputValue] = useState('');
   const [selectedOptions, setSelectedOptions] = useState([]);
-  const { setTeams, teamSuggestion } = useContext(MyContext);
+  const { setTeams, teamSuggestion,setConfirmTeam } = useContext(MyContext);
   const [inputShow, setInputShow] = useState(true);
   const [sortedTeamSuggestions, setSortedTeamSuggestions] = useState([]);
 
@@ -41,6 +41,7 @@ export const MultiSelectComponent = () => {
   const addTeams = () => {
     setTeams(selectedOptions);
     setInputShow(false);
+    setConfirmTeam(true);
   };
 
   return (

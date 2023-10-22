@@ -26,7 +26,7 @@ export default function Navbar() {
             <div className="ml-4 flex items-center">
               <img
                 className="h-14 w-auto rounded-full"
-                src="/hackathon2.png"
+                src="/logo192.png"
                 alt="Hackathon"
               />
               
