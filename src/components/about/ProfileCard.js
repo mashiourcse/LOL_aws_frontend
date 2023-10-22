@@ -30,7 +30,7 @@ import {
           </div>
           <Typography color="gray">
             <p>{profileData.role} </p>
-            <p>{profileData.education}</p>
+            <p><b>{profileData.education}</b></p>
             
           </Typography>
           <div className="group mt-8 inline-flex flex-wrap items-center gap-3">

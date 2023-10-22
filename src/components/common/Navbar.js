@@ -1,5 +1,6 @@
 import { Fragment } from 'react'
 import { Disclosure, Menu, Transition } from '@headlessui/react'
+import { Tooltip } from '@material-tailwind/react';
 
 const navigation = [
   { name: 'Introduction', href: '/', current: false },
@@ -23,12 +24,15 @@ export default function Navbar() {
       {({ open }) => (
         <>
           <div className="flex items-center justify-between p-4">
-            <div className="ml-4 flex items-center">
-              <img
+            <div className="ml-6 pl-6 flex items-center">
+             <Tooltip content="Powered By REACT.js">
+             <img
                 className="h-14 w-auto rounded-full"
                 src="/logo192.png"
                 alt="Hackathon"
               />
+             </Tooltip>
+              
               
             </div>
             
