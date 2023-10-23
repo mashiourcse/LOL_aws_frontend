@@ -65,8 +65,10 @@ const GetGlobalRankings = () => {
 
       
       
-      <div id="buttonDiv" className='buttons' style={{marginLeft: '85px', paddingLeft: '170px'}}>
-      <input className="shadow appearance-none border rounded w-50% py-2 px-3 mb-2 ml-40 text-gray-700 leading-tight focus:outline-none focus:shadow-outline" type="number" value={num} onChange={handleNumChange} />
+      <div id="buttonDiv" className='buttons' style={{marginLeft: '85px', paddingLeft: '200px'}}>
+      <span className="shadow appearance-none border rounded w-50% py-2 px-3 mb-2 ml-2 text-gray-700 leading-tight focus:outline-none focus:shadow-outline">Number of teams </span>  
+      <input 
+      className="shadow appearance-none border rounded w-50% py-2 px-3 mb-2 ml-2 text-gray-700 leading-tight focus:outline-none focus:shadow-outline" type="number" value={num} onChange={handleNumChange} />
       <Button
         onClick={handleButtonClick}
         className="bg-black hover:bg-blue-700 ml-2 text-white font-bold py-2 px-4 rounded inline-flex items-center"
