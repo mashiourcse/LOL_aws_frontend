@@ -15,7 +15,7 @@ const GetTournamentRankings = () => {
 
   const [tournament_id, setTournamentId] = useState('');
   const [tournament_name, setTournamentName] = useState('');
-  
+  const [selectedStage, setSelectedStage] = useState('');
 
   const [stage, setStage] = useState('');
   const [rankings, setRankings] = useState([]);
@@ -37,6 +37,7 @@ const [errorMessage, setErrorMessage] = useState("");
       setData(response.data);
       setRankings(response.data.teams);
       setTournamentName(response.data.leaguelabel)
+      setSelectedStage(stage)
       setIsLoading(false)
     } catch (error) {
       console.error('Error fetching data:', error);
@@ -56,7 +57,10 @@ const [errorMessage, setErrorMessage] = useState("");
           <select
             id="tournamentSelect"
             value={tournament_id}
-            onChange={(e) => setTournamentId(e.target.value)}
+            onChange={(e) => {
+              setTournamentId(e.target.value)
+              setStage('')
+            }}
             className="w-30 px-4 py-2 border border-gray-300 rounded focus:outline-none focus:border-blue-500"
           >
             <option value="" disabled selected>
@@ -104,7 +108,7 @@ const [errorMessage, setErrorMessage] = useState("");
       {data && !isLoading && (
         <ShowTournamentData
           tournament_name={tournament_name}
-          stage={stage}
+          stage={selectedStage}
           rankings={rankings}
         />
       )}
