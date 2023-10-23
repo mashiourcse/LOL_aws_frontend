@@ -1,6 +1,6 @@
 import React, { useState } from 'react';
 import allTeams from '../data/teams_map.json';
-import allTournaments from '../data/tournament_map.json';
+import allTournaments from '../data/tournament_map_updated.json';
 const MyContext = React.createContext('teams');
 
 const MyProvider = ( {children}) => {
