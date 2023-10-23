@@ -39,7 +39,7 @@ export const profileData = [
     // },
     {
         name: 'Mashiour Rahman',
-        role: 'Project Manager',
+        role: 'UI Architect',
         pic: mash,
         education: '"Average LOL Player"',
         github: 'https://github.com/mashiourcse',
@@ -50,7 +50,7 @@ export const profileData = [
         name: 'Adel Choudria',
         role: `Data Scientist`,
         pic: adel,
-        education: '"Worked In LEC"',
+        education: '"Interviewed Jankos in 2013"',
         github: '',
         linkdin: 'https://www.linkedin.com/in/adel-chouadria/',
         devpost: 'https://devpost.com/adelchouadria'
