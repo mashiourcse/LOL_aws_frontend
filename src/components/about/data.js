@@ -21,7 +21,7 @@ export const profileData = [
    
     {
         name: 'Sarah Armstrong',
-        role: 'Data Science Statistics',
+        role: 'Data Science-Statistics',
         pic: sarah,
         education: '"Good At Math"',
         github: 'https://github.com/saraharmstrong314',
