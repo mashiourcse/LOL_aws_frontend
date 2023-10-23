@@ -3,15 +3,31 @@ import { Leaderboard } from 'flywheel-leaderboard';
 
 
 export const Flywheel_Board = ({ data, name,index }) => {
+  //const [selectedRanking, setSelectedRanking] = useState('rating');
   const [selectedRanking, setSelectedRanking] = useState('ranking_points');
   const [currentPage, setCurrentPage] = useState(1);
   const [searchTerm, setSearchTerm] = useState('');
-  const itemsPerPage = 8;
-  const ranking = ['ranking_points', 'BLUE', 'RED','ALL'];
+  const [itemsPerPage, setItemsPerPage] = useState(5);
+  //const itemsPerPage = 5;
+  //const ranking = ['ranking_points', 'BLUE', 'RED','ALL'];
 
   useEffect(() => {
     sortingRanking();
   }, [selectedRanking, data, currentPage]);
+
+  const incrementItemsPerPage = () => {
+    // Increase the itemsPerPage value by 1 (or any other desired value)
+    if(itemsPerPage < data.length)
+      setItemsPerPage(itemsPerPage + 1);
+  };
+
+  const decrementItemsPerPage = () => {
+    // Ensure itemsPerPage does not go below 1
+    if (itemsPerPage > 1) {
+      // Decrease the itemsPerPage value by 1 (or any other desired value)
+      setItemsPerPage(itemsPerPage - 1);
+    }
+  };
 
   const sortingRanking = () => {
     const sortedData = [...data];
@@ -86,7 +102,43 @@ export const Flywheel_Board = ({ data, name,index }) => {
             </option>
           ))}
         </select> */}
-
+      <button
+            onClick={incrementItemsPerPage}
+            
+            className="px-2 py-1 border border-gray-300 rounded focus:outline-none focus:border-blue-500"
+          >
+            <svg
+      viewBox="0 0 1024 1024"
+      fill="currentColor"
+      height="1.5em"
+      width="1.5em"
+     // {...props}
+    >
+      <path d="M696 480H544V328c0-4.4-3.6-8-8-8h-48c-4.4 0-8 3.6-8 8v152H328c-4.4 0-8 3.6-8 8v48c0 4.4 3.6 8 8 8h152v152c0 4.4 3.6 8 8 8h48c4.4 0 8-3.6 8-8V544h152c4.4 0 8-3.6 8-8v-48c0-4.4-3.6-8-8-8z" />
+      <path d="M512 64C264.6 64 64 264.6 64 512s200.6 448 448 448 448-200.6 448-448S759.4 64 512 64zm0 820c-205.4 0-372-166.6-372-372s166.6-372 372-372 372 166.6 372 372-166.6 372-372 372z" />
+    </svg>
+          </button>
+          <button
+            onClick={decrementItemsPerPage}
+           
+            className="ml-2 px-2 py-1 border border-gray-300 rounded focus:outline-none focus:border-blue-500"
+          >
+            <svg
+      fill="none"
+      stroke="currentColor"
+      strokeLinecap="round"
+      strokeLinejoin="round"
+      strokeWidth={2}
+      viewBox="0 0 24 24"
+      height="1.5em"
+      width="1.5em"
+    //  {...props}
+    >
+      <path d="M22 12 A10 10 0 0 1 12 22 A10 10 0 0 1 2 12 A10 10 0 0 1 22 12 z" />
+      <path d="M8 12h8" />
+    </svg>
+          </button>
+          
         <input
           type="text"
           value={searchTerm}
@@ -126,10 +178,12 @@ export const Flywheel_Board = ({ data, name,index }) => {
           className="max-w-4xl w-full  px-10 py-10"
           theme="stone"
           scoringMetric="ranking_points"
+         // scoringMetric="rating"
           // cell1="team_id"
           cell2="team_code"
           cell3="team_name"
           cell4="rank"
+         // cell5={"rating"}
           cell5={"ranking_points"}
           items={paginatedData}
         />

@@ -2,13 +2,11 @@ import React, { useState } from 'react';
 import axios from 'axios';
 import ShowTournamentData from './ShowTournamentData';
 import { api } from '../API/api';
-import tournamentData from '../API/tournaments_sorted.json';
-import tournamentIdLabel from '../API/onlyidlabel.json';
+import tournamentData from '../API/first_api.json';
+import tournamentIdLabel from '../API/final_leagueId_label.json';
 import LoadingSpinner from "../../spinner/LoadingSpinner";
-
 import {
   Button
-  
 } from "@material-tailwind/react";
 
 const GetTournamentRankings = () => {
@@ -29,16 +27,9 @@ const [errorMessage, setErrorMessage] = useState("");
   const fetchData = async () => {
     try {
       setData(null);
-      //const response = await axios.get(`http://localhost:4000/tournament_rankings/${tournament_id}?stage=${stage}`);
-      //const response = await axios.get(`${api}/tournament_rankings/${tournament_id}?stage=${stage}`);
+     // const response = await axios.get(`https://xsvtj1vo7a.execute-api.ap-south-1.amazonaws.com/tournament_rankings/${tournament_id}?stage_name=${stage}`);
       const response = await axios.get(`https://xsvtj1vo7a.execute-api.ap-south-1.amazonaws.com/tournament_rankings/${tournament_id}?stage_name=${stage}`);
-     
-      //const response = await axios.get(`${api}/getTournamentRankingAPI?${tournament_id}?stage_name=${stage}`);
-      //https://xsvtj1vo7a.execute-api.ap-south-1.amazonaws.com/getTournamentRankingAPI?tournament_id=100695891328981120&stage_name=Play In Groups
-      //const response = await axios.get(`https://xsvtj1vo7a.execute-api.ap-south-1.amazonaws.com/getTournamentRankingAPI?tournament_id=${tournament_id}&stage_name=${stage}`);
-      
-      //const response = await axios.get(`https://xsvtj1vo7a.execute-api.ap-south-1.amazonaws.com/getTournamentRankingAPI?tournament_id=100695891328981120&stage_name=Play In Groups`);
-      
+    
       if (response.status !== 200) {
         throw new Error('Network response was not ok');
       }
@@ -53,99 +44,69 @@ const [errorMessage, setErrorMessage] = useState("");
     }
   };
 
-  const handleButtonClick = () => {
+  const handleButtonClick = async() => {
     setIsLoading(true);
-    fetchData();
+    await fetchData();
   };
 
   return (
-    <div className="p-4 " style={{marginLeft: '167px', paddingBottom: '160px'}}>
+    <div className="p-4" style={{ marginLeft: '167px', paddingBottom: '160px' }}>
       <div id="buttons" style={{ display: 'flex', flexDirection: 'row', marginLeft: '140px', paddingLeft: '20px' }}>
-      <div className="mb-4 mr-4">
-        <select
-          id="tournamentSelect"
-          value={tournament_id}
-          onChange={(e) => setTournamentId(e.target.value)}
-          className="w-30 px-4 py-2 border border-gray-300 rounded focus:outline-none focus:border-blue-500"
-        >
-          <option value="" disabled selected>
-          Select Tournament
-          </option>
-      {
-        
-        tournamentIdLabel.map( (tdata)=>{
+        <div className="mb-4 mr-4">
+          <select
+            id="tournamentSelect"
+            value={tournament_id}
+            onChange={(e) => setTournamentId(e.target.value)}
+            className="w-30 px-4 py-2 border border-gray-300 rounded focus:outline-none focus:border-blue-500"
+          >
+            <option value="" disabled selected>
+              Select Tournament
+            </option>
+            {tournamentData.map((tdata, index) => (
+              <option key={index} value={tdata.leagueId}>
+                {tdata.leagueLabel}
+              </option>
+            ))}
+          </select>
+        </div>
 
-            var tid = tdata.leagueId;
-            //setTournamentId(tournament_id);
-            var tournament_name = tdata.leagueLabel
-            return <option value={tid}>{tournament_name}</option> 
-           })
-      }
-         
-          {/* <option value="123456789">LPL Summer 2022</option>
-          <option value="12345678">LPL Winter 2022</option>
-          <option value="12345678">LPL Winter 2022</option> */}
-          {/* Add more options as needed */}
-        </select>
+        <div className="mb-4 mr-4">
+          <select
+            id="stageSelect"
+            value={stage}
+            onChange={(e) => setStage(e.target.value)}
+            className="w-50 px-4 py-2 border border-gray-300 rounded focus:outline-none focus:border-blue-500"
+          >
+            <option value="" disabled selected>
+              Select Stage
+            </option>
+            {tournamentData
+              .find((tdata) => tdata.leagueId === tournament_id)
+              ?.stage_name.map((stageName, index) => (
+                <option key={index} value={stageName}>
+                  {stageName}
+                </option>
+              ))}
+          </select>
+        </div>
+
+        <div>
+          <Button
+            onClick={handleButtonClick}
+            className="bg-black hover.bg-blue-700 text-white font-bold py-2 px-4 rounded inline.flex items-center"
+            disabled={isLoading}
+          >
+            Go
+          </Button>
+        </div>
       </div>
-
-
-      <div className="mb-4 mr-4">
-        
-        <select
-          id="stageSelect"
-          value={stage}
-          onChange={(e) => {setStage(e.target.value)}}
-          className="w-50 px-4 py-2 border border-gray-300 rounded focus:outline-none focus:border-blue-500"
-        >
-          <option value="" disabled selected>
-          Select Stage
-          </option>
-
-          {
-            tournamentData.filter((tdata)=>tdata.leagueId == tournament_id  ).map( (tdata)=>{
-
-              //var tournament_id = tdata.leagueId;
-
-              //var stage = tdata.leagueLabel + " " + tdata.leagueName + " " + tdata.stageName;
-              var stageName = tdata.leagueName + " " + tdata.stageName;
-              //var stageName = tdata.stageName;
-  
-              return <option value={stageName}>{stageName}</option> 
-             })
-          }
-         
-          {/* <option value="final">Final</option>
-          <option value="semifinal">Semifinal</option>
-          <option value="Regular">Regular</option> */}
-          {/* Add more options as needed */}
-        </select>
-      </div>
-      
-      <div>
-      <Button
-        onClick={handleButtonClick}
-        className="bg-black hover:bg-blue-700  text-white font-bold py-2 px-4 rounded inline-flex items-center"
-        disabled={isLoading}
-      >
-        Go
-      </Button>
-      </div>
-      </div>
-      {
-        isLoading && <LoadingSpinner />
-
-      }
-      {data && !isLoading ? (
-        <>
-          <ShowTournamentData
-            tournament_name={tournament_name}
-            stage={data.stage_name}
-            rankings={rankings}
-          />
-        </>
-      ) : (
-        <p></p>
+      {isLoading && <LoadingSpinner />}
+      {data && !isLoading && (
+        <ShowTournamentData
+          tournament_name={tournament_name}
+          stage={stage}
+          rankings={rankings}
+        />
       )}
     </div>
   );

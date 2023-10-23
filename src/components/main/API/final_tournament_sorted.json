@@ -1,0 +1,224 @@
+[
+    {
+        "leagueId": "98767991314006704",
+        "leagueLabel": "LPL",
+        "stage_name": "Spring Regular Season 2020",
+        "tournament_name": "LPL Spring 2020"
+    },
+    {
+        "leagueId": "98767975604431408",
+        "leagueLabel": "Worlds",
+        "stage_name": "Worlds 2020 Group Stage 2020",
+        "tournament_name": "Worlds Worlds 2020 2020"
+    },
+    {
+        "leagueId": "98767991302996016",
+        "leagueLabel": "LEC",
+        "stage_name": "LEC Spring 2020 Regular Season 2020",
+        "tournament_name": "LEC LEC Spring 2020 2020"
+    },
+    {
+        "leagueId": "98767991332355504",
+        "leagueLabel": "CBLOL",
+        "stage_name": "CBLOL 2020 Split 1 Regular Season 2020",
+        "tournament_name": "CBLOL CBLOL 2020 Split 1 2020"
+    },
+    {
+        "leagueId": "98767991299243168",
+        "leagueLabel": "LCS",
+        "stage_name": "LCS Spring 2020 Regular Season 2020",
+        "tournament_name": "LCS LCS Spring 2020 2020"
+    },
+    {
+        "leagueId": "98767991331560960",
+        "leagueLabel": "LCO",
+        "stage_name": "OPL 2020 Split 1 Regular Season 2020",
+        "tournament_name": "LCO OPL 2020 Split 1 2020"
+    },
+    {
+        "leagueId": "98767991343597632",
+        "leagueLabel": "TCL",
+        "stage_name": "TCL Winter 2020 Regular Season 2020",
+        "tournament_name": "TCL TCL Winter 2020 2020"
+    },
+    {
+        "leagueId": "98767991310872064",
+        "leagueLabel": "LCK",
+        "stage_name": "LCK 2020 Spring Split Regular Season 2020",
+        "tournament_name": "LCK LCK 2020 Spring Split 2020"
+    },
+    {
+        "leagueId": "98767991349978720",
+        "leagueLabel": "LJL",
+        "stage_name": "LJL Spring 2020 Regular Season 2020",
+        "tournament_name": "LJL LJL Spring 2020 2020"
+    },
+    {
+        "leagueId": "101382741235120464",
+        "leagueLabel": "LLA",
+        "stage_name": "LLA 2020 Spring Split Regular Season 2020",
+        "tournament_name": "LLA LLA 2020 Spring Split 2020"
+    },
+    {
+        "leagueId": "100695891328981120",
+        "leagueLabel": "EMEA Masters",
+        "stage_name": "EU Masters Spring 2020 Group Stage 2020",
+        "tournament_name": "EMEA Masters EU Masters Spring 2020 2020"
+    },
+    {
+        "leagueId": "104366947889790208",
+        "leagueLabel": "PCS",
+        "stage_name": "PCS Summer 2020 Regular Season 2020",
+        "tournament_name": "PCS PCS Summer 2020 2020"
+    },
+    {
+        "leagueId": "98767991325878496",
+        "leagueLabel": "MSI",
+        "stage_name": "MSI 2021 Group Stage 2021",
+        "tournament_name": "MSI MSI 2021 2021"
+    },
+    {
+        "leagueId": "105266094998946944",
+        "leagueLabel": "PG Nationals",
+        "stage_name": "PG Nationals Spring 2021 Regular Season 2021",
+        "tournament_name": "PG Nationals PG Nationals Spring 2021 2021"
+    },
+    {
+        "leagueId": "98767991335774720",
+        "leagueLabel": "LCK Challengers",
+        "stage_name": "LCK Challengers Spring 2021 Regular Season 2021",
+        "tournament_name": "LCK Challengers LCK Challengers Spring 2021 2021"
+    },
+    {
+        "leagueId": "105266108767593296",
+        "leagueLabel": "Greek Legends League",
+        "stage_name": "Greek Legends League Spring 2021 Regular Season 2021",
+        "tournament_name": "Greek Legends League Greek Legends League Spring 2021 2021"
+    },
+    {
+        "leagueId": "105266074488398656",
+        "leagueLabel": "SuperLiga",
+        "stage_name": "Superliga Spring 2021 Regular Season 2021",
+        "tournament_name": "SuperLiga Superliga Spring 2021 2021"
+    },
+    {
+        "leagueId": "105266088231437424",
+        "leagueLabel": "Ultraliga",
+        "stage_name": "Ultraliga Spring 2021 Regular Season 2021",
+        "tournament_name": "Ultraliga Ultraliga Spring 2021 2021"
+    },
+    {
+        "leagueId": "105266091639104320",
+        "leagueLabel": "Prime League",
+        "stage_name": "Prime League Spring 2021 Regular Season 2021",
+        "tournament_name": "Prime League Prime League Spring 2021 2021"
+    },
+    {
+        "leagueId": "105266103462388560",
+        "leagueLabel": "La Ligue Fran\u00e7aise",
+        "stage_name": "LFL Spring 2021 Regular Season 2021",
+        "tournament_name": "La Ligue Fran\u00e7aise LFL Spring 2021 2021"
+    },
+    {
+        "leagueId": "105266098308571968",
+        "leagueLabel": "NLC",
+        "stage_name": "NLC Spring 2021 Regular Season 2021",
+        "tournament_name": "NLC NLC Spring 2021 2021"
+    },
+    {
+        "leagueId": "105266111679554384",
+        "leagueLabel": "Esports Balkan League",
+        "stage_name": "Esports Balkan League Spring 2021 Regular Season 2021",
+        "tournament_name": "Esports Balkan League Esports Balkan League Spring 2021 2021"
+    },
+    {
+        "leagueId": "105266101075764032",
+        "leagueLabel": "Liga Portuguesa",
+        "stage_name": "Liga Portuguesa Spring 2021 Regular Season 2021",
+        "tournament_name": "Liga Portuguesa Liga Portuguesa Spring 2021 2021"
+    },
+    {
+        "leagueId": "105266106309666624",
+        "leagueLabel": "Hitpoint Masters",
+        "stage_name": "Hitpoint Masters Spring 2021 Regular Season 2021",
+        "tournament_name": "Hitpoint Masters Hitpoint Masters Spring 2021 2021"
+    },
+    {
+        "leagueId": "98767991355908944",
+        "leagueLabel": "LCL",
+        "stage_name": "LCL Spring 2021 Regular Season 2021",
+        "tournament_name": "LCL LCL Spring 2021 2021"
+    },
+    {
+        "leagueId": "105549980953490848",
+        "leagueLabel": "CBLOL Academy",
+        "stage_name": "CBLOL Academy Split 1 2021 Regular Season 2021",
+        "tournament_name": "CBLOL Academy CBLOL Academy Split 1 2021 2021"
+    },
+    {
+        "leagueId": "105709090213554608",
+        "leagueLabel": "LCO",
+        "stage_name": "LCO Split 2 2021 Regular Season 2021",
+        "tournament_name": "LCO LCO Split 2 2021 2021"
+    },
+    {
+        "leagueId": "106827757669296912",
+        "leagueLabel": "LJL Academy",
+        "stage_name": "LJL Academy 2021 Regular Season 2021",
+        "tournament_name": "LJL Academy LJL Academy 2021 2021"
+    },
+    {
+        "leagueId": "107213827295848784",
+        "leagueLabel": "VCS",
+        "stage_name": "VCS Winter 2021 Regular Season 2021",
+        "tournament_name": "VCS VCS Winter 2021 2021"
+    },
+    {
+        "leagueId": "107407335299756368",
+        "leagueLabel": "Elite Series",
+        "stage_name": "Elite Series Spring 2022 Regular Season 2022",
+        "tournament_name": "Elite Series Elite Series Spring 2022 2022"
+    },
+    {
+        "leagueId": "108203770023880320",
+        "leagueLabel": "LCK Academy",
+        "stage_name": "2022 LCK Academy 1  Regular Season 2022",
+        "tournament_name": "LCK Academy 2022 LCK Academy 1  2022"
+    },
+    {
+        "leagueId": "107898214974993344",
+        "leagueLabel": "College Championship",
+        "stage_name": "College Championship 2022 Playoffs 2022",
+        "tournament_name": "College Championship College Championship 2022 2022"
+    },
+    {
+        "leagueId": "109511549831443328",
+        "leagueLabel": "LCS Challengers",
+        "stage_name": "Spring 2023 Regular Season 2023",
+        "tournament_name": "LCS Challengers Spring 2023 2023"
+    },
+    {
+        "leagueId": "109518549825754240",
+        "leagueLabel": "LCS Challengers Qualifiers",
+        "stage_name": "Promotion Spring 2023 Playoffs 2023",
+        "tournament_name": "LCS Challengers Qualifiers Promotion Spring 2023 2023"
+    },
+    {
+        "leagueId": "109545772895506416",
+        "leagueLabel": "Arabian League",
+        "stage_name": "Spring 2023 Regular Season 2023",
+        "tournament_name": "Arabian League Spring 2023 2023"
+    },
+    {
+        "leagueId": "110371976858004496",
+        "leagueLabel": "North Regional League",
+        "stage_name": "Closing 2023 Regular Season 2023",
+        "tournament_name": "North Regional League Closing 2023 2023"
+    },
+    {
+        "leagueId": "110372322609949920",
+        "leagueLabel": "South Regional League",
+        "stage_name": "Closing 2023 Regular Season 2023",
+        "tournament_name": "South Regional League Closing 2023 2023"
+    }
+]

@@ -1,0 +1,150 @@
+[
+    {
+        "leagueId": "98767991314006704",
+        "leagueLabel": "LPL"
+    },
+    {
+        "leagueId": "98767975604431408",
+        "leagueLabel": "Worlds"
+    },
+    {
+        "leagueId": "98767991302996016",
+        "leagueLabel": "LEC"
+    },
+    {
+        "leagueId": "98767991332355504",
+        "leagueLabel": "CBLOL"
+    },
+    {
+        "leagueId": "98767991299243168",
+        "leagueLabel": "LCS"
+    },
+    {
+        "leagueId": "98767991331560960",
+        "leagueLabel": "LCO"
+    },
+    {
+        "leagueId": "98767991343597632",
+        "leagueLabel": "TCL"
+    },
+    {
+        "leagueId": "98767991310872064",
+        "leagueLabel": "LCK"
+    },
+    {
+        "leagueId": "98767991349978720",
+        "leagueLabel": "LJL"
+    },
+    {
+        "leagueId": "101382741235120464",
+        "leagueLabel": "LLA"
+    },
+    {
+        "leagueId": "100695891328981120",
+        "leagueLabel": "EMEA Masters"
+    },
+    {
+        "leagueId": "104366947889790208",
+        "leagueLabel": "PCS"
+    },
+    {
+        "leagueId": "98767991325878496",
+        "leagueLabel": "MSI"
+    },
+    {
+        "leagueId": "105266094998946944",
+        "leagueLabel": "PG Nationals"
+    },
+    {
+        "leagueId": "98767991335774720",
+        "leagueLabel": "LCK Challengers"
+    },
+    {
+        "leagueId": "105266108767593296",
+        "leagueLabel": "Greek Legends League"
+    },
+    {
+        "leagueId": "105266074488398656",
+        "leagueLabel": "SuperLiga"
+    },
+    {
+        "leagueId": "105266088231437424",
+        "leagueLabel": "Ultraliga"
+    },
+    {
+        "leagueId": "105266091639104320",
+        "leagueLabel": "Prime League"
+    },
+    {
+        "leagueId": "105266103462388560",
+        "leagueLabel": "La Ligue Fran\u00e7aise"
+    },
+    {
+        "leagueId": "105266098308571968",
+        "leagueLabel": "NLC"
+    },
+    {
+        "leagueId": "105266111679554384",
+        "leagueLabel": "Esports Balkan League"
+    },
+    {
+        "leagueId": "105266101075764032",
+        "leagueLabel": "Liga Portuguesa"
+    },
+    {
+        "leagueId": "105266106309666624",
+        "leagueLabel": "Hitpoint Masters"
+    },
+    {
+        "leagueId": "98767991355908944",
+        "leagueLabel": "LCL"
+    },
+    {
+        "leagueId": "105549980953490848",
+        "leagueLabel": "CBLOL Academy"
+    },
+    {
+        "leagueId": "105709090213554608",
+        "leagueLabel": "LCO"
+    },
+    {
+        "leagueId": "106827757669296912",
+        "leagueLabel": "LJL Academy"
+    },
+    {
+        "leagueId": "107213827295848784",
+        "leagueLabel": "VCS"
+    },
+    {
+        "leagueId": "107407335299756368",
+        "leagueLabel": "Elite Series"
+    },
+    {
+        "leagueId": "108203770023880320",
+        "leagueLabel": "LCK Academy"
+    },
+    {
+        "leagueId": "107898214974993344",
+        "leagueLabel": "College Championship"
+    },
+    {
+        "leagueId": "109511549831443328",
+        "leagueLabel": "LCS Challengers"
+    },
+    {
+        "leagueId": "109518549825754240",
+        "leagueLabel": "LCS Challengers Qualifiers"
+    },
+    {
+        "leagueId": "109545772895506416",
+        "leagueLabel": "Arabian League"
+    },
+    {
+        "leagueId": "110371976858004496",
+        "leagueLabel": "North Regional League"
+    },
+    {
+        "leagueId": "110372322609949920",
+        "leagueLabel": "South Regional League"
+    }
+]

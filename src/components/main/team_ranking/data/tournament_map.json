@@ -1,131 +1,130 @@
 [
-    {
-      "leagueId": "98767991302996016",
-      "tournament_name": "LEC Season Finals 2023"
-    },
-    {
-      "leagueId": "98767991325878496",
-      "tournament_name": "MSI MSI 2023"
-    },
-    {
-      "leagueId": "100695891328981120",
-      "tournament_name": "EMEA Masters Summer 2023"
-    },
-    {
-      "leagueId": "105266101075764032",
-      "tournament_name": "Liga Portuguesa Summer 2023"
-    },
-    {
-      "leagueId": "105266098308571968",
-      "tournament_name": "NLC Summer 2023"
-    },
-    {
-      "leagueId": "105266108767593296",
-      "tournament_name": "Greek Legends League Summer 2023"
-    },
-    {
-      "leagueId": "107407335299756368",
-      "tournament_name": "Elite Series Summer 2023"
-    },
-    {
-      "leagueId": "105266094998946944",
-      "tournament_name": "PG Nationals Summer 2023"
-    },
-    {
-      "leagueId": "105266111679554384",
-      "tournament_name": "Esports Balkan League Summer 2023"
-    },
-    {
-      "leagueId": "109545772895506416",
-      "tournament_name": "Arabian League Summer 2023"
-    },
-    {
-      "leagueId": "98767991343597632",
-      "tournament_name": "TCL Summer 2023"
-    },
-    {
-      "leagueId": "105266106309666624",
-      "tournament_name": "Hitpoint Masters Summer 2023"
-    },
-    {
-      "leagueId": "105266103462388560",
-      "tournament_name": "La Ligue Franchaise Summer 2023"
-    },
-    {
-      "leagueId": "105266088231437424",
-      "tournament_name": "Ultraliga Summer 2023"
-    },
-    {
-      "leagueId": "105266074488398656",
-      "tournament_name": "SuperLiga Summer 2023"
-    },
-    {
-      "leagueId": "105266091639104320",
-      "tournament_name": "Prime League Summer 2023"
-    },
-    {
-      "leagueId": "104366947889790208",
-      "tournament_name": "PCS Playoffs - Summer 2023"
-    },
-    {
-      "leagueId": "105709090213554608",
-      "tournament_name": "LCO Summer 2023"
-    },
-    {
+  {
       "leagueId": "98767991314006704",
-      "tournament_name": "LPL Regional Finals 2023"
-    },
-    {
-      "leagueId": "109518549825754240",
-      "tournament_name": "LCS Challengers Qualifiers #2 Summer 2023"
-    },
-    {
-      "leagueId": "107213827295848784",
-      "tournament_name": "VCS Summer 2023"
-    },
-    {
-      "leagueId": "106827757669296912",
-      "tournament_name": "LJL Academy 2023"
-    },
-    {
-      "leagueId": "105549980953490848",
-      "tournament_name": "CBLOL Academy CBLOL Academy 2023 Split 2"
-    },
-    {
-      "leagueId": "98767991332355504",
-      "tournament_name": "CBLOL CBLOL 2023 Split 2"
-    },
-    {
-      "leagueId": "109511549831443328",
-      "tournament_name": "LCS Challengers Summer 2023"
-    },
-    {
-      "leagueId": "98767991349978720",
-      "tournament_name": "LJL Summer 2023"
-    },
-    {
-      "leagueId": "98767991310872064",
-      "tournament_name": "LCK Summer 2023"
-    },
-    {
-      "leagueId": "101382741235120464",
-      "tournament_name": "LLA Closing 2023"
-    },
-    {
+      "tournament_name": "LPL Spring 2023"
+  },
+  {
+      "leagueId": "98767991325878496",
+      "tournament_name": "MSI MSI 2023 2023"
+  },
+  {
       "leagueId": "98767991335774720",
-      "tournament_name": "LCK Challengers Summer 2023"
-    },
-    {
+      "tournament_name": "LCK Challengers Spring 2023 2023"
+  },
+  {
+      "leagueId": "105266088231437424",
+      "tournament_name": "Ultraliga Spring 2023 2023"
+  },
+  {
+      "leagueId": "100695891328981120",
+      "tournament_name": "EMEA Masters Main Stage - Spring 2023 2023"
+  },
+  {
+      "leagueId": "105266074488398656",
+      "tournament_name": "SuperLiga Spring 2023 2023"
+  },
+  {
+      "leagueId": "98767991310872064",
+      "tournament_name": "LCK Spring 2023 2023"
+  },
+  {
+      "leagueId": "105266103462388560",
+      "tournament_name": "La Ligue Fran\u00e7aise Spring 2023 2023"
+  },
+  {
+      "leagueId": "105266091639104320",
+      "tournament_name": "Prime League Spring 2023 2023"
+  },
+  {
+      "leagueId": "98767991332355504",
+      "tournament_name": "CBLOL Split 1 2023 2023"
+  },
+  {
+      "leagueId": "98767991302996016",
+      "tournament_name": "LEC Winter 2023 2023"
+  },
+  {
+      "leagueId": "109511549831443328",
+      "tournament_name": "LCS Challengers Spring 2023 2023"
+  },
+  {
+      "leagueId": "109518549825754240",
+      "tournament_name": "LCS Challengers Qualifiers Promotion Spring 2023 2023"
+  },
+  {
+      "leagueId": "105709090213554608",
+      "tournament_name": "LCO Split 1 2023 2023"
+  },
+  {
+      "leagueId": "104366947889790208",
+      "tournament_name": "PCS Playoffs - Spring 2023 2023"
+  },
+  {
+      "leagueId": "105549980953490848",
+      "tournament_name": "CBLOL Academy Split 1 2023 2023"
+  },
+  {
+      "leagueId": "105266098308571968",
+      "tournament_name": "NLC Spring 2023 2023"
+  },
+  {
+      "leagueId": "105266108767593296",
+      "tournament_name": "Greek Legends League Spring 2023 2023"
+  },
+  {
+      "leagueId": "107407335299756368",
+      "tournament_name": "Elite Series Spring 2023 2023"
+  },
+  {
+      "leagueId": "101382741235120464",
+      "tournament_name": "LLA Opening 2023 2023"
+  },
+  {
+      "leagueId": "105266111679554384",
+      "tournament_name": "Esports Balkan League Spring 2023 2023"
+  },
+  {
+      "leagueId": "98767991343597632",
+      "tournament_name": "TCL Spring 2023 2023"
+  },
+  {
+      "leagueId": "105266094998946944",
+      "tournament_name": "PG Nationals Spring 2023 2023"
+  },
+  {
+      "leagueId": "105266101075764032",
+      "tournament_name": "Liga Portuguesa Spring 2023 2023"
+  },
+  {
       "leagueId": "98767991299243168",
-      "tournament_name": "LCS Summer 2023"
-    },
-    {
-      "leagueId": "110372322609949920",
-      "tournament_name": "South Regional League Closing 2023"
-    },
-    {
+      "tournament_name": "LCS Spring 2023 2023"
+  },
+  {
+      "leagueId": "105266106309666624",
+      "tournament_name": "Hitpoint Masters Spring 2023 2023"
+  },
+  {
+      "leagueId": "98767991349978720",
+      "tournament_name": "LJL Spring 2023 2023"
+  },
+  {
+      "leagueId": "109545772895506416",
+      "tournament_name": "Arabian League Spring 2023 2023"
+  },
+  {
+      "leagueId": "107213827295848784",
+      "tournament_name": "VCS Spring 2023 2023"
+  },
+  {
       "leagueId": "110371976858004496",
-      "tournament_name": "North Regional League Closing 2023"
-    }
-  ]
-  
+      "tournament_name": "North Regional League Closing 2023 2023"
+  },
+  {
+      "leagueId": "110372322609949920",
+      "tournament_name": "South Regional League Closing 2023 2023"
+  },
+  {
+      "leagueId": "106827757669296912",
+      "tournament_name": "LJL Academy 2023 2023"
+  }
+]

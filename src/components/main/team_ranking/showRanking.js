@@ -100,14 +100,14 @@ export const ShowRanking = ()=>{
     
         {responseData.map((tournament, index) => {
           
-          let tournamentName = getTournamentName(tournament.tournament_id);
-          console.log(tournamentName)
+         // let tournamentName = getTournamentName(tournament.tournament_id);
+          //console.log(tournamentName)
           if(index==num){
            // setTournament_name(tournament.tournament_name)
           return <div  key={index}>
             <div >
             <Flywheel_Board key={index} data={tournament.team_rankings} 
-            name={tournamentName} 
+            name={tournament.tournament_id} 
             //name={tournamentName}
             index={index} />
         </div>
