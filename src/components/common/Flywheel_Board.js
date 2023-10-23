@@ -11,6 +11,10 @@ export const Flywheel_Board = ({ data, name,index }) => {
   //const itemsPerPage = 5;
   //const ranking = ['ranking_points', 'BLUE', 'RED','ALL'];
 
+  const roundRankingPoints = (team) => {
+    team.ranking_points = Math.round(team.ranking_points);
+  };
+
   useEffect(() => {
     sortingRanking();
   }, [selectedRanking, data, currentPage]);
@@ -32,6 +36,9 @@ export const Flywheel_Board = ({ data, name,index }) => {
   const sortingRanking = () => {
     const sortedData = [...data];
     sortedData.sort((a, b) => b[selectedRanking] - a[selectedRanking]);
+
+     // Round ranking_points for each team
+     sortedData.forEach(roundRankingPoints);
 
     sortedData.forEach((team, index) => {
       team.rank = index + 1;

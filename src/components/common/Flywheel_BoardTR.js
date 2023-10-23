@@ -11,6 +11,10 @@ export const Flywheel_Board = ({ data, name,index }) => {
   const [itemsPerPage, setItemsPerPage] = useState(5);
   //const ranking = ['ranking_points', 'BLUE', 'RED','ALL'];
 
+  const roundRankingPoints = (team) => {
+    team.ranking_points = Math.round(team.ranking_points);
+  };
+
   useEffect(() => {
     //sortingRanking();
   }, [selectedRanking, data, currentPage]);
@@ -32,12 +36,8 @@ export const Flywheel_Board = ({ data, name,index }) => {
 
   const sortingRanking = () => {
     const sortedData = [...data];
-    sortedData.sort((a, b) => b[selectedRanking] - a[selectedRanking]);
-
-    sortedData.forEach((team, index) => {
-      //team.rank = index + 1;
-      
-    });
+    // Round ranking_points for each team
+    sortedData.forEach(roundRankingPoints);
 
     return sortedData;
   };
@@ -75,6 +75,28 @@ export const Flywheel_Board = ({ data, name,index }) => {
   const totalItems = filteredData.length;
   const totalPages = Math.ceil(totalItems / itemsPerPage);
 
+  function removeDuplicateWords(inputString) {
+    // Split the input string into words
+    const words = inputString.split(" ");
+  
+    // Create a Set to store unique words
+    const uniqueWords = new Set();
+  
+    // Iterate through the words and add them to the Set
+    const resultWords = [];
+    for (const word of words) {
+      if (!uniqueWords.has(word)) {
+        uniqueWords.add(word);
+        resultWords.push(word);
+      }
+    }
+  
+    // Join the unique words back into a string
+    const resultString = resultWords.join(" ");
+  
+    return resultString;
+  }
+
   return (
     <div id='flywheel_div'>
       <div className='mb-4'>
@@ -86,7 +108,7 @@ export const Flywheel_Board = ({ data, name,index }) => {
         {
           name && <span
           className="ml-2 px-2 py-1 border border-gray-300 rounded focus:outline-none focus:border-blue-500"
-          > {name}</span>
+          > {removeDuplicateWords(name)}</span>
         }
          </div>
       <div id='button_div' className="flex justify-between items-center mb-4">
