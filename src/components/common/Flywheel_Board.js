@@ -91,7 +91,7 @@ export const Flywheel_Board = ({ data, name,index }) => {
           type="text"
           value={searchTerm}
           onChange={handleSearch}
-          placeholder="Search by code,name,rank"
+          placeholder="Search code,name,rank"
           className="ml-2 p-2 border border-gray-300 rounded focus:outline-none focus:border-blue-500"
         />
       </div>

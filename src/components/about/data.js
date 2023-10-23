@@ -23,7 +23,7 @@ export const profileData = [
         name: 'Sarah Armstrong',
         role: 'Data Science Statistics',
         pic: sarah,
-        education: '"Good At Math!"',
+        education: '"Good At Math"',
         github: 'https://github.com/saraharmstrong314',
         linkdin: 'https://www.linkedin.com/in/saraharmstrong314/',
         devpost: 'https://devpost.com/saraharmstrong314'
@@ -41,7 +41,7 @@ export const profileData = [
         name: 'Mashiour Rahman',
         role: 'Project Manager',
         pic: mash,
-        education: '"Average League Player!"',
+        education: '"Average LOL Player"',
         github: 'https://github.com/mashiourcse',
         linkdin: 'https://www.linkedin.com/in/mashiour-rahman-557b6a16b/',
         devpost: 'https://devpost.com/mashiourcse'
@@ -50,7 +50,7 @@ export const profileData = [
         name: 'Adel Choudria',
         role: `Data Scientist`,
         pic: adel,
-        education: '"Worked In LEC!"',
+        education: '"Worked In LEC"',
         github: '',
         linkdin: 'https://www.linkedin.com/in/adel-chouadria/',
         devpost: 'https://devpost.com/adelchouadria'
@@ -59,7 +59,7 @@ export const profileData = [
         name: 'Tianyi HE',
         role: 'Data Analyst',
         pic: tony,
-        education: '"Worked With Doinb!"',
+        education: '"Worked With Doinb"',
         github: '',
         linkdin: '',
         devpost: 'https://devpost.com/tony1223010910'
@@ -70,7 +70,7 @@ export const profileData = [
         name: 'Sakshi Agarwal',
         role: 'AWS Backend Expert',
         pic: sakshi,
-        education: '"Infosys Dev!"',
+        education: '"Infosys Dev"',
         github: 'https://github.com/sakshi360',
         linkdin: 'https://www.linkedin.com/in/sakshi-agarwal-27404913a/',
         devpost: 'https://devpost.com/agarwal-sakshi360'
@@ -80,7 +80,7 @@ export const profileData = [
         name: 'Rishab Saxena',
         role: 'AWS Sagemaker',
         pic: rishab,
-        education: '"Sagemaker!"',
+        education: '"Sagemaker"',
         github: '',
         linkdin: 'https://www.linkedin.com/in/saxena-rishabh/',
         devpost: 'https://devpost.com/saxenarishabh100'

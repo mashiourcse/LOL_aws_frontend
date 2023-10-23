@@ -30,6 +30,7 @@ import {
           </div>
           <Typography color="gray">
             <p>{profileData.role} </p>
+            <br></br>
             <p><b>{profileData.education}</b></p>
             
           </Typography>

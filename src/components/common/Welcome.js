@@ -64,7 +64,7 @@ const Welcome = () => {
         </Typography>
       </CardBody>
       <CardFooter className="pt-0">
-      <a href='https://www.google.com' target='_blank' rel="noreferrer" ><Button className="mr-2">Project Documentation</Button></a>
+      <a href='https://docs.google.com/document/d/10BtAbDFDfvNq25Vu8IuDFg-ACSqIsDPAxpZiAQnet5Q' target='_blank' rel="noreferrer" ><Button className="mr-2">Project Documentation</Button></a>
       <a href='/about'  ><Button className="mr-2">About Team</Button></a>        
       </CardFooter>
     </Card>
