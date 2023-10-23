@@ -55,7 +55,7 @@ const Welcome = () => {
       </p>
       <br></br>
       <p>
-        Our six-person team team consists of UI Architect (<b>Mashiour</b>), Data Science Statistics (<b>Sarah</b>), Data Analyst (<b>Tony</b>), Data Scientist (<b>Adel</b>), AWS Backend Dev (<b>Sakshi</b>), AWS Sagemaker (<b>Rishab</b>). 
+        Our six-person team team consists of UI Architect & Project Manager (<b>Mashiour</b>), Data Science Statistics (<b>Sarah</b>), Data Analyst (<b>Tony</b>), Data Scientist (<b>Adel</b>), AWS Backend Dev (<b>Sakshi</b>), AWS Sagemaker (<b>Rishab</b>). 
       The team leveraged AWS and machine learning algorithms as much as possible to provide this website and our ratings for review. We can't wait to hear what you think of our work, and we look forward to improving the ranking system beyond the Hackathon.
 
       </p>
