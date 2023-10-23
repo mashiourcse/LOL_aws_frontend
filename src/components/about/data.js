@@ -50,7 +50,7 @@ export const profileData = [
         name: 'Adel Choudria',
         role: `Data Scientist`,
         pic: adel,
-        education: '"Interviewed Jankos in 2013"',
+        education: '"Interviewed Jankos"',
         github: '',
         linkdin: 'https://www.linkedin.com/in/adel-chouadria/',
         devpost: 'https://devpost.com/adelchouadria'
